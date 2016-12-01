@@ -16,7 +16,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".CurrencyList" />
-
+        <activity android:name=".LoginActivity">
+        </activity>
+        <activity android:name=".RegisterActivity"></activity>
     </application>
 
 </manifest>

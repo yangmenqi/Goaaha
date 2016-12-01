@@ -42,9 +42,9 @@ public class CurrencyAdapter extends BaseAdapter {
         }
         ImageView ivIcon = (ImageView)view.findViewById(R.id.IvIcon);
         ivIcon.setImageResource(country.get(i).getUrl());
-        TextView TvName = (TextView) view.findViewById(R.id.TvName);
+        TextView TvName = (TextView)view.findViewById(R.id.TvName);
         TvName.setText(country.get(i).getName());
-        TextView TvCurrency = (TextView) view.findViewById(R.id.TvCurrency);
+        TextView TvCurrency = (TextView)view.findViewById(R.id.TvCurrency);
         TvCurrency.setText(country.get(i).getCurrency());
 
         return view;

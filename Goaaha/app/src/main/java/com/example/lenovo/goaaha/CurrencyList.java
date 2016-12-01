@@ -38,7 +38,7 @@ public class CurrencyList extends AppCompatActivity {
             }
         });
 
-        back = (ImageView) findViewById(R.id.back) ;
+        back = (ImageView)findViewById(R.id.back) ;
         back.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

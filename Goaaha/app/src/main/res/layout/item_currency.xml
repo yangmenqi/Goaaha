@@ -5,12 +5,12 @@
     android:layout_height="match_parent">
     <ImageView
         android:id="@+id/IvIcon"
-        android:layout_width="60dp"
-        android:layout_height="60dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
         android:scaleType="fitXY"
-        android:layout_marginLeft="30dp"
-        android:layout_marginTop="@dimen/activity_vertical_margin1"
-        android:layout_marginBottom="@dimen/activity_vertical_margin1"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
         android:src="@drawable/china"/>
     <TextView
         android:id="@+id/TvName"
@@ -20,7 +20,7 @@
         android:layout_marginTop="25dp"
         android:text="CNY"
         android:textColor="#000000"
-        android:textSize="20sp" />
+        android:textSize="19sp" />
     <TextView
         android:id="@+id/TvCurrency"
         android:layout_width="wrap_content"
@@ -29,5 +29,5 @@
         android:textColor="#000000"
         android:layout_marginTop="25dp"
         android:layout_marginLeft="100dp"
-        android:textSize="20sp" />
+        android:textSize="19sp" />
 </LinearLayout>

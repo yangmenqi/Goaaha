@@ -44,6 +44,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginLeft="30dp">
             <ImageView
+                android:id="@+id/country1"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:src="@drawable/china"/>
@@ -84,6 +85,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginLeft="30dp">
             <ImageView
+                android:id="@+id/country2"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:src="@drawable/usa"/>

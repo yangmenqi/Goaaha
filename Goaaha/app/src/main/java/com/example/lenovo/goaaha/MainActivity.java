@@ -116,6 +116,7 @@ public class MainActivity extends AppCompatActivity {
                 case R.id.map:
                     if(mMap == null){
                         mMap = new MapFragment();
+                        mMap.setContext(getApplicationContext());
                     }
                     mMap = new MapFragment();
                     //3.设置页面

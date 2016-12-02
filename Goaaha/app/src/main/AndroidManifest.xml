@@ -27,7 +27,13 @@
             </intent-filter>
         </activity>
         <activity android:name=".CurrencyList" />
+<<<<<<< HEAD
         <activity android:name=".MapActivity"/>
+=======
+        <activity android:name=".LoginActivity">
+        </activity>
+        <activity android:name=".RegisterActivity"></activity>
+>>>>>>> 76dc1867cbd8bf442d2abed77077b3ed76a80a43
     </application>
 
 </manifest>

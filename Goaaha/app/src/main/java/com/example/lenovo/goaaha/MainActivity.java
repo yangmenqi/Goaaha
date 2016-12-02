@@ -118,9 +118,9 @@ public class MainActivity extends AppCompatActivity {
                         mMap = new MapFragment();
                         mMap.setContext(getApplicationContext());
                     }
-                    mMap = new MapFragment();
                     //3.设置页面
                     transaction.replace(R.id.contaner,mMap);
+
                     chatImg.setImageResource(R.drawable.chat);
                     currencyImg.setImageResource(R.drawable.currency);
                     mapImg.setImageResource(R.drawable.map1);

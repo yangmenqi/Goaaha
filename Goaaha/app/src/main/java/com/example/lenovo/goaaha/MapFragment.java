@@ -31,29 +31,19 @@ public class MapFragment extends Fragment {
     @Override
     public void onActivityCreated(Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
-        initId();
-        setListener();
-    }
 
-    private void setListener() {
-        MyListener listener = new MyListener();
-        btnmap.setOnClickListener(listener);
-    }
-
-    private void initId() {
         btnmap=(Button)view.findViewById(R.id.btnmap);
+        //采用匿名内部类的方式，给按钮组件对象注册事件监听器
+        btnmap.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i=new Intent();
+                i.setClass(context,MapsActivity.class);
+                i.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                context.startActivity(i);
+            }
+        });
     }
 
-    private class MyListener implements View.OnClickListener{
-        @Override
-        public void onClick(View v) {
-            Intent i = new Intent();
-            switch (v.getId()){
-                case R.id.btnmap:
-                    i.setClass(getContext(),MapActivity.class);
-                    break;
-            }
-            startActivity(i);
-        }
-    }
+
 }

@@ -1,6 +1,6 @@
 package com.example.lenovo.goaaha;
 
-import android.app.Fragment;
+import android.support.v4.app.Fragment;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -18,7 +18,7 @@ import java.util.List;
 /**
  * Created by Lenovo on 2016/11/7.
  */
-public class CurrencyFragment extends Fragment {
+public class  CurrencyFragment extends Fragment {
     private ImageView country1;
     private ImageView country2;
     @Nullable

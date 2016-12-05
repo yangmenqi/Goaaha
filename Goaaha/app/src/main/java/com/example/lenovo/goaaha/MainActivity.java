@@ -1,5 +1,8 @@
 package com.example.lenovo.goaaha;
 
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -64,9 +67,9 @@ public class MainActivity extends AppCompatActivity {
     //设置默认的页面（fragment页面）
     private void setDefaultPage(){
         //1.获取一个FragmentManager对象
-        android.app.FragmentManager fm = getFragmentManager();
+        FragmentManager fm = getSupportFragmentManager();
         //2.获取FragmentTransaction对象
-        android.app.FragmentTransaction transaction = fm.beginTransaction();
+        FragmentTransaction transaction = fm.beginTransaction();
         mChat = new ChatFragment();
         //3.设置页面
         transaction.replace(R.id.contaner,mChat);
@@ -77,9 +80,9 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public void onClick(View v) {
             //1.获取一个FragmentManager对象
-            android.app.FragmentManager fm = getFragmentManager();
+            FragmentManager fm = getSupportFragmentManager();
             //2.获取FragmentTransaction对象
-            android.app.FragmentTransaction transaction = fm.beginTransaction();
+            FragmentTransaction transaction = fm.beginTransaction();
             switch (v.getId()){
                 case R.id.chat:
                     if(mChat == null){
@@ -116,10 +119,11 @@ public class MainActivity extends AppCompatActivity {
                 case R.id.map:
                     if(mMap == null){
                         mMap = new MapFragment();
+                        mMap.setContext(getApplicationContext());
                     }
-                    mMap = new MapFragment();
                     //3.设置页面
                     transaction.replace(R.id.contaner,mMap);
+
                     chatImg.setImageResource(R.drawable.chat);
                     currencyImg.setImageResource(R.drawable.currency);
                     mapImg.setImageResource(R.drawable.map1);

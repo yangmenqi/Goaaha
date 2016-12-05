@@ -23,8 +23,12 @@
             android:textStyle="bold"
             android:text="地图" />
     </LinearLayout>
-    <TextView
+
+    <Button
+        android:id="@+id/btnmap"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="这是地图界面"/>
+        android:layout_height="wrap_content"
+        android:text="点击进入"
+        />
+
 </LinearLayout>

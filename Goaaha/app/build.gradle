@@ -1,9 +1,22 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 24
-    buildToolsVersion "24.0.2"
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
 
+    signingConfigs {
+        config {
+            keyAlias 'Key'
+            keyPassword '108735'
+            storeFile file('D:/baidu/Android/key/keystore8.jks')
+            storePassword '108735'
+        }
+    }
+    compileSdkVersion 24
+    buildToolsVersion "24.0.1"
     defaultConfig {
         applicationId "com.example.lenovo.goaaha"
         minSdkVersion 19
@@ -20,7 +33,8 @@ android {
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile fileTree(include: ['*.jar'], dir: 'libs')
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:24.2.0'
+    compile files('libs/BaiduLBS_Android.jar')
 }

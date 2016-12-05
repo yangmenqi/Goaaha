@@ -41,7 +41,7 @@ public class Country {
         return Currency;
     }
 
-    public void setPrice(String currency) {
+    public void setCurrency(String currency) {
         Currency = currency;
     }
 }

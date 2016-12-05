@@ -1,8 +1,6 @@
 package com.example.lenovo.goaaha;
 
-import android.support.v4.app.FragmentManager;
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentTransaction;
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -67,12 +65,41 @@ public class MainActivity extends AppCompatActivity {
     //设置默认的页面（fragment页面）
     private void setDefaultPage(){
         //1.获取一个FragmentManager对象
-        FragmentManager fm = getSupportFragmentManager();
+        android.app.FragmentManager fm = getFragmentManager();
         //2.获取FragmentTransaction对象
-        FragmentTransaction transaction = fm.beginTransaction();
+        android.app.FragmentTransaction transaction = fm.beginTransaction();
         mChat = new ChatFragment();
+        mCurrency = new CurrencyFragment();
         //3.设置页面
-        transaction.replace(R.id.contaner,mChat);
+        Intent intent=getIntent();
+        int id = intent.getIntExtra("fragid",-1);
+        if(id>0){
+            if(id==1){
+                //接受上一页面传值，并赋值
+                String name1 = intent.getStringExtra("name1");
+                String currency1 = intent.getStringExtra("currency1");
+                String name2 = intent.getStringExtra("name2");
+                String currency2 = intent.getStringExtra("currency2");
+                intent.putExtra("name1",name1);
+                intent.putExtra("currency1",currency1);
+                intent.putExtra("name2",name2);
+                intent.putExtra("currency2",currency2);
+
+                transaction.replace(R.id.contaner,mCurrency);
+                chatImg.setImageResource(R.drawable.chat);
+                currencyImg.setImageResource(R.drawable.currency1);
+                mapImg.setImageResource(R.drawable.map);
+                mineImg.setImageResource(R.drawable.mine);
+                chatTv.setTextColor(getResources().getColor(R.color.LightGray));
+                currencyTv.setTextColor(getResources().getColor(R.color.Maincolor));
+                mapTv.setTextColor(getResources().getColor(R.color.LightGray));
+                mineTv.setTextColor(getResources().getColor(R.color.LightGray));
+
+                transaction.replace(R.id.contaner,mCurrency); //这里是指定跳转到指定的fragment
+            }
+        }
+        else
+            transaction.replace(R.id.contaner,mChat);
         //4.执行更改
         transaction.commit();
     }
@@ -80,9 +107,9 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public void onClick(View v) {
             //1.获取一个FragmentManager对象
-            FragmentManager fm = getSupportFragmentManager();
+            android.app.FragmentManager fm = getFragmentManager();
             //2.获取FragmentTransaction对象
-            FragmentTransaction transaction = fm.beginTransaction();
+            android.app.FragmentTransaction transaction = fm.beginTransaction();
             switch (v.getId()){
                 case R.id.chat:
                     if(mChat == null){
@@ -119,11 +146,10 @@ public class MainActivity extends AppCompatActivity {
                 case R.id.map:
                     if(mMap == null){
                         mMap = new MapFragment();
-                        mMap.setContext(getApplicationContext());
                     }
+                    mMap = new MapFragment();
                     //3.设置页面
                     transaction.replace(R.id.contaner,mMap);
-
                     chatImg.setImageResource(R.drawable.chat);
                     currencyImg.setImageResource(R.drawable.currency);
                     mapImg.setImageResource(R.drawable.map1);

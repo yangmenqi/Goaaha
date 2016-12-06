@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
+<RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:orientation="vertical"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@drawable/mmmap">
     <LinearLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
@@ -23,8 +24,14 @@
             android:textStyle="bold"
             android:text="地图" />
     </LinearLayout>
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="这是地图界面"/>
-</LinearLayout>
+        <Button
+            android:id="@+id/btnmap"
+            android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+            android:background="#fbe8d7"
+            android:layout_marginTop="495dp"
+            android:layout_marginLeft="150dp"
+            android:text="开启地图"
+            android:textSize="35px"
+            />
+    </RelativeLayout>

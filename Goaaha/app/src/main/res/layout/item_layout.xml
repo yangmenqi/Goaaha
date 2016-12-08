@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/IvImg"
+        android:layout_marginTop="6dp"
+        android:layout_marginLeft="10dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/a"/>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="230dp"
+        android:layout_height="63dp">
+        <TextView
+            android:layout_marginTop="6dp"
+            android:layout_marginLeft="6dp"
+            android:id="@+id/TvName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="名字："
+            android:textSize="20dp"/>
+        <TextView
+            android:id="@+id/TvContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="11dp"
+            android:layout_marginLeft="6dp"
+            android:text="内容："
+            android:textSize="10dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/TvTime"
+            android:layout_marginTop="11dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="时间："
+            android:textSize="10dp"/>
+    </LinearLayout>
+</LinearLayout>

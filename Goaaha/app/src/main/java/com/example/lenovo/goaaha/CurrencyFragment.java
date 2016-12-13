@@ -65,16 +65,41 @@ public class CurrencyFragment extends Fragment {
 
         if(name1.getText().equals("CNY")){country1.setImageResource(R.drawable.china);}
         if(name1.getText().equals("HKD")){country1.setImageResource(R.drawable.china);}
+        if(name1.getText().equals("MOP")){country1.setImageResource(R.drawable.china);}
         if(name1.getText().equals("USD")){country1.setImageResource(R.drawable.usa);}
-        if(name1.getText().equals("KRW")){country1.setImageResource(R.drawable.south_korea);}
+        if(name1.getText().equals("EUR")){country1.setImageResource(R.drawable.italy);}
         if(name1.getText().equals("JPY")){country1.setImageResource(R.drawable.japan);}
+        if(name1.getText().equals("GBP")){country1.setImageResource(R.drawable.uk);}
+        if(name1.getText().equals("AUD")){country1.setImageResource(R.drawable.australia);}
         if(name1.getText().equals("CAD")){country1.setImageResource(R.drawable.canada);}
+        if(name1.getText().equals("THB")){country1.setImageResource(R.drawable.thailand);}
+        if(name1.getText().equals("SGD")){country1.setImageResource(R.drawable.singapore);}
+        if(name1.getText().equals("DKK")){country1.setImageResource(R.drawable.denmark);}
+        if(name1.getText().equals("SEK")){country1.setImageResource(R.drawable.sweden);}
+        if(name1.getText().equals("CHF")){country1.setImageResource(R.drawable.switzerland);}
+        if(name1.getText().equals("KRW")){country1.setImageResource(R.drawable.south_korea);}
+        if(name1.getText().equals("MYR")){country1.setImageResource(R.drawable.malaysia);}
+        if(name1.getText().equals("NZD")){country1.setImageResource(R.drawable.new_zealand);}
+        if(name1.getText().equals("ZAR")){country1.setImageResource(R.drawable.south_africa);}
+
         if(name2.getText().equals("CNY")){country2.setImageResource(R.drawable.china);}
         if(name2.getText().equals("HKD")){country2.setImageResource(R.drawable.china);}
+        if(name2.getText().equals("MOP")){country2.setImageResource(R.drawable.china);}
         if(name2.getText().equals("USD")){country2.setImageResource(R.drawable.usa);}
-        if(name2.getText().equals("KRW")){country2.setImageResource(R.drawable.south_korea);}
+        if(name2.getText().equals("EUR")){country2.setImageResource(R.drawable.italy);}
         if(name2.getText().equals("JPY")){country2.setImageResource(R.drawable.japan);}
+        if(name2.getText().equals("GBP")){country2.setImageResource(R.drawable.uk);}
+        if(name2.getText().equals("AUD")){country2.setImageResource(R.drawable.australia);}
         if(name2.getText().equals("CAD")){country2.setImageResource(R.drawable.canada);}
+        if(name2.getText().equals("THB")){country2.setImageResource(R.drawable.thailand);}
+        if(name2.getText().equals("SGD")){country2.setImageResource(R.drawable.singapore);}
+        if(name2.getText().equals("DKK")){country2.setImageResource(R.drawable.denmark);}
+        if(name2.getText().equals("SEK")){country2.setImageResource(R.drawable.sweden);}
+        if(name2.getText().equals("CHF")){country2.setImageResource(R.drawable.switzerland);}
+        if(name2.getText().equals("KRW")){country2.setImageResource(R.drawable.south_korea);}
+        if(name2.getText().equals("MYR")){country2.setImageResource(R.drawable.malaysia);}
+        if(name2.getText().equals("NZD")){country2.setImageResource(R.drawable.new_zealand);}
+        if(name2.getText().equals("ZAR")){country2.setImageResource(R.drawable.south_africa);}
 
         country1.setOnClickListener(new View.OnClickListener() {
             @Override

@@ -39,6 +39,10 @@
             android:name=".Pop_menu"
             android:theme="@style/MyDialogStyleTop"/>
         <activity android:name=".ChatroomActivity"/>
+        <activity android:name=".MineDetailsActivity"></activity>
+        <activity android:name=".SettingsActivity"></activity>
+        <activity android:name=".AboutActivity"></activity>
+        <activity android:name=".ExitActivity"></activity>
     </application>
 
 </manifest>

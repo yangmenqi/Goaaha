@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.activity_main);
+        getSupportActionBar().hide();
         //1.获取界面的控件
         getViews();
         //2.注册事件监听器
@@ -150,7 +151,7 @@ public class MainActivity extends AppCompatActivity {
                         mMap = new MapFragment();
                         mMap.setContext(getApplicationContext());
                     }
-                    mMap = new MapFragment();
+//                    mMap = new MapFragment();
                     //3.设置页面
                     transaction.replace(R.id.contaner,mMap);
                     chatImg.setImageResource(R.drawable.chat);

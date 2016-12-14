@@ -4,6 +4,9 @@
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimaryDark">@color/Maincolor</item>
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">false</item>
+        <item name="colorPrimary">@color/btn_register_pressed</item>
     </style>
     <style name="MyDialogStyleTop">
         <item name="android:windowFrame">@null</item><!-- 边框 -->

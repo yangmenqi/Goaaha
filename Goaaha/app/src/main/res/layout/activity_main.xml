@@ -1,112 +1,153 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/ll"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    tools:context="com.example.lenovo.goaaha.MainActivity">
-    <FrameLayout
-        android:id="@+id/contaner"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="5">
-    </FrameLayout>
-    <View
-        android:layout_width="match_parent"
-        android:layout_height="1dp"
-        android:layout_marginBottom="8dp"
-        android:background="@color/LightGray2"/>
+    android:background="@color/common_bg" >
+
     <LinearLayout
+        android:id="@+id/main_bottom"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="#f8f8f8"
-        android:layout_marginBottom="3dp"
-        android:gravity="bottom">
-        <LinearLayout
-            android:id="@+id/chat"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="35dp"
-            android:orientation="vertical">
-            <ImageView
-                android:id="@+id/chatimg"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/bottom_bar_normal_bg"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/btn_container_conversation"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <Button
+                android:id="@+id/btn_conversation"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/main_bottom_item_bg"
+                android:drawableTop="@drawable/tab_chat_bg"
+                android:onClick="onTabClicked"
+                android:paddingBottom="2dip"
+                android:paddingTop="7dip"
+                android:scaleType="matrix"
+                android:text="@string/session"
+                android:textColor="@color/main_botton_text_color"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/unread_msg_number"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/chat1"/>
-            <TextView
-                android:id="@+id/chattext"
-                android:layout_width="28dp"
-                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/unread_count_bg"
                 android:gravity="center"
-                android:text="聊天"
-                android:textSize="14dp"
-                android:textColor="@color/Maincolor"/>
-        </LinearLayout>
-        <LinearLayout
-            android:id="@+id/currency"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="50dp"
-            android:orientation="vertical">
-            <ImageView
-                android:id="@+id/currencyimg"
+                android:text="7"
+                android:textColor="@android:color/white"
+                android:textSize="12sp"
+                android:visibility="invisible" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/btn_container_address_list"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <Button
+                android:id="@+id/btn_address_list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/main_bottom_item_bg"
+                android:drawableTop="@drawable/tab_contact_list_bg"
+                android:onClick="onTabClicked"
+                android:paddingBottom="2dip"
+                android:paddingTop="7dip"
+                android:scaleType="matrix"
+                android:text="@string/address_book"
+                android:textColor="@color/main_botton_text_color"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/unread_address_number"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="8dp"
-                android:src="@drawable/currency"/>
-            <TextView
-                android:id="@+id/currencytext"
-                android:layout_width="45dp"
-                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/unread_count_bg"
                 android:gravity="center"
-                android:text="货币"
-                android:textSize="14dp"
-                android:layout_marginTop="4dp"
-                android:textColor="@color/LightGray"/>
-        </LinearLayout>
-        <LinearLayout
-            android:id="@+id/map"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="50dp"
-            android:orientation="vertical">
-            <ImageView
-                android:id="@+id/mapimg"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="5dp"
-                android:src="@drawable/map"/>
-            <TextView
-                android:id="@+id/maptext"
-                android:layout_width="40dp"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:text="地图"
-                android:textSize="14dp"
-                android:textColor="@color/LightGray"/>
-        </LinearLayout>
-        <LinearLayout
-            android:id="@+id/mine"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="50dp"
-            android:orientation="vertical">
-            <ImageView
-                android:id="@+id/mineimg"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="5dp"
-                android:src="@drawable/mine"/>
-            <TextView
-                android:id="@+id/minetext"
-                android:layout_width="30dp"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:text="我的"
-                android:textSize="14dp"
-                android:textColor="@color/LightGray"/>
-        </LinearLayout>
+                android:text="7"
+                android:textColor="@android:color/white"
+                android:textSize="12sp"
+                android:visibility="invisible" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/btn_container_currency"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <Button
+                android:id="@+id/btn_currency"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/main_bottom_item_bg"
+                android:drawableTop="@drawable/tab_currency_bg"
+                android:onClick="onTabClicked"
+                android:paddingBottom="2dip"
+                android:paddingTop="7dip"
+                android:scaleType="matrix"
+                android:text="@string/currency"
+                android:textColor="@color/main_botton_text_color"
+                android:textSize="12sp" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/btn_container_map"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <Button
+                android:id="@+id/btn_map"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/main_bottom_item_bg"
+                android:drawableTop="@drawable/tab_map_bg"
+                android:onClick="onTabClicked"
+                android:paddingBottom="2dip"
+                android:paddingTop="7dip"
+                android:scaleType="matrix"
+                android:text="@string/map"
+                android:textColor="@color/main_botton_text_color"
+                android:textSize="12sp" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/btn_container_setting"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <Button
+                android:id="@+id/btn_setting"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/main_bottom_item_bg"
+                android:drawableTop="@drawable/tab_setting_bg"
+                android:onClick="onTabClicked"
+                android:paddingBottom="2dip"
+                android:paddingTop="7dip"
+                android:scaleType="matrix"
+                android:text="@string/setting"
+                android:textColor="@color/main_botton_text_color"
+                android:textSize="12sp" />
+        </RelativeLayout>
     </LinearLayout>
-</LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/main_bottom" />
+
+</RelativeLayout>

@@ -151,7 +151,6 @@ public class MainActivity extends AppCompatActivity {
                         mMap = new MapFragment();
                         mMap.setContext(getApplicationContext());
                     }
-//                    mMap = new MapFragment();
                     //3.设置页面
                     transaction.replace(R.id.contaner,mMap);
                     chatImg.setImageResource(R.drawable.chat);

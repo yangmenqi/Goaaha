@@ -9,4 +9,8 @@
         android:id="@+id/id_menu_map_style"
         android:title="地图模式【正常】"
         app:showAsAction="never"/>
+    <item
+        android:id="@+id/id_menu_map_search"
+        android:title="POI搜索"
+        app:showAsAction="never"/>
 </menu>

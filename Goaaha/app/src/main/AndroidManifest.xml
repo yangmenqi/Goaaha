@@ -32,7 +32,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".CurrencyList" />
-        <activity android:name=".MapsActivity"/>
         <activity android:name=".LoginActivity"></activity>
         <activity android:name=".RegisterActivity"></activity>
         <activity
@@ -43,6 +42,8 @@
         <activity android:name=".SettingsActivity"></activity>
         <activity android:name=".AboutActivity"></activity>
         <activity android:name=".ExitActivity"></activity>
+        <activity android:name=".PoiSearchDemo"></activity>
+        <activity android:name=".LocationDemo"></activity>
     </application>
 
 </manifest>

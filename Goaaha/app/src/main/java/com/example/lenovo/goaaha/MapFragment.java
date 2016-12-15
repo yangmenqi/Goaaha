@@ -37,7 +37,7 @@ public class MapFragment extends Fragment {
             @Override
             public void onClick(View v) {
                 Intent i=new Intent();
-                i.setClass(context,MapsActivity.class);
+                i.setClass(context,LocationDemo.class);
                 i.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                 context.startActivity(i);
             }

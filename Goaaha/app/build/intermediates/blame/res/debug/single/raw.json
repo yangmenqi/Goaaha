@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\outgoing.ogg",
+        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\raw\\outgoing.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\outgoing.ogg",
+        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\raw\\outgoing.ogg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\outgoing.ogg",
+        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\raw\\outgoing.ogg"
+    }
+]

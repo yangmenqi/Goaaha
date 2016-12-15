@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
+        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\menu\\context_tab_contact.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
+        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\menu\\context_contact_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_message.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\menu\\delete_message.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_message.xml",
+        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\menu\\delete_message.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\remove_from_blacklist.xml",
+        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\menu\\remove_from_blacklist.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_contact.xml",
+        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\menu\\delete_contact.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_contact.xml",
+        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\menu\\delete_contact.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
+        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\menu\\context_contact_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\remove_from_blacklist.xml",
+        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\menu\\remove_from_blacklist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\remove_from_blacklist.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\menu\\remove_from_blacklist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\menu\\context_contact_list.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_message.xml",
+        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\menu\\delete_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\menu\\context_tab_contact.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
+        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\menu\\context_tab_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_contact.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\menu\\delete_contact.xml"
+    }
+]

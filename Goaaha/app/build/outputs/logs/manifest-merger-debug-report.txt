@@ -1,0 +1,501 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:2:1-311:12
+	package
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:11:22-63
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.CAMERA
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:14:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:17:5-84
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:17:22-81
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:19:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:20:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:21:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:23:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:24:5-75
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:24:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:26:5-71
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:26:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:27:5-74
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:27:22-71
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:28:5-74
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:28:22-71
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:29:5-80
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:29:22-77
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:30:5-85
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:30:22-82
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:31:5-75
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:31:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:32:5-73
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:32:22-70
+application
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:34:5-309:19
+	android:label
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:38:9-41
+	android:allowBackup
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:36:9-35
+	android:icon
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:37:9-46
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:35:9-39
+activity#com.easemob.chatuidemo.activity.MainActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:39:9-45:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:42:13-49
+	android:launchMode
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:41:13-44
+	android:windowSoftInputMode
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:44:13-52
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:43:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:40:13-50
+activity#com.easemob.chatuidemo.activity.SplashActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:48:9-57:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:50:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:51:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:49:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:52:13-56:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:55:17-77
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:55:27-74
+activity#com.easemob.chatuidemo.activity.LoginActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:60:9-65:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:62:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:64:13-68
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:63:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:61:13-51
+activity#com.easemob.chatuidemo.activity.RegisterActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:68:9-73:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:70:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:72:13-68
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:71:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:69:13-54
+activity#com.easemob.chatuidemo.activity.ChatActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:75:9-81:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:78:13-49
+	android:launchMode
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:77:13-43
+	android:windowSoftInputMode
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:80:13-55
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:79:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:76:13-50
+activity#com.easemob.chatuidemo.activity.AddContactActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:83:9-88:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:85:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:86:13-55
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:87:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:84:13-56
+activity#com.easemob.chatuidemo.activity.GroupDetailsActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:90:9-94:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:92:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:93:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:91:13-58
+activity#com.easemob.chatuidemo.activity.GroupsActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:96:9-101:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:98:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:100:13-52
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:99:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:97:13-52
+activity#com.easemob.chatuidemo.activity.ChatRoomActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:103:9-108:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:105:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:107:13-52
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:106:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:104:13-54
+activity#com.easemob.chatuidemo.activity.ChatRoomDetailsActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:110:9-114:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:112:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:113:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:111:13-61
+activity#com.easemob.chatuidemo.activity.NewGroupActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:117:9-122:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:119:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:121:13-52
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:120:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:118:13-54
+activity#com.easemob.chatuidemo.activity.ExitGroupDialog
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:124:9-128:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:126:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:127:13-55
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:125:13-53
+activity#com.easemob.chatuidemo.activity.GroupPickContactsActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:130:9-135:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:132:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:134:13-52
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:133:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:131:13-63
+activity#com.easemob.chatuidemo.activity.BaiduMapActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:137:9-141:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:139:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:140:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:138:13-76
+activity#com.easemob.chatuidemo.activity.NewFriendsMsgActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:144:9-148:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:146:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:147:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:145:13-59
+activity#com.easemob.chatuidemo.activity.ForwardMessageActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:150:9-155:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:152:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:154:13-52
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:153:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:151:13-60
+activity#com.easemob.chatuidemo.activity.ContextMenu
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:157:9-161:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:159:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:160:13-49
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:158:13-49
+activity#com.easemob.chatuidemo.activity.AlertDialog
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:163:9-167:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:165:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:166:13-49
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:164:13-49
+activity#com.easemob.chatuidemo.activity.ShowBigImage
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:169:9-173:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:171:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:172:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:170:13-50
+activity#com.easemob.chatuidemo.activity.ShowNormalFileActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:175:9-179:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:177:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:178:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:176:13-60
+activity#com.easemob.chatuidemo.activity.BlacklistActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:181:9-185:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:183:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:184:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:182:13-55
+activity#com.easemob.chatuidemo.activity.PublicGroupsActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:188:9-193:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:190:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:192:13-52
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:191:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:189:13-58
+activity#com.easemob.chatuidemo.activity.PublicChatRoomsActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:195:9-200:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:197:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:199:13-52
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:198:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:196:13-61
+activity#com.easemob.chatuidemo.activity.VoiceCallActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:203:9-207:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:205:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:206:13-48
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:204:13-55
+activity#com.easemob.chatuidemo.activity.VideoCallActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:209:9-214:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:212:13-49
+	android:configChanges
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:211:13-74
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:213:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:210:13-55
+activity#com.easemob.chatuidemo.activity.GroupSimpleDetailActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:216:9-220:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:218:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:219:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:217:13-63
+activity#com.easemob.chatuidemo.activity.GroupBlacklistActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:222:9-226:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:224:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:225:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:223:13-60
+activity#com.easemob.chatuidemo.activity.PublicGroupsSeachActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:227:9-231:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:229:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:230:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:228:13-63
+activity#com.easemob.chatuidemo.activity.EditActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:232:9-237:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:234:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:236:13-55
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:235:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:233:13-50
+activity#com.easemob.chatuidemo.activity.ShowVideoActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:238:9-243:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:240:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:242:13-60
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:241:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:239:13-55
+activity#com.easemob.chatuidemo.activity.ImageGridActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:245:9-250:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:247:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:249:13-60
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:248:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:246:13-55
+activity#com.easemob.chatuidemo.activity.RecorderVideoActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:251:9-256:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:253:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:255:13-60
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:254:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:252:13-59
+activity#com.easemob.chatuidemo.activity.DiagnoseActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:258:9-263:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:260:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:262:13-60
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:261:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:259:13-54
+activity#com.easemob.chatuidemo.activity.OfflinePushNickActivity
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:266:9-271:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:268:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:270:13-60
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:269:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:267:13-61
+activity#com.easemob.chatuidemo.activity.CurrencyList
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:274:9-277:20
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:276:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:275:13-50
+receiver#com.easemob.chat.StartServiceReceiver
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:280:9-287:20
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:280:19-71
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.QUICKBOOT_POWERON+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:281:13-286:29
+	android:priority
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:281:28-51
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:282:17-79
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:282:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:283:17-82
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:283:25-79
+meta-data#EASEMOB_APPKEY
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:290:9-292:55
+	android:value
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:292:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:291:13-42
+service#com.easemob.chat.EMChatService
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:294:9-66
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:294:18-63
+service#com.baidu.location.f
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:297:9-300:41
+	android:enabled
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:299:13-35
+	android:process
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:300:13-38
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:298:13-48
+meta-data#UMENG_APPKEY
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:302:9-305:21
+	android:value
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:304:13-53
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:303:13-40
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:306:9-308:64
+	android:value
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:308:13-61
+	android:name
+		ADDED from D:\AndroidStudioProjects\ChatDemoUI1\app\src\main\AndroidManifest.xml:307:13-52

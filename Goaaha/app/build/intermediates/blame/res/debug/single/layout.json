@@ -292,6 +292,10 @@
         "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_baidumap.xml"
     },
     {
+        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_information.xml",
+        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_information.xml"
+    },
+    {
         "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_settings.xml",
         "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_conversation_settings.xml"
     },
@@ -554,10 +558,6 @@
     {
         "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit.xml",
         "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_edit.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_push.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_offline_push.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friends_msg.xml",

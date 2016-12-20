@@ -3,13 +3,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
-    <LinearLayout
-        xmlns:android="http://schemas.android.com/apk/res/android"
+    <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="50dp"
+        android:layout_height="@dimen/height_top_bar"
         android:background="@color/Maincolor"
-        android:layout_alignParentTop="true"
-        android:id="@+id/relativeLayout">
+        android:gravity="center_vertical" >
         <ImageView
             android:id="@+id/back"
             android:layout_width="30dp"
@@ -18,16 +16,15 @@
             android:layout_gravity="center"
             android:layout_marginLeft="5dp"/>
         <TextView
-            android:layout_width="300dp"
-            android:layout_height="match_parent"
-            android:paddingLeft="20dp"
-            android:gravity="center"
-            android:layout_centerInParent="true"
-            android:textColor="#FFFFFFFF"
-            android:textSize="22sp"
-            android:textStyle="bold"
-            android:text="货币类型选择" />
-    </LinearLayout>
+            android:id="@+id/message_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="3dp"
+            android:text="货币类型选择"
+            android:textColor="@color/bottom_text_color_normal"
+            android:textSize="18sp" />
+    </RelativeLayout>
     <ListView
         android:id="@+id/CountryLv"
         android:layout_width="match_parent"

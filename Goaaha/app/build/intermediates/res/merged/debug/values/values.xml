@@ -12,7 +12,7 @@
     <color name="DarkGray">#636363</color>
     <color name="LightGray">#7f7f7f</color>
     <color name="LightGray2">#e6e6e6</color>
-    <color name="LightMaincolor">#1ca9e6</color>
+    <color name="LightMaincolor">#9cd4ed</color>
     <color name="Maincolor">#5cbbff</color>
     <color name="White">#ffffff</color>
     <color name="black_deep">#FF000000</color>
@@ -65,6 +65,7 @@
     <declare-styleable name="TitlePageIndicator"><attr format="dimension" name="clipPadding"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerLineHeight"/><attr name="footerIndicatorStyle"><enum name="none" value="0"/><enum name="triangle" value="1"/><enum name="underline" value="2"/></attr><attr format="dimension" name="footerIndicatorHeight"/><attr format="dimension" name="footerIndicatorUnderlinePadding"/><attr format="dimension" name="footerPadding"/><attr name="linePosition"><enum name="bottom" value="0"/><enum name="top" value="1"/></attr><attr name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr name="android:textColor"/><attr name="android:textSize"/><attr format="dimension" name="titlePadding"/><attr format="dimension" name="topPadding"/><attr name="android:background"/></declare-styleable>
     <declare-styleable name="UnderlinePageIndicator"><attr format="boolean" name="fades"/><attr format="integer" name="fadeDelay"/><attr format="integer" name="fadeLength"/><attr name="selectedColor"/><attr name="android:background"/></declare-styleable>
     <declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable>
+    <declare-styleable name="roundedimageview"><attr format="dimension" name="border_thickness"/><attr format="color" name="border_inside_color"/><attr format="color" name="border_outside_color"/></declare-styleable>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="call_button_padding_left">25dp</dimen>

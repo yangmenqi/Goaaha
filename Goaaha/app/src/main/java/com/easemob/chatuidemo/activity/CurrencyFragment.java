@@ -52,18 +52,54 @@ public class CurrencyFragment extends Fragment {
         country1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent1 = new Intent(getActivity(), CurrencyList.class);
-                intent1.putExtra("countryid", 1);
-                startActivityForResult(intent1, 1);
+                Intent intent = new Intent(getActivity(), CurrencyList.class);
+                intent.putExtra("countryid", 1);
+                if(name1.getText().equals("CNY")){intent.putExtra("nameid1", 0);}
+                if(name1.getText().equals("HKD")){intent.putExtra("nameid1", 1);}
+                if(name1.getText().equals("MOP")){intent.putExtra("nameid1", 2);}
+                if(name1.getText().equals("USD")){intent.putExtra("nameid1", 3);}
+                if(name1.getText().equals("EUR")){intent.putExtra("nameid1", 4);}
+                if(name1.getText().equals("JPY")){intent.putExtra("nameid1", 5);}
+                if(name1.getText().equals("GBP")){intent.putExtra("nameid1", 6);}
+                if(name1.getText().equals("AUD")){intent.putExtra("nameid1", 7);}
+                if(name1.getText().equals("CAD")){intent.putExtra("nameid1", 8);}
+                if(name1.getText().equals("THB")){intent.putExtra("nameid1", 9);}
+                if(name1.getText().equals("SGD")){intent.putExtra("nameid1", 10);}
+                if(name1.getText().equals("DKK")){intent.putExtra("nameid1", 11);}
+                if(name1.getText().equals("SEK")){intent.putExtra("nameid1", 12);}
+                if(name1.getText().equals("CHF")){intent.putExtra("nameid1", 13);}
+                if(name1.getText().equals("KRW")){intent.putExtra("nameid1", 14);}
+                if(name1.getText().equals("MYR")){intent.putExtra("nameid1", 15);}
+                if(name1.getText().equals("NZD")){intent.putExtra("nameid1", 16);}
+                if(name1.getText().equals("ZAR")){intent.putExtra("nameid1", 17);}
+                startActivityForResult(intent, 1);
             }
         });
 
         country2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent2 = new Intent(getActivity(), CurrencyList.class);
-                intent2.putExtra("countryid", 2);
-                startActivityForResult(intent2, 1);
+                Intent intent = new Intent(getActivity(), CurrencyList.class);
+                intent.putExtra("countryid", 2);
+                if(name2.getText().equals("CNY")){intent.putExtra("nameid2", 0);}
+                if(name2.getText().equals("HKD")){intent.putExtra("nameid2", 1);}
+                if(name2.getText().equals("MOP")){intent.putExtra("nameid2", 2);}
+                if(name2.getText().equals("USD")){intent.putExtra("nameid2", 3);}
+                if(name2.getText().equals("EUR")){intent.putExtra("nameid2", 4);}
+                if(name2.getText().equals("JPY")){intent.putExtra("nameid2", 5);}
+                if(name2.getText().equals("GBP")){intent.putExtra("nameid2", 6);}
+                if(name2.getText().equals("AUD")){intent.putExtra("nameid2", 7);}
+                if(name2.getText().equals("CAD")){intent.putExtra("nameid2", 8);}
+                if(name2.getText().equals("THB")){intent.putExtra("nameid2", 9);}
+                if(name2.getText().equals("SGD")){intent.putExtra("nameid2", 10);}
+                if(name2.getText().equals("DKK")){intent.putExtra("nameid2", 11);}
+                if(name2.getText().equals("SEK")){intent.putExtra("nameid2", 12);}
+                if(name2.getText().equals("CHF")){intent.putExtra("nameid2", 13);}
+                if(name2.getText().equals("KRW")){intent.putExtra("nameid2", 14);}
+                if(name2.getText().equals("MYR")){intent.putExtra("nameid2", 15);}
+                if(name2.getText().equals("NZD")){intent.putExtra("nameid2", 16);}
+                if(name2.getText().equals("ZAR")){intent.putExtra("nameid2", 17);}
+                startActivityForResult(intent, 1);
             }
         });
 
@@ -138,7 +174,6 @@ public class CurrencyFragment extends Fragment {
         });
         return view;
     }
-
 
     @Override
     public void onActivityResult(int requestCode, int resultCode, Intent data) {

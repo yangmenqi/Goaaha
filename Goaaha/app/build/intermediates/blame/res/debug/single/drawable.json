@@ -44,16 +44,16 @@
         "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\currency_normal.png"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_shape.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\button_selector_shape.xml"
+        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white_normal_shape.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\btn_white_normal_shape.xml"
     },
     {
         "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gray_pressed_shape.xml",
         "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\btn_gray_pressed_shape.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white_normal_shape.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\btn_white_normal_shape.xml"
+        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_shape.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\button_selector_shape.xml"
     },
     {
         "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_hangup_bg.xml",
@@ -84,16 +84,16 @@
         "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\timestampe_bg.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_bg.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\chatfrom_bg.xml"
+        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sweden.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\sweden.png"
     },
     {
         "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map_normal.png",
         "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\map_normal.png"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sweden.png",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\sweden.png"
+        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_bg.xml",
+        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\chatfrom_bg.xml"
     },
     {
         "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recording_hint_bg.xml",
@@ -192,16 +192,16 @@
         "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\b.jpg"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\japan.png",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\japan.png"
+        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_chat_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\tab_chat_bg.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_circle.xml",
         "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\red_circle.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_chat_bg.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\tab_chat_bg.xml"
+        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\japan.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\japan.png"
     },
     {
         "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\singapore.png",
@@ -334,6 +334,10 @@
     {
         "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_setting_bg.xml",
         "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\tab_setting_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\inter.png",
+        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\inter.png"
     },
     {
         "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\conversation_normal.png",
@@ -504,6 +508,14 @@
         "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\chat_voice_call_selector.xml"
     },
     {
+        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head_bg.png",
+        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\head_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head1.png",
+        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\head1.png"
+    },
+    {
         "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_normal_shape.xml",
         "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\btn_green_normal_shape.xml"
     },
@@ -664,6 +676,10 @@
         "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\goaaha_logo.png"
     },
     {
+        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head.png",
+        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\head.png"
+    },
+    {
         "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gray_selector.xml",
         "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\btn_gray_selector.xml"
     },
@@ -790,6 +806,10 @@
     {
         "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel_bj.xml",
         "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\btn_cancel_bj.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\inter1.png",
+        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\inter1.png"
     },
     {
         "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_image_selector.xml",
@@ -1078,6 +1098,10 @@
     {
         "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_selector.xml",
         "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\btn_blue_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head_bg00.png",
+        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\drawable\\head_bg00.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_bottom_item_bg.xml",

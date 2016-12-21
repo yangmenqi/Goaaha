@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="F:\last\Goaaha\Goaaha\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2110e243b4d6410d9c231e61be114436eed936a9">
+        <dex dex="F:\last\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_433cccd7cfeb5ffe4a499998250ef1b579450856.jar" />
+    </item>
+
+</items>

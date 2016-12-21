@@ -268,6 +268,18 @@
         <activity
             android:name="com.easemob.chatuidemo.activity.Information"
             android:theme="@style/horizontal_slide" />
+        <activity
+            android:name="com.easemob.chatuidemo.activity.Pop_menu"
+            android:theme="@style/MyDialogStyleTop" />
+        <activity
+            android:name="com.easemob.chatuidemo.activity.PoiSearchDemo"
+            android:theme="@android:style/Theme.Black.NoTitleBar" />
+        <activity
+            android:name="com.easemob.chatuidemo.activity.BusLineSearchDemo"
+            android:theme="@android:style/Theme.Black.NoTitleBar" />
+        <activity
+            android:name="com.easemob.chatuidemo.activity.RoutePlanDemo"
+            android:theme="@android:style/Theme.Black.NoTitleBar" />
     </application>
 
 </manifest>

@@ -13,12 +13,6 @@
  */
 package com.easemob.chatuidemo.activity;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.UUID;
-
 import android.annotation.SuppressLint;
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -34,10 +28,12 @@ import android.view.ContextMenu;
 import android.view.ContextMenu.ContextMenuInfo;
 import android.view.KeyEvent;
 import android.view.View;
+import android.view.Window;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.baidu.mapapi.SDKInitializer;
 import com.easemob.EMCallBack;
 import com.easemob.EMConnectionListener;
 import com.easemob.EMError;
@@ -72,7 +68,13 @@ import com.easemob.util.HanziToPinyin;
 import com.easemob.util.NetUtils;
 import com.umeng.analytics.MobclickAgent;
 
-public class MainActivity extends BaseActivity implements EMEventListener {
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.UUID;
+
+public class MainActivity extends BaseActivity implements EMEventListener{
 
     protected static final String TAG = "MainActivity";
     // 未读消息textview
@@ -109,6 +111,9 @@ public class MainActivity extends BaseActivity implements EMEventListener {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        requestWindowFeature(Window.FEATURE_NO_TITLE);//去掉自带的标题栏
+        SDKInitializer.initialize(this.getApplicationContext());
+
 
         if (savedInstanceState != null &&
                 savedInstanceState.getBoolean(Constant.ACCOUNT_REMOVED, false)) {
@@ -126,6 +131,8 @@ public class MainActivity extends BaseActivity implements EMEventListener {
             return;
         }
         setContentView(R.layout.activity_main);
+
+
         initView();
 
         // MobclickAgent.setDebugMode( true );
@@ -147,6 +154,7 @@ public class MainActivity extends BaseActivity implements EMEventListener {
         contactListFragment = new ContactlistFragment();
         settingFragment = new SettingsFragment();
         mapFragment = new MapFragment();
+        mapFragment.setContext(getApplicationContext());
         currencyFragment = new CurrencyFragment();
         fragments = new Fragment[]{chatHistoryFragment, contactListFragment, currencyFragment, mapFragment,settingFragment};
         // 添加显示第一个fragment
@@ -337,6 +345,7 @@ public class MainActivity extends BaseActivity implements EMEventListener {
                 break;
             case R.id.btn_map:
                 index = 3;
+                mapFragment.setContext(getApplicationContext());
                 break;
             case R.id.btn_setting:
                 index = 4;

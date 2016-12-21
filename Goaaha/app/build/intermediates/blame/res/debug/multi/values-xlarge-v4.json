@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\values-xlarge-v4\\values-xlarge-v4.xml",
+        "outputFile": "F:\\last\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\values-xlarge-v4\\values-xlarge-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 103
                 },
                 "from": {
-                    "file": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "file": "F:\\last\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 663,
+                        "startOffset": 682,
                         "endColumn": 52,
-                        "endOffset": 711
+                        "endOffset": 730
                     }
                 }
             },
@@ -30,99 +30,13 @@
                     "endOffset": 157
                 },
                 "from": {
-                    "file": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "file": "F:\\last\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 716,
+                        "startOffset": 736,
                         "endColumn": 53,
-                        "endOffset": 765
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\values-xlarge-v4\\values-xlarge-v4.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 52,
-                    "endOffset": 103
-                },
-                "from": {
-                    "file": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 663,
-                        "endColumn": 52,
-                        "endOffset": 711
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 108,
-                    "endColumn": 53,
-                    "endOffset": 157
-                },
-                "from": {
-                    "file": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 716,
-                        "endColumn": 53,
-                        "endOffset": 765
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\values-xlarge-v4\\values-xlarge-v4.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 52,
-                    "endOffset": 103
-                },
-                "from": {
-                    "file": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 663,
-                        "endColumn": 52,
-                        "endOffset": 711
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 108,
-                    "endColumn": 53,
-                    "endOffset": 157
-                },
-                "from": {
-                    "file": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 716,
-                        "endColumn": 53,
-                        "endOffset": 765
+                        "endOffset": 785
                     }
                 }
             }

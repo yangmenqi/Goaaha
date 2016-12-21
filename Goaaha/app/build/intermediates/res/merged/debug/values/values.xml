@@ -56,6 +56,7 @@
     <color name="gray_pressed">#b5b5b6</color>
     <color name="grid_state_focused">#80000000</color>
     <color name="grid_state_pressed">#1Affffff</color>
+    <color name="material_grey_800">#ff424242</color>
     <color name="orange">#FFA500</color>
     <color name="top_bar_normal_bg">#00acff</color>
     <color name="voip_interface_text_color">#bababa</color>

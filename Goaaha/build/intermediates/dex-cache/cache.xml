@@ -2,6 +2,7 @@
 <items version="2" >
 
     <item
+<<<<<<< HEAD
         jar="E:\item\Mygit\Goaaha\Goaaha\app\libs\picasso-2.4.0.jar"
         jumboMode="true"
         revision="24.0.2"
@@ -77,6 +78,13 @@
         revision="24.0.2"
         sha1="ad3b812d16c44e789fc32d6dfc36c84b824390ab">
         <dex dex="E:\item\Mygit\Goaaha\Goaaha\app\build\intermediates\transforms\dex\debug\folders\1000\2\easemobchat_2.2.0_9e26d53722e1e6337efd09ed3447b278efb05d9b\classes.dex" />
+=======
+        jar="F:\last\Goaaha\Goaaha\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2110e243b4d6410d9c231e61be114436eed936a9">
+        <dex dex="F:\last\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_433cccd7cfeb5ffe4a499998250ef1b579450856.jar" />
+>>>>>>> 9194f6bdcb8a535a98402931946904e4200b8557
     </item>
 
 </items>

@@ -44,7 +44,10 @@ import com.easemob.chatuidemo.R;
  * 
  */
 public class SettingsFragment extends Fragment implements OnClickListener {
-
+	/**
+	 * 设置账户信息
+	 */
+	private ImageView head_portrait;
 	/**
 	 * 设置新消息通知布局
 	 */
@@ -118,10 +121,6 @@ public class SettingsFragment extends Fragment implements OnClickListener {
 	 * 诊断
 	 */
 	private LinearLayout llDiagnose;
-	/**
-	 * iOS离线推送昵称
-	 */
-	private LinearLayout pushNick;
 	
 	
 	@Override
@@ -134,6 +133,7 @@ public class SettingsFragment extends Fragment implements OnClickListener {
 		super.onActivityCreated(savedInstanceState);
 		if(savedInstanceState != null && savedInstanceState.getBoolean("isConflict", false))
             return;
+		head_portrait = (ImageView)getView().findViewById(R.id.head_portrait);
 		rl_switch_notification = (RelativeLayout) getView().findViewById(R.id.rl_switch_notification);
 		rl_switch_sound = (RelativeLayout) getView().findViewById(R.id.rl_switch_sound);
 		rl_switch_vibrate = (RelativeLayout) getView().findViewById(R.id.rl_switch_vibrate);
@@ -163,8 +163,14 @@ public class SettingsFragment extends Fragment implements OnClickListener {
 		
 		blacklistContainer = (LinearLayout) getView().findViewById(R.id.ll_black_list);
 		llDiagnose=(LinearLayout) getView().findViewById(R.id.ll_diagnose);
-		pushNick=(LinearLayout) getView().findViewById(R.id.ll_set_push_nick);
-		
+
+		head_portrait.setOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View view) {
+				Intent intent = new Intent(getActivity(), Information.class);
+				startActivity(intent);
+			}
+		});
 		blacklistContainer.setOnClickListener(this);
 		rl_switch_notification.setOnClickListener(this);
 		rl_switch_sound.setOnClickListener(this);
@@ -172,7 +178,6 @@ public class SettingsFragment extends Fragment implements OnClickListener {
 		rl_switch_speaker.setOnClickListener(this);
 		logoutBtn.setOnClickListener(this);
 		llDiagnose.setOnClickListener(this);
-		pushNick.setOnClickListener(this);
 		rl_switch_chatroom_leave.setOnClickListener(this);
 		
 		chatOptions = EMChatManager.getInstance().getChatOptions();
@@ -326,9 +331,6 @@ public class SettingsFragment extends Fragment implements OnClickListener {
 			break;
 		case R.id.ll_diagnose:
 			startActivity(new Intent(getActivity(), DiagnoseActivity.class));
-			break;
-		case R.id.ll_set_push_nick:
-			startActivity(new Intent(getActivity(), OfflinePushNickActivity.class));
 			break;
 		default:
 			break;

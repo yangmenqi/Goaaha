@@ -1,6 +1,11 @@
 [
     {
+<<<<<<< HEAD
         "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\color\\main_botton_text_color.xml",
         "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\color\\main_botton_text_color.xml"
+=======
+        "merged": "F:\\last\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\color\\main_botton_text_color.xml",
+        "source": "F:\\last\\Goaaha\\Goaaha\\app\\src\\main\\res\\color\\main_botton_text_color.xml"
+>>>>>>> 9194f6bdcb8a535a98402931946904e4200b8557
     }
 ]

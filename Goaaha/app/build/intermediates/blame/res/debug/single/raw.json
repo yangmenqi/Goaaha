@@ -1,6 +1,11 @@
 [
     {
+<<<<<<< HEAD
         "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\raw\\outgoing.ogg",
         "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\raw\\outgoing.ogg"
+=======
+        "merged": "F:\\last\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\raw\\outgoing.ogg",
+        "source": "F:\\last\\Goaaha\\Goaaha\\app\\src\\main\\res\\raw\\outgoing.ogg"
+>>>>>>> 9194f6bdcb8a535a98402931946904e4200b8557
     }
 ]

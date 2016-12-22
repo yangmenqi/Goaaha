@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <merger version="3"><dataSet config="main"><source path="E:\item\Mygit\Goaaha\Goaaha\app\src\main\assets"/></dataSet><dataSet config="debug"><source path="E:\item\Mygit\Goaaha\Goaaha\app\src\debug\assets"/></dataSet></merger>
+=======
+<merger version="3"><dataSet config="main"><source path="F:\last\Goaaha\Goaaha\app\src\main\assets"/></dataSet><dataSet config="debug"><source path="F:\last\Goaaha\Goaaha\app\src\debug\assets"/></dataSet></merger>
+>>>>>>> 9194f6bdcb8a535a98402931946904e4200b8557

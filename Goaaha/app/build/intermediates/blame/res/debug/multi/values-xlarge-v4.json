@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\values-xlarge-v4\\values-xlarge-v4.xml",
+=======
+        "outputFile": "F:\\last\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\values-xlarge-v4\\values-xlarge-v4.xml",
+>>>>>>> 9194f6bdcb8a535a98402931946904e4200b8557
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 103
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
+=======
+                    "file": "F:\\last\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
+>>>>>>> 9194f6bdcb8a535a98402931946904e4200b8557
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -30,7 +38,11 @@
                     "endOffset": 157
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
+=======
+                    "file": "F:\\last\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
+>>>>>>> 9194f6bdcb8a535a98402931946904e4200b8557
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,

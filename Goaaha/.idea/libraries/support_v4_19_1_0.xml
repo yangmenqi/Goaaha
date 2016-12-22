@@ -1,11 +1,19 @@
 <component name="libraryTable">
   <library name="support-v4-19.1.0">
     <CLASSES>
+<<<<<<< HEAD
       <root url="jar://D:/Third/software/android-sdk_r24.3.2-windows/android-sdk-windows/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://D:/Third/software/android-sdk_r24.3.2-windows/android-sdk-windows/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0-sources.jar!/" />
+=======
+      <root url="jar://E:/software/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/software/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0-sources.jar!/" />
+>>>>>>> 9194f6bdcb8a535a98402931946904e4200b8557
     </SOURCES>
   </library>
 </component>

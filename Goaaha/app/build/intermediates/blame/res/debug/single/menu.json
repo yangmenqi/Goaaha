@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
         "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\context_tab_contact.xml"
     },
@@ -18,5 +19,25 @@
     {
         "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
         "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\context_contact_list.xml"
+=======
+        "merged": "F:\\last\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
+        "source": "F:\\last\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\context_contact_list.xml"
+    },
+    {
+        "merged": "F:\\last\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_message.xml",
+        "source": "F:\\last\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\delete_message.xml"
+    },
+    {
+        "merged": "F:\\last\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
+        "source": "F:\\last\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\context_tab_contact.xml"
+    },
+    {
+        "merged": "F:\\last\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_contact.xml",
+        "source": "F:\\last\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\delete_contact.xml"
+    },
+    {
+        "merged": "F:\\last\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\remove_from_blacklist.xml",
+        "source": "F:\\last\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\remove_from_blacklist.xml"
+>>>>>>> 9194f6bdcb8a535a98402931946904e4200b8557
     }
 ]

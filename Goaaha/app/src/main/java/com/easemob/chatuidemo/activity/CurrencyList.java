@@ -38,61 +38,17 @@ public class CurrencyList extends Activity {
         lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                switch (i) {
-                    case 0:
-                        break;
-                    case 1:
-                        break;
-                    case 2:
-                        break;
-                    case 3:
-                        break;
-                    case 4:
-                        break;
-                    case 5:
-                        break;
-                    case 6:
-                        break;
-                    case 7:
-                        break;
-                    case 8:
-                        break;
-                    case 9:
-                        break;
-                    case 10:
-                        break;
-                    case 11:
-                        break;
-                    case 12:
-                        break;
-                    case 13:
-                        break;
-                    case 14:
-                        break;
-                    case 15:
-                        break;
-                    case 16:
-                        break;
-                    case 17:
-                        break;
-                    default: return;
-                }
-
                 //接收上一页面传来的数据
                 Intent country = getIntent();
                 int countryid = country.getIntExtra("countryid",-1);
 
-                //将数据传送到下一页面
-                Intent intent = new Intent(CurrencyList.this,MainActivity.class);
-
                 if(countryid==1){
-                    CurrencyList.this.setResult(i);
-                    CurrencyList.this.finish();
+                    setResult(i);
+                    finish();
                 }else{
-                    CurrencyList.this.setResult(i + 18);
-                    CurrencyList.this.finish();
+                    setResult(i + 18);
+                    finish();
                 }
-                startActivity(intent);
             }
         });
 
@@ -100,8 +56,19 @@ public class CurrencyList extends Activity {
         back.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                // TODO Auto-generated method stub
-                finish();
+                //接收上一页面传来的数据
+                Intent country = getIntent();
+                int countryid = country.getIntExtra("countryid",-1);
+                int nameid1 = country.getIntExtra("nameid1",-1);
+                int nameid2 = country.getIntExtra("nameid2",-1);
+
+                if(countryid==1){
+                    setResult(nameid1);
+                    finish();
+                }else{
+                    setResult(nameid2 + 18);
+                    finish();
+                }
             }
         });
     }

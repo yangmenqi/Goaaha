@@ -61,12 +61,7 @@
             android:name=".activity.LoginActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-<<<<<<< HEAD
-            android:windowSoftInputMode="stateVisible|adjustResize">
-        </activity>
-=======
             android:windowSoftInputMode="adjustResize|stateVisible"></activity>
->>>>>>> 9194f6bdcb8a535a98402931946904e4200b8557
 
         <!-- 注册 -->
         <activity

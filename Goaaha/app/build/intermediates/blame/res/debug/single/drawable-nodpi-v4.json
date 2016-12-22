@@ -1,67 +1,54 @@
 [
     {
-<<<<<<< HEAD
-        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\voice_to_icon.xml",
-        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\voice_to_icon.xml"
+        "merged": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\chat.png",
+        "source": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\chat.png"
     },
     {
-        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\voice_from_icon.xml",
-        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\voice_from_icon.xml"
+        "merged": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\user.png",
+        "source": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\user.png"
     },
     {
-        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\currency.png",
-        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\currency.png"
+        "merged": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\logo.png",
+        "source": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\logo.png"
     },
     {
-        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\tab_map_bg.xml",
-        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\tab_map_bg.xml"
+        "merged": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\tab_map_bg.xml",
+        "source": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\tab_map_bg.xml"
     },
     {
-        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\map.png",
-        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\map.png"
+        "merged": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\voice_to_icon.xml",
+        "source": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\voice_to_icon.xml"
     },
     {
-        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\tab_currency_bg.xml",
-        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\tab_currency_bg.xml"
+        "merged": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\radius_drawable_bg.xml",
+        "source": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\radius_drawable_bg.xml"
     },
     {
-        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\empty_photo.png",
-        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\empty_photo.png"
+        "merged": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\map.png",
+        "source": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\map.png"
     },
     {
-        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\chat.png",
-        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\chat.png"
-=======
-        "merged": "F:\\last\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\currency.png",
-        "source": "F:\\last\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\currency.png"
+        "merged": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\text_bg.xml",
+        "source": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\text_bg.xml"
     },
     {
-        "merged": "F:\\last\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\voice_to_icon.xml",
-        "source": "F:\\last\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\voice_to_icon.xml"
+        "merged": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\tab_currency_bg.xml",
+        "source": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\tab_currency_bg.xml"
     },
     {
-        "merged": "F:\\last\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\empty_photo.png",
-        "source": "F:\\last\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\empty_photo.png"
+        "merged": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\currency.png",
+        "source": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\currency.png"
     },
     {
-        "merged": "F:\\last\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\tab_currency_bg.xml",
-        "source": "F:\\last\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\tab_currency_bg.xml"
+        "merged": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\pswd.png",
+        "source": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\pswd.png"
     },
     {
-        "merged": "F:\\last\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\tab_map_bg.xml",
-        "source": "F:\\last\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\tab_map_bg.xml"
+        "merged": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\empty_photo.png",
+        "source": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\empty_photo.png"
     },
     {
-        "merged": "F:\\last\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\map.png",
-        "source": "F:\\last\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\map.png"
-    },
-    {
-        "merged": "F:\\last\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\voice_from_icon.xml",
-        "source": "F:\\last\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\voice_from_icon.xml"
-    },
-    {
-        "merged": "F:\\last\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\chat.png",
-        "source": "F:\\last\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\chat.png"
->>>>>>> 9194f6bdcb8a535a98402931946904e4200b8557
+        "merged": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\voice_from_icon.xml",
+        "source": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\voice_from_icon.xml"
     }
 ]

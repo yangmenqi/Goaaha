@@ -1,10 +1,6 @@
 [
     {
-<<<<<<< HEAD
-        "outputFile": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
-=======
-        "outputFile": "F:\\last\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
->>>>>>> 9194f6bdcb8a535a98402931946904e4200b8557
+        "outputFile": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
         "map": [
             {
                 "to": {
@@ -16,11 +12,7 @@
                     "endOffset": 219
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-v11\\styles.xml",
-=======
-                    "file": "F:\\last\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-v11\\styles.xml",
->>>>>>> 9194f6bdcb8a535a98402931946904e4200b8557
+                    "file": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-v11\\styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -41,11 +33,7 @@
                     "endOffset": 394
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-v11\\styles.xml",
-=======
-                    "file": "F:\\last\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-v11\\styles.xml",
->>>>>>> 9194f6bdcb8a535a98402931946904e4200b8557
+                    "file": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-v11\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -65,11 +53,7 @@
                     "endOffset": 479
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-v11\\styles.xml",
-=======
-                    "file": "F:\\last\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-v11\\styles.xml",
->>>>>>> 9194f6bdcb8a535a98402931946904e4200b8557
+                    "file": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-v11\\styles.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,

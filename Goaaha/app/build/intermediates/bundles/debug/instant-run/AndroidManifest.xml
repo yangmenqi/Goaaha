@@ -62,12 +62,7 @@
             android:name="com.easemob.chatuidemo.activity.LoginActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-<<<<<<< HEAD
-            android:windowSoftInputMode="stateVisible|adjustResize" >
-        </activity>
-=======
             android:windowSoftInputMode="adjustResize|stateVisible" />
->>>>>>> 9194f6bdcb8a535a98402931946904e4200b8557
 
         <!-- 注册 -->
         <activity
@@ -239,12 +234,6 @@
         <activity
             android:name="com.easemob.chatuidemo.activity.CurrencyList"
             android:theme="@style/horizontal_slide" />
-
-        <!-- 货币类型选择界面 -->
-        <activity
-            android:name="com.easemob.chatuidemo.activity.CurrencyList"
-            android:theme="@style/horizontal_slide" >
-        </activity>
 
         <!-- 开机自启动服务 -->
         <receiver android:name="com.easemob.chat.StartServiceReceiver" >

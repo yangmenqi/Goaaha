@@ -33,6 +33,7 @@
                 android:text="@string/session"
                 android:textColor="@color/main_botton_text_color"
                 android:textSize="12sp" />
+
             <TextView
                 android:id="@+id/unread_msg_number"
                 android:layout_width="wrap_content"

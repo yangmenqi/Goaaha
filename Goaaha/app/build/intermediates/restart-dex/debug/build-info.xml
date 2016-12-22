@@ -1,53 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-<<<<<<< HEAD
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="267085733947245" >
+    timestamp="297205663184134" >
 
     <task
         name="javac"
-        duration="11283" />
-=======
-    abi="armeabi-v7a,armeabi"
-    api-level="19"
-    density="xhdpi"
-    format="7"
-    timestamp="534051140245783" >
-
-    <task
-        name="javac"
-        duration="0" />
->>>>>>> 9194f6bdcb8a535a98402931946904e4200b8557
+        duration="8685" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-<<<<<<< HEAD
-        duration="5495" />
+        duration="6103" />
     <task
         name="verifier"
-        duration="1911" />
+        duration="1045" />
 
     <artifact
-        location="E:\item\Mygit\Goaaha\Goaaha\app\build\outputs\apk\app-debug.apk"
+        location="E:\item\Mygit1\Goaaha\Goaaha\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="267085733947245" >
+    <build timestamp="297205663184134" >
         <artifact
-            location="E:\item\Mygit\Goaaha\Goaaha\app\build\outputs\apk\app-debug.apk"
+            location="E:\item\Mygit1\Goaaha\Goaaha\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-=======
-        duration="0" />
-    <task
-        name="verifier"
-        duration="0" />
-
-    <build timestamp="534051140245783" />
->>>>>>> 9194f6bdcb8a535a98402931946904e4200b8557
 
 </instant-run>

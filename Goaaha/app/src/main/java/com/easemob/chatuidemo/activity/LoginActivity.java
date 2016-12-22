@@ -18,17 +18,28 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import android.animation.Animator;
+import android.animation.AnimatorSet;
+import android.animation.ObjectAnimator;
+import android.animation.PropertyValuesHolder;
+import android.animation.ValueAnimator;
+import android.annotation.TargetApi;
 import android.app.ProgressDialog;
 import android.content.DialogInterface;
 import android.content.DialogInterface.OnCancelListener;
 import android.content.Intent;
+import android.os.Build;
 import android.os.Bundle;
 import android.text.Editable;
 import android.text.TextUtils;
 import android.text.TextWatcher;
 import android.util.Log;
 import android.view.View;
+import android.view.ViewGroup;
+import android.view.animation.AccelerateDecelerateInterpolator;
 import android.widget.EditText;
+import android.widget.LinearLayout;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.easemob.EMCallBack;
@@ -93,12 +104,12 @@ public class LoginActivity extends BaseActivity {
 		if (DemoApplication.getInstance().getUserName() != null) {
 			usernameEditText.setText(DemoApplication.getInstance().getUserName());
 		}
+
 	}
 
 	/**
 	 * 登录
-	 * 
-	 * @param view
+	 *
 	 */
 	public void login(View view) {
 		if (!CommonUtils.isNetWorkConnected(this)) {
@@ -117,17 +128,21 @@ public class LoginActivity extends BaseActivity {
 			return;
 		}
 
+
 		progressShow = true;
 		final ProgressDialog pd = new ProgressDialog(LoginActivity.this);
+		//悬浮框
 		pd.setCanceledOnTouchOutside(false);
+		//取消
 		pd.setOnCancelListener(new OnCancelListener() {
 
 			@Override
 			public void onCancel(DialogInterface dialog) {
 				progressShow = false;
-			}
+		}
 		});
-		pd.setMessage(getString(R.string.Is_landing));
+//        inputAnimator(mInputLayout, mWidth, mHeight);
+   	    pd.setMessage(getString(R.string.Is_landing));
 		pd.show();
 
 		final long start = System.currentTimeMillis();
@@ -139,7 +154,13 @@ public class LoginActivity extends BaseActivity {
 				if (!progressShow) {
 					return;
 				}
-				// 登陆成功，保存用户名密码
+//                // 计算出控件的高与宽
+//                mWidth = mBtnLogin.getMeasuredWidth();
+//                mHeight = mBtnLogin.getMeasuredHeight();
+//                // 隐藏输入框
+//                mName.setVisibility(View.INVISIBLE);
+//                mPsw.setVisibility(View.INVISIBLE);
+//				// 登陆成功，保存用户名密码
 				DemoApplication.getInstance().setUserName(currentUsername);
 				DemoApplication.getInstance().setPassword(currentPassword);
 
@@ -157,19 +178,10 @@ public class LoginActivity extends BaseActivity {
 						public void run() {
 							pd.dismiss();
 							DemoApplication.getInstance().logout(null);
-							Toast.makeText(getApplicationContext(), R.string.login_failure_failed, 1).show();
+							Toast.makeText(getApplicationContext(), R.string.login_failure_failed, Toast.LENGTH_SHORT).show();
 						}
 					});
 					return;
-				}
-				// 更新当前用户的nickname 此方法的作用是在ios离线推送时能够显示用户nick
-				boolean updatenick = EMChatManager.getInstance().updateCurrentUserNick(
-						DemoApplication.currentUserNick.trim());
-				if (!updatenick) {
-					Log.e("LoginActivity", "update current user nick fail");
-				}
-				if (!LoginActivity.this.isFinishing() && pd.isShowing()) {
-					pd.dismiss();
 				}
 				// 进入主页面
 				Intent intent = new Intent(LoginActivity.this,MainActivity.class);
@@ -197,8 +209,6 @@ public class LoginActivity extends BaseActivity {
 			}
 		});
 	}
-
-	
 	private void initializeContacts() {
 		Map<String, User> userlist = new HashMap<String, User>();
 		// 添加user"申请与通知"
@@ -223,7 +233,6 @@ public class LoginActivity extends BaseActivity {
 		List<User> users = new ArrayList<User>(userlist.values());
 		dao.saveContactList(users);
 	}
-	
 	/**
 	 * 注册
 	 * @param view

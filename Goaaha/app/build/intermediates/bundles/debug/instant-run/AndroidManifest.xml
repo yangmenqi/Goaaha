@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.easemob.chatuidemo"
     android:versionCode="20"
-    android:versionName="1.0.0" >
+    android:versionName="2.0.0" >
 
     <uses-sdk
         android:minSdkVersion="9"
@@ -13,7 +13,6 @@
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
@@ -63,7 +62,7 @@
             android:name="com.easemob.chatuidemo.activity.LoginActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="adjustResize|stateVisible" >
+            android:windowSoftInputMode="stateVisible|adjustResize" >
         </activity>
 
         <!-- 注册 -->
@@ -270,6 +269,12 @@
             android:windowSoftInputMode="stateAlwaysHidden" >
         </activity>
 
+        <!-- 货币类型选择界面 -->
+        <activity
+            android:name="com.easemob.chatuidemo.activity.CurrencyList"
+            android:theme="@style/horizontal_slide" >
+        </activity>
+
         <!-- 开机自启动服务 -->
         <receiver android:name="com.easemob.chat.StartServiceReceiver" >
             <intent-filter android:priority="1000" >
@@ -283,7 +288,7 @@
         <!-- 设置环信应用的appkey -->
         <meta-data
             android:name="EASEMOB_APPKEY"
-            android:value="easemob-demo#chatdemoui" />
+            android:value="1165161129178764#goaaha" />
         <!-- 声明sdk所需的service -->
         <service android:name="com.easemob.chat.EMChatService" />
 

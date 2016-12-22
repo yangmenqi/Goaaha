@@ -1,3 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="E:\item\Mygit\Goaaha\Goaaha\app\libs\picasso-2.4.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="E:\item\Mygit\Goaaha\Goaaha\app\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.4.0_ffd63d4619c380c4e72d05ab88ccfc79e3294347\classes.dex" />
+    </item>
+    <item
+        jar="E:\item\Mygit\Goaaha\Goaaha\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="af6ea16e927c33f27c57bf956285b82669649d62">
+        <dex dex="E:\item\Mygit\Goaaha\Goaaha\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4951bc0ed03fca598a3d108cacfcf27a9b9a35b4\classes.dex" />
+    </item>
+    <item
+        jar="E:\item\Mygit\Goaaha\Goaaha\app\libs\baidumapapi_v3_2_0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="46ca4c3c74e1ddc60b45c490485e5df05babe6a5">
+        <dex dex="E:\item\Mygit\Goaaha\Goaaha\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_v3_2_0_bff963d4d29d1718d3487cf20fc80e95b12d4a9c\classes.dex" />
+    </item>
+    <item
+        jar="E:\item\Mygit\Goaaha\Goaaha\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="148449fe348ea68aa8be1147e36c9c8095665015">
+        <dex dex="E:\item\Mygit\Goaaha\Goaaha\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7a8823942c92345b606610937ab329bbc0f04ab5\classes.dex" />
+    </item>
+    <item
+        jar="E:\item\Mygit\Goaaha\Goaaha\app\libs\android-async-http-1.4.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="E:\item\Mygit\Goaaha\Goaaha\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.8_8db4e5ebb82d83a4126efbbd264057bb05d14eb8\classes.dex" />
+    </item>
+    <item
+        jar="D:\Third\software\android-sdk_r24.3.2-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\item\Mygit\Goaaha\Goaaha\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_a0b60625282cb3ff434510b566811bf9c854c330\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations-java5\15.0\7011b4551a8451906759b05814c58b9eb829ea9b\annotations-java5-15.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="E:\item\Mygit\Goaaha\Goaaha\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-java5-15.0_ee30b734e29f514b92e45fa4eebd0e9238818d87\classes.dex" />
+    </item>
+    <item
+        jar="E:\item\Mygit\Goaaha\Goaaha\app\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="E:\item\Mygit\Goaaha\Goaaha\app\build\intermediates\transforms\dex\debug\folders\1000\2\org.apache.http.legacy_f3959992657146460fce4202171a874e857649b1\classes.dex" />
+    </item>
+    <item
+        jar="E:\item\Mygit\Goaaha\Goaaha\app\libs\umeng-analytics-v5.2.4.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="E:\item\Mygit\Goaaha\Goaaha\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-analytics-v5.2.4_b76625cff42dcde55051c40ea9874b734f09f290\classes.dex" />
+    </item>
+    <item
+        jar="E:\item\Mygit\Goaaha\Goaaha\app\libs\locSDK_3.3.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="590d32bdf5bb37ee372a21696b8f7853b224e31f">
+        <dex dex="E:\item\Mygit\Goaaha\Goaaha\app\build\intermediates\transforms\dex\debug\folders\1000\2\locSDK_3.3_8e2a19511278c204042174d14531ed4489130890\classes.dex" />
+    </item>
+    <item
+        jar="E:\item\Mygit\Goaaha\Goaaha\app\libs\easemobchat_2.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ad3b812d16c44e789fc32d6dfc36c84b824390ab">
+        <dex dex="E:\item\Mygit\Goaaha\Goaaha\app\build\intermediates\transforms\dex\debug\folders\1000\2\easemobchat_2.2.0_9e26d53722e1e6337efd09ed3447b278efb05d9b\classes.dex" />
+    </item>
+
+</items>

@@ -1,942 +1,326 @@
 [
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_neterror_item.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\chat_neterror_item.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_chat.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_call.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_video_call.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_group.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_new_group.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_null.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_null.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chatroom.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_chatroom.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_picture.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_picture.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact_with_checkbox.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_contact_with_checkbox.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_picture.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_picture.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expression_gridview.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\expression_gridview.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_invite_msg.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_invite_msg.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_emojicon.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_emojicon.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_null.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_null.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_add_group.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_add_group.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_botton_tab.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\main_botton_tab.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_text.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_text.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_voice.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\context_menu_for_voice.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_push.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_offline_push.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_add_group.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_add_group.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\alert_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_currency.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_currency.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_pick_contacts.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_pick_contacts.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baidumap.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_baidumap.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_voice.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_image.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_image.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video_call.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_video_call.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_settings.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_conversation_settings.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_public_groups.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_layout.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\title_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\grid.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\showvideo_activity.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\showvideo_activity.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_voice.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice_call.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_voice_call.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_null.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_null.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_simle_details.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_simle_details.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_group.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_new_group.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_null.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_null.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_message.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_message.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choosevideoactivity.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_choosevideoactivity.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voice_call.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_voice_call.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_groups.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_groups.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recorder_activity.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\recorder_activity.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_edit.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_message.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_message.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_contact.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_add_contact.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chatroom.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_chatroom.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video_call.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_video_call.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_blacklist.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_group_blacklist.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_voice.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_botton_tab.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\main_botton_tab.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups_search.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_public_groups_search.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_video.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_video.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_location.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\context_menu_for_location.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_picture.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_picture.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recorder_activity.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\recorder_activity.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_location.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_location.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\logout_actionsheet.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\logout_actionsheet.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_location.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_location.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_location.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_location.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\currency_list.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\currency_list.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_groups.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_groups.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_file.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_file.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_settings.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_conversation_settings.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_currency.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\item_currency.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video_call.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_video_call.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_message.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_message.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_picture.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_picture.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice_call.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_voice_call.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_chat_history.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_chat_history.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_botton_tab.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\main_botton_tab.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer_view.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\listview_footer_view.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_details.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_details.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_big_image.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_show_big_image.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_video.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_video.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_grid_fragment.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\image_grid_fragment.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\grid.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_diagnose.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_diagnose.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_grid_fragment.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\image_grid_fragment.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video_call.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_video_call.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_black_list.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_black_list.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_currency.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\item_currency.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friends_msg.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_new_friends_msg.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video_call.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_video_call.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_big_image.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_show_big_image.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\showvideo_activity.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\showvideo_activity.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_picture.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_picture.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_blacklist.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_group_blacklist.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_diagnose.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_diagnose.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_invite_msg.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_invite_msg.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_invite_msg.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_invite_msg.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_history.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_conversation_history.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_file.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_file.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_file.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_file.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_register.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expression_gridview.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\expression_gridview.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_call.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_video_call.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_group.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_group.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_currency.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_currency.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_location.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_location.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_file.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_show_file.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_voice.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voice_call.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_voice_call.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_file.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_show_file.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_voice.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video_call.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_video_call.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_simle_details.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_group_simle_details.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_init_view.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\main_init_view.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_file.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_show_file.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact_list.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_contact_list.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_contact.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_map.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_map.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_emojicon.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_emojicon.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pick_contact_no_checkbox.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_pick_contact_no_checkbox.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_voice.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\logout_actionsheet.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\logout_actionsheet.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_grid_fragment.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\image_grid_fragment.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_chat_history.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_chat_history.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_neterror_item.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\chat_neterror_item.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_map.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_map.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_public_groups.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_contact.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voice_call.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_voice_call.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pick_contact_no_checkbox.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_pick_contact_no_checkbox.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_voice.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_voice.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_simle_details.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_group_simle_details.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_griditem.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\choose_griditem.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_contact.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_add_contact.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_blacklist.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_blacklist.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_message.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_message.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar_with_padding.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\search_bar_with_padding.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_splash.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_contact.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_currency.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_currency.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_big_image.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_show_big_image.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_location.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_location.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer_view.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\listview_footer_view.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baidumap.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_baidumap.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\search_bar.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_settings.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_conversation_settings.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_expression.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_expression.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_location.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_location.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_progress.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\layout_progress.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups_search.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_public_groups_search.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_currency.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_currency.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups_search.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_public_groups_search.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commom_back_btn.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\commom_back_btn.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact_with_checkbox.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_contact_with_checkbox.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_message.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_message.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choosevideoactivity.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_choosevideoactivity.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_location.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_location.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_file.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_file.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_video.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_location.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_location.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recorder_activity.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\recorder_activity.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_big_image.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_show_big_image.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_contact.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_history.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_conversation_history.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_picture.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_picture.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pick_contact_no_checkbox.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_pick_contact_no_checkbox.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_location.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\context_menu_for_location.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_file.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_file.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_group.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_group.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_picture.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_picture.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_blacklist.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_group_blacklist.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commom_back_btn.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\commom_back_btn.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\logout_actionsheet.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\logout_actionsheet.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_map.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_map.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\search_bar.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\alert_dialog.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_file.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_file.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_public_groups.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_call.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_video_call.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chatroom.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_chatroom.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_file.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_file.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_pick_contacts.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_group_pick_contacts.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_init_view.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\main_init_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_grid_fragment.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\image_grid_fragment.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_invite_msg.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_invite_msg.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_register.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_settings.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_conversation_settings.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\showvideo_activity.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\showvideo_activity.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\logout_actionsheet.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\logout_actionsheet.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact_with_checkbox.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_contact_with_checkbox.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_location.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_location.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_init_view.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\main_init_view.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_pick_contacts.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_group_pick_contacts.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_video.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_map.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_map.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_public_groups.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact_list.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_contact_list.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice_call.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_voice_call.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups_search.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_public_groups_search.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_text.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\context_menu_for_text.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_video.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_groups.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_groups.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar_with_padding.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\search_bar_with_padding.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_emojicon.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_emojicon.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_emojicon.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_emojicon.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_history.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_conversation_history.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact_list.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_contact_list.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baidumap.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_baidumap.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_edit.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_voice.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\context_menu_for_voice.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_register.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_text.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\context_menu_for_text.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_groups.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_groups.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_black_list.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_black_list.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_call.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_video_call.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_diagnose.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_diagnose.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\alert_dialog.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_edit.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_push.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_offline_push.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friends_msg.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_new_friends_msg.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer_view.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\listview_footer_view.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_file.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_file.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_contact.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_add_contact.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\grid.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_botton_tab.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\main_botton_tab.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_contact.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_add_contact.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\showvideo_activity.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\showvideo_activity.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_edit.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_griditem.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\choose_griditem.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice_call.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_voice_call.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer_view.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\listview_footer_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_voice.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\grid.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_video.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choosevideoactivity.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_choosevideoactivity.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_expression.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_expression.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_chat.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_neterror_item.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\chat_neterror_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_push.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_offline_push.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_register.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_black_list.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_black_list.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_chat_history.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_chat_history.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commom_back_btn.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\commom_back_btn.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friends_msg.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_new_friends_msg.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact_with_checkbox.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_contact_with_checkbox.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_details.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_group_details.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chatroom.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_chatroom.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_text.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\context_menu_for_text.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_push.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_offline_push.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_picture.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_picture.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video_call.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_video_call.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_chat.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_video.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\context_menu_for_video.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_voice.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_video.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\context_menu_for_video.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_details.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_group_details.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar_with_padding.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\search_bar_with_padding.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_message.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_message.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_video.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_pick_contacts.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_group_pick_contacts.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_neterror_item.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\chat_neterror_item.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\currency_list.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\currency_list.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_expression.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_expression.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice_call.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_voice_call.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_group.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_group.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_video.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\context_menu_for_video.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commom_back_btn.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\commom_back_btn.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_details.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_group_details.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_login.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_griditem.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\choose_griditem.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_splash.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\alert_dialog.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_chat.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_currency.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\item_currency.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_image.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\context_menu_for_image.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar_with_padding.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\search_bar_with_padding.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_init_view.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\main_init_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_video.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\currency_list.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\currency_list.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\search_bar.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_image.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\context_menu_for_image.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice_call.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_voice_call.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_diagnose.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_diagnose.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_group.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_new_group.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expression_gridview.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\expression_gridview.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_group.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_new_group.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_splash.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_black_list.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_black_list.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friends_msg.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_new_friends_msg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_file.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_show_file.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact_list.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\fragment_contact_list.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choosevideoactivity.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_choosevideoactivity.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\search_bar.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voice_call.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_voice_call.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_chat_history.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_chat_history.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pick_contact_no_checkbox.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_pick_contact_no_checkbox.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_group.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_group.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice_call.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_received_voice_call.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_image.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\context_menu_for_image.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_add_group.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_add_group.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice_call.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_voice_call.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_message.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_message.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_expression.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_expression.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recorder_activity.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\recorder_activity.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expression_gridview.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\expression_gridview.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_location.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ChatDemoUI1\\app\\src\\main\\res\\layout\\context_menu_for_location.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_griditem.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\choose_griditem.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_simle_details.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_group_simle_details.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baidumap.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\activity_baidumap.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video_call.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_video_call.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_add_group.xml",
-        "source": "H:\\AndroidStudio\\MyPro\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_add_group.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_message.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\row_sent_message.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_voice.xml",
-        "source": "D:\\AndroidStudioProjects\\ChatDemoUI1\\app\\src\\main\\res\\layout\\context_menu_for_voice.xml"
+        "merged": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_history.xml",
+        "source": "E:\\item\\Mygit\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_conversation_history.xml"
     }
 ]

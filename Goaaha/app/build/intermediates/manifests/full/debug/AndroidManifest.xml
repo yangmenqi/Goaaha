@@ -61,7 +61,7 @@
             android:name="com.easemob.chatuidemo.activity.LoginActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="adjustResize|stateVisible" >
+            android:windowSoftInputMode="stateVisible|adjustResize" >
         </activity>
 
         <!-- 注册 -->

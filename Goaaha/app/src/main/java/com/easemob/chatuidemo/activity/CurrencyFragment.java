@@ -9,6 +9,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.EditText;
+import android.widget.Toast;
 
 import com.easemob.chatuidemo.R;
 import com.loopj.android.http.AsyncHttpClient;
@@ -131,45 +132,49 @@ public class CurrencyFragment extends Fragment {
         into.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                AsyncHttpClient client = new AsyncHttpClient();
-                String url = "http://web.juhe.cn:8080/finance/exchange/rmbquot?key=8d573ae59a15f9d61a4f1024a282cf8c";
-                client.get(getActivity().getApplicationContext(), url, new JsonHttpResponseHandler() {
-                    @Override
-                    public void onSuccess(int statusCode, Header[] headers, JSONObject response) {
-                        super.onSuccess(statusCode, headers, response);
-                        // response为返回的JSON对象
-                        System.out.println(response.toString());
-                        // 获得 response 中的 result 属性
-                        try {
-                            JSONArray result = response.getJSONArray("result");
-                            JSONObject data = result.getJSONObject(0);
-                            for (int i = 0; i < 20; i++) {
-                                int k = i + 1;
-                                String j = "" + k;
-                                JSONObject data1 = data.getJSONObject("data" + j);
-                                if (currency1.getText().equals("人民币")) {
-                                    rate1 = 100;
-                                } else {
-                                    if (data1.getString("name").equals(currency1.getText())) {
-                                        rate1 = Double.parseDouble(data1.getString("fSellPri"));
+                if(et1.getText().toString().equals("")){
+                    Toast.makeText(getActivity(),"请输入所要兑换金额",Toast.LENGTH_SHORT).show();
+                }else {
+                    AsyncHttpClient client = new AsyncHttpClient();
+                    String url = "http://web.juhe.cn:8080/finance/exchange/rmbquot?key=8d573ae59a15f9d61a4f1024a282cf8c";
+                    client.get(getActivity().getApplicationContext(), url, new JsonHttpResponseHandler() {
+                        @Override
+                        public void onSuccess(int statusCode, Header[] headers, JSONObject response) {
+                            super.onSuccess(statusCode, headers, response);
+                            // response为返回的JSON对象
+                            System.out.println(response.toString());
+                            // 获得 response 中的 result 属性
+                            try {
+                                JSONArray result = response.getJSONArray("result");
+                                JSONObject data = result.getJSONObject(0);
+                                for (int i = 0; i < 20; i++) {
+                                    int k = i + 1;
+                                    String j = "" + k;
+                                    JSONObject data1 = data.getJSONObject("data" + j);
+                                    if (currency1.getText().equals("人民币")) {
+                                        rate1 = 100;
+                                    } else {
+                                        if (data1.getString("name").equals(currency1.getText())) {
+                                            rate1 = Double.parseDouble(data1.getString("fSellPri"));
+                                        }
+                                    }
+                                    if (currency2.getText().equals("人民币")) {
+                                        rate2 = 100;
+                                    } else {
+                                        if (data1.getString("name").equals(currency2.getText())) {
+                                            rate2 = Double.parseDouble(data1.getString("fSellPri"));
+                                        }
                                     }
                                 }
-                                if (currency2.getText().equals("人民币")) {
-                                    rate2 = 100;
-                                } else {
-                                    if (data1.getString("name").equals(currency2.getText())) {
-                                        rate2 = Double.parseDouble(data1.getString("fSellPri"));
-                                    }
-                                }
+                                double calculate = Double.parseDouble(et1.getText().toString()) / rate2 * rate1;
+                                String calculate0 = "" + calculate;
+                                tv2.setText(calculate0);
+                            } catch (JSONException e) {
+                                e.printStackTrace();
                             }
-                            double calculate = Double.parseDouble(et1.getText().toString()) / rate2 * rate1;
-                            String calculate0 = "" + calculate;
-                            tv2.setText(calculate0);
-                        } catch (JSONException e) {
-                            e.printStackTrace();
                         }
-                    }
-                });
+                    });
+                }
             }
         });
         return view;

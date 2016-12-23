@@ -1,6 +1,10 @@
 [
     {
-        "merged": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\color\\main_botton_text_color.xml",
-        "source": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\color\\main_botton_text_color.xml"
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\color\\main_botton_text_color.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\color\\main_botton_text_color.xml"
+    },
+    {
+        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\color\\main_botton_text_color.xml",
+        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\color\\main_botton_text_color.xml"
     }
 ]

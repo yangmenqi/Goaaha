@@ -4,28 +4,28 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="297205663184134" >
+    timestamp="286720209619058" >
 
     <task
         name="javac"
-        duration="8685" />
+        duration="6235" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="6103" />
+        duration="6326" />
     <task
         name="verifier"
-        duration="1045" />
+        duration="842" />
 
     <artifact
-        location="E:\item\Mygit1\Goaaha\Goaaha\app\build\outputs\apk\app-debug.apk"
+        location="E:\item\Mygithub\Goaaha\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="297205663184134" >
+    <build timestamp="286720209619058" >
         <artifact
-            location="E:\item\Mygit1\Goaaha\Goaaha\app\build\outputs\apk\app-debug.apk"
+            location="E:\item\Mygithub\Goaaha\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

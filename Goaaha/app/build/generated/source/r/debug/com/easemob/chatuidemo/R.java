@@ -741,7 +741,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int voice_from_icon=0x7f02012f;
         public static final int voice_to_icon=0x7f020130;
         public static final int voice_unread=0x7f020131;
-        public static final int welcom_logo=0x7f020132;
     }
     public static final class id {
         public static final int CountryLv=0x7f0e00af;

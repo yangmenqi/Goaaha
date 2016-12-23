@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "outputFile": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 95
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__attrs.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__attrs.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 143
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__attrs.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__attrs.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 193
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__attrs.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__attrs.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 243
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__attrs.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__attrs.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 306
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 366
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 427
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 494
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 557
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 600
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 644
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 689
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 738
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 782
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 822
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 869
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 924
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 983
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 1035
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -372,7 +372,7 @@
                     "endOffset": 1088
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -391,7 +391,7 @@
                     "endOffset": 1138
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -410,7 +410,7 @@
                     "endOffset": 1189
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -429,7 +429,7 @@
                     "endOffset": 1239
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -448,7 +448,7 @@
                     "endOffset": 1290
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -467,7 +467,7 @@
                     "endOffset": 1348
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -486,7 +486,7 @@
                     "endOffset": 1399
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -505,7 +505,7 @@
                     "endOffset": 1451
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -524,7 +524,7 @@
                     "endOffset": 1502
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -543,7 +543,7 @@
                     "endOffset": 1554
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -562,7 +562,7 @@
                     "endOffset": 1606
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -581,7 +581,7 @@
                     "endOffset": 1659
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 1717
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -619,7 +619,7 @@
                     "endOffset": 1771
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -638,7 +638,7 @@
                     "endOffset": 1826
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -657,7 +657,7 @@
                     "endOffset": 1877
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -676,7 +676,7 @@
                     "endOffset": 1929
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -695,7 +695,7 @@
                     "endOffset": 1973
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -714,7 +714,7 @@
                     "endOffset": 2035
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -733,7 +733,7 @@
                     "endOffset": 2099
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -752,7 +752,7 @@
                     "endOffset": 2156
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -771,7 +771,7 @@
                     "endOffset": 2210
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -790,7 +790,7 @@
                     "endOffset": 2280
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -809,7 +809,7 @@
                     "endOffset": 2352
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -828,7 +828,7 @@
                     "endOffset": 2426
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -847,7 +847,7 @@
                     "endOffset": 2500
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -866,7 +866,7 @@
                     "endOffset": 2576
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -885,7 +885,7 @@
                     "endOffset": 2649
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -904,7 +904,7 @@
                     "endOffset": 2724
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
@@ -923,7 +923,7 @@
                     "endOffset": 2795
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -942,7 +942,7 @@
                     "endOffset": 2874
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
@@ -961,7 +961,7 @@
                     "endOffset": 2921
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -980,7 +980,7 @@
                     "endOffset": 2972
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -999,7 +999,7 @@
                     "endOffset": 3018
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -1018,7 +1018,7 @@
                     "endOffset": 3065
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -1037,7 +1037,7 @@
                     "endOffset": 3120
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -1056,7 +1056,7 @@
                     "endOffset": 3175
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -1075,7 +1075,7 @@
                     "endOffset": 3229
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1094,7 +1094,7 @@
                     "endOffset": 3270
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
@@ -1113,7 +1113,7 @@
                     "endOffset": 3322
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1132,7 +1132,7 @@
                     "endOffset": 3382
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -1151,7 +1151,7 @@
                     "endOffset": 6084
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1170,7 +1170,7 @@
                     "endOffset": 6140
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1189,7 +1189,7 @@
                     "endOffset": 6196
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1208,7 +1208,7 @@
                     "endOffset": 6253
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -1227,7 +1227,7 @@
                     "endOffset": 6313
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1246,7 +1246,7 @@
                     "endOffset": 6377
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1265,7 +1265,7 @@
                     "endOffset": 6445
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -1284,7 +1284,7 @@
                     "endOffset": 6508
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -1303,7 +1303,7 @@
                     "endOffset": 6573
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -1322,7 +1322,7 @@
                     "endOffset": 6639
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -1341,7 +1341,7 @@
                     "endOffset": 6706
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -1360,7 +1360,7 @@
                     "endOffset": 6784
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -1379,7 +1379,7 @@
                     "endOffset": 6874
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -1398,7 +1398,7 @@
                     "endOffset": 6947
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
@@ -1417,7 +1417,7 @@
                     "endOffset": 7016
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -1436,7 +1436,7 @@
                     "endOffset": 7081
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -1455,7 +1455,7 @@
                     "endOffset": 7149
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
@@ -1474,7 +1474,7 @@
                     "endOffset": 7215
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -1493,7 +1493,7 @@
                     "endOffset": 7264
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1512,7 +1512,7 @@
                     "endOffset": 7310
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1531,7 +1531,7 @@
                     "endOffset": 7359
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1550,7 +1550,7 @@
                     "endOffset": 7405
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1569,7 +1569,7 @@
                     "endOffset": 7458
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1588,7 +1588,7 @@
                     "endOffset": 7512
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1607,7 +1607,7 @@
                     "endOffset": 7563
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1626,7 +1626,7 @@
                     "endOffset": 7612
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1645,7 +1645,7 @@
                     "endOffset": 7661
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1664,7 +1664,7 @@
                     "endOffset": 7704
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1683,7 +1683,7 @@
                     "endOffset": 7773
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1702,7 +1702,7 @@
                     "endOffset": 7852
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -1721,7 +1721,7 @@
                     "endOffset": 7922
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -1740,7 +1740,7 @@
                     "endOffset": 7995
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
@@ -1759,7 +1759,7 @@
                     "endOffset": 8069
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\vpi__defaults.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -1778,7 +1778,7 @@
                     "endOffset": 8147
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 186,
                         "startColumn": 4,
@@ -1797,7 +1797,7 @@
                     "endOffset": 8214
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 128,
                         "startColumn": 4,
@@ -1816,7 +1816,7 @@
                     "endOffset": 8289
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
@@ -1835,7 +1835,7 @@
                     "endOffset": 8353
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 253,
                         "startColumn": 4,
@@ -1854,7 +1854,7 @@
                     "endOffset": 8451
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 210,
                         "startColumn": 4,
@@ -1873,7 +1873,7 @@
                     "endOffset": 8530
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 81,
                         "startColumn": 4,
@@ -1892,7 +1892,7 @@
                     "endOffset": 8604
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 247,
                         "startColumn": 4,
@@ -1911,7 +1911,7 @@
                     "endOffset": 8657
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 250,
                         "startColumn": 4,
@@ -1930,7 +1930,7 @@
                     "endOffset": 8734
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 232,
                         "startColumn": 4,
@@ -1949,7 +1949,7 @@
                     "endOffset": 8789
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 227,
                         "startColumn": 4,
@@ -1968,7 +1968,7 @@
                     "endOffset": 8861
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 175,
                         "startColumn": 4,
@@ -1987,7 +1987,7 @@
                     "endOffset": 8910
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 188,
                         "startColumn": 4,
@@ -2006,7 +2006,7 @@
                     "endOffset": 8988
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 160,
                         "startColumn": 4,
@@ -2025,7 +2025,7 @@
                     "endOffset": 9056
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 260,
                         "startColumn": 4,
@@ -2044,7 +2044,7 @@
                     "endOffset": 9151
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 219,
                         "startColumn": 4,
@@ -2063,7 +2063,7 @@
                     "endOffset": 9217
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 237,
                         "startColumn": 4,
@@ -2082,7 +2082,7 @@
                     "endOffset": 9277
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 89,
                         "startColumn": 4,
@@ -2101,7 +2101,7 @@
                     "endOffset": 9336
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 162,
                         "startColumn": 4,
@@ -2120,7 +2120,7 @@
                     "endOffset": 9402
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 258,
                         "startColumn": 4,
@@ -2139,7 +2139,7 @@
                     "endOffset": 9466
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 244,
                         "startColumn": 4,
@@ -2158,7 +2158,7 @@
                     "endOffset": 9550
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 178,
                         "startColumn": 4,
@@ -2177,7 +2177,7 @@
                     "endOffset": 9626
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 228,
                         "startColumn": 4,
@@ -2196,7 +2196,7 @@
                     "endOffset": 9703
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 229,
                         "startColumn": 4,
@@ -2215,7 +2215,7 @@
                     "endOffset": 9772
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 99,
                         "startColumn": 4,
@@ -2234,7 +2234,7 @@
                     "endOffset": 9835
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 123,
                         "startColumn": 4,
@@ -2253,7 +2253,7 @@
                     "endOffset": 9917
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 177,
                         "startColumn": 4,
@@ -2272,7 +2272,7 @@
                     "endOffset": 9993
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 215,
                         "startColumn": 4,
@@ -2291,7 +2291,7 @@
                     "endOffset": 10070
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 230,
                         "startColumn": 4,
@@ -2310,7 +2310,7 @@
                     "endOffset": 10168
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 190,
                         "startColumn": 4,
@@ -2329,7 +2329,7 @@
                     "endOffset": 10251
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 195,
                         "startColumn": 4,
@@ -2348,7 +2348,7 @@
                     "endOffset": 10319
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 149,
                         "startColumn": 4,
@@ -2367,7 +2367,7 @@
                     "endOffset": 10369
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 119,
                         "startColumn": 4,
@@ -2386,7 +2386,7 @@
                     "endOffset": 10442
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 102,
                         "startColumn": 4,
@@ -2405,7 +2405,7 @@
                     "endOffset": 10503
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 94,
                         "startColumn": 4,
@@ -2424,7 +2424,7 @@
                     "endOffset": 10585
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 213,
                         "startColumn": 4,
@@ -2443,7 +2443,7 @@
                     "endOffset": 10643
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 103,
                         "startColumn": 4,
@@ -2462,7 +2462,7 @@
                     "endOffset": 10693
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 113,
                         "startColumn": 4,
@@ -2481,7 +2481,7 @@
                     "endOffset": 10744
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 248,
                         "startColumn": 4,
@@ -2500,7 +2500,7 @@
                     "endOffset": 10828
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 245,
                         "startColumn": 4,
@@ -2519,7 +2519,7 @@
                     "endOffset": 10885
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 144,
                         "startColumn": 4,
@@ -2538,7 +2538,7 @@
                     "endOffset": 10936
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 249,
                         "startColumn": 4,
@@ -2557,7 +2557,7 @@
                     "endOffset": 10999
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 243,
                         "startColumn": 4,
@@ -2576,7 +2576,7 @@
                     "endOffset": 11053
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 235,
                         "startColumn": 4,
@@ -2595,7 +2595,7 @@
                     "endOffset": 11123
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 242,
                         "startColumn": 4,
@@ -2614,7 +2614,7 @@
                     "endOffset": 11170
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 104,
                         "startColumn": 4,
@@ -2633,7 +2633,7 @@
                     "endOffset": 11261
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 209,
                         "startColumn": 4,
@@ -2652,7 +2652,7 @@
                     "endOffset": 11362
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 254,
                         "startColumn": 4,
@@ -2671,7 +2671,7 @@
                     "endOffset": 11412
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 201,
                         "startColumn": 4,
@@ -2690,7 +2690,7 @@
                     "endOffset": 11486
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 163,
                         "startColumn": 4,
@@ -2709,7 +2709,7 @@
                     "endOffset": 11571
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 233,
                         "startColumn": 4,
@@ -2728,7 +2728,7 @@
                     "endOffset": 11642
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 191,
                         "startColumn": 4,
@@ -2747,7 +2747,7 @@
                     "endOffset": 11702
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 221,
                         "startColumn": 4,
@@ -2766,7 +2766,7 @@
                     "endOffset": 11775
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 214,
                         "startColumn": 4,
@@ -2785,7 +2785,7 @@
                     "endOffset": 11831
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 180,
                         "startColumn": 4,
@@ -2804,7 +2804,7 @@
                     "endOffset": 11894
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
@@ -2823,7 +2823,7 @@
                     "endOffset": 11965
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 165,
                         "startColumn": 4,
@@ -2842,7 +2842,7 @@
                     "endOffset": 12049
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 164,
                         "startColumn": 4,
@@ -2861,7 +2861,7 @@
                     "endOffset": 12104
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
@@ -2880,7 +2880,7 @@
                     "endOffset": 12172
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 211,
                         "startColumn": 4,
@@ -2899,7 +2899,7 @@
                     "endOffset": 12254
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 132,
                         "startColumn": 4,
@@ -2918,7 +2918,7 @@
                     "endOffset": 12348
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 173,
                         "startColumn": 4,
@@ -2937,7 +2937,7 @@
                     "endOffset": 12432
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 157,
                         "startColumn": 4,
@@ -2956,7 +2956,7 @@
                     "endOffset": 12516
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 156,
                         "startColumn": 4,
@@ -2975,7 +2975,7 @@
                     "endOffset": 12596
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 259,
                         "startColumn": 4,
@@ -2994,7 +2994,7 @@
                     "endOffset": 12652
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 131,
                         "startColumn": 4,
@@ -3013,7 +3013,7 @@
                     "endOffset": 12696
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 90,
                         "startColumn": 4,
@@ -3032,7 +3032,7 @@
                     "endOffset": 12753
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 97,
                         "startColumn": 4,
@@ -3051,7 +3051,7 @@
                     "endOffset": 12832
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 96,
                         "startColumn": 4,
@@ -3070,7 +3070,7 @@
                     "endOffset": 12915
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 218,
                         "startColumn": 4,
@@ -3089,7 +3089,7 @@
                     "endOffset": 12994
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 199,
                         "startColumn": 4,
@@ -3108,7 +3108,7 @@
                     "endOffset": 13070
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 124,
                         "startColumn": 4,
@@ -3127,7 +3127,7 @@
                     "endOffset": 13156
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 153,
                         "startColumn": 4,
@@ -3146,7 +3146,7 @@
                     "endOffset": 13200
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 138,
                         "startColumn": 4,
@@ -3165,7 +3165,7 @@
                     "endOffset": 13276
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 222,
                         "startColumn": 4,
@@ -3184,7 +3184,7 @@
                     "endOffset": 13345
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 226,
                         "startColumn": 4,
@@ -3203,7 +3203,7 @@
                     "endOffset": 13421
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 212,
                         "startColumn": 4,
@@ -3222,7 +3222,7 @@
                     "endOffset": 13487
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 135,
                         "startColumn": 4,
@@ -3241,7 +3241,7 @@
                     "endOffset": 13568
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 130,
                         "startColumn": 4,
@@ -3260,7 +3260,7 @@
                     "endOffset": 13652
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 246,
                         "startColumn": 4,
@@ -3279,7 +3279,7 @@
                     "endOffset": 13710
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
@@ -3298,7 +3298,7 @@
                     "endOffset": 13776
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 101,
                         "startColumn": 4,
@@ -3317,7 +3317,7 @@
                     "endOffset": 13861
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 255,
                         "startColumn": 4,
@@ -3336,7 +3336,7 @@
                     "endOffset": 13951
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 152,
                         "startColumn": 4,
@@ -3355,7 +3355,7 @@
                     "endOffset": 14018
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 100,
                         "startColumn": 4,
@@ -3374,7 +3374,7 @@
                     "endOffset": 14104
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 185,
                         "startColumn": 4,
@@ -3393,7 +3393,7 @@
                     "endOffset": 14200
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 150,
                         "startColumn": 4,
@@ -3412,7 +3412,7 @@
                     "endOffset": 14264
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 92,
                         "startColumn": 4,
@@ -3431,7 +3431,7 @@
                     "endOffset": 14341
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 240,
                         "startColumn": 4,
@@ -3450,7 +3450,7 @@
                     "endOffset": 14416
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 140,
                         "startColumn": 4,
@@ -3469,7 +3469,7 @@
                     "endOffset": 14495
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 141,
                         "startColumn": 4,
@@ -3488,7 +3488,7 @@
                     "endOffset": 14595
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 239,
                         "startColumn": 4,
@@ -3507,7 +3507,7 @@
                     "endOffset": 14678
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 142,
                         "startColumn": 4,
@@ -3526,7 +3526,7 @@
                     "endOffset": 14765
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 241,
                         "startColumn": 4,
@@ -3545,7 +3545,7 @@
                     "endOffset": 14841
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 139,
                         "startColumn": 4,
@@ -3564,7 +3564,7 @@
                     "endOffset": 14944
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 238,
                         "startColumn": 4,
@@ -3583,7 +3583,7 @@
                     "endOffset": 15027
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 236,
                         "startColumn": 4,
@@ -3602,7 +3602,7 @@
                     "endOffset": 15119
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 154,
                         "startColumn": 4,
@@ -3621,7 +3621,7 @@
                     "endOffset": 15185
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 216,
                         "startColumn": 4,
@@ -3640,7 +3640,7 @@
                     "endOffset": 15279
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 127,
                         "startColumn": 4,
@@ -3659,7 +3659,7 @@
                     "endOffset": 15339
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 105,
                         "startColumn": 4,
@@ -3678,7 +3678,7 @@
                     "endOffset": 15429
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 220,
                         "startColumn": 4,
@@ -3697,7 +3697,7 @@
                     "endOffset": 15490
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 91,
                         "startColumn": 4,
@@ -3716,7 +3716,7 @@
                     "endOffset": 15560
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 224,
                         "startColumn": 4,
@@ -3735,7 +3735,7 @@
                     "endOffset": 15641
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 198,
                         "startColumn": 4,
@@ -3754,7 +3754,7 @@
                     "endOffset": 15717
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 231,
                         "startColumn": 4,
@@ -3773,7 +3773,7 @@
                     "endOffset": 15772
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 197,
                         "startColumn": 4,
@@ -3792,7 +3792,7 @@
                     "endOffset": 15829
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 95,
                         "startColumn": 4,
@@ -3811,7 +3811,7 @@
                     "endOffset": 15904
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 151,
                         "startColumn": 4,
@@ -3830,7 +3830,7 @@
                     "endOffset": 15970
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 217,
                         "startColumn": 4,
@@ -3849,7 +3849,7 @@
                     "endOffset": 16021
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 84,
                         "startColumn": 4,
@@ -3868,7 +3868,7 @@
                     "endOffset": 16088
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 262,
                         "startColumn": 4,
@@ -3887,7 +3887,7 @@
                     "endOffset": 16142
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 76,
                         "startColumn": 4,
@@ -3906,7 +3906,7 @@
                     "endOffset": 16182
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 118,
                         "startColumn": 4,
@@ -3925,7 +3925,7 @@
                     "endOffset": 16224
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 115,
                         "startColumn": 4,
@@ -3944,7 +3944,7 @@
                     "endOffset": 16268
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -3963,7 +3963,7 @@
                     "endOffset": 16338
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 171,
                         "startColumn": 4,
@@ -3982,7 +3982,7 @@
                     "endOffset": 16383
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -4001,7 +4001,7 @@
                     "endOffset": 16436
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -4020,7 +4020,7 @@
                     "endOffset": 16485
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -4039,7 +4039,7 @@
                     "endOffset": 16535
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -4058,7 +4058,7 @@
                     "endOffset": 16587
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -4077,7 +4077,7 @@
                     "endOffset": 16634
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -4096,7 +4096,7 @@
                     "endOffset": 16691
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -4115,7 +4115,7 @@
                     "endOffset": 16748
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -4134,7 +4134,7 @@
                     "endOffset": 16786
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -4153,7 +4153,7 @@
                     "endOffset": 16838
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 136,
                         "startColumn": 4,
@@ -4172,7 +4172,7 @@
                     "endOffset": 16884
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 168,
                         "startColumn": 4,
@@ -4191,7 +4191,7 @@
                     "endOffset": 16934
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 86,
                         "startColumn": 4,
@@ -4210,7 +4210,7 @@
                     "endOffset": 16983
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 98,
                         "startColumn": 4,
@@ -4229,7 +4229,7 @@
                     "endOffset": 17033
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 74,
                         "startColumn": 4,
@@ -4248,7 +4248,7 @@
                     "endOffset": 17076
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
@@ -4267,7 +4267,7 @@
                     "endOffset": 17125
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -4286,7 +4286,7 @@
                     "endOffset": 17174
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -4305,7 +4305,7 @@
                     "endOffset": 17233
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -4324,7 +4324,7 @@
                     "endOffset": 17278
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
@@ -4343,7 +4343,7 @@
                     "endOffset": 17325
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -4362,7 +4362,7 @@
                     "endOffset": 17370
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -4381,7 +4381,7 @@
                     "endOffset": 17430
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -4400,7 +4400,7 @@
                     "endOffset": 17486
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 137,
                         "startColumn": 4,
@@ -4419,7 +4419,7 @@
                     "endOffset": 17578
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -4438,7 +4438,7 @@
                     "endOffset": 17620
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -4457,7 +4457,7 @@
                     "endOffset": 17689
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 148,
                         "startColumn": 4,
@@ -4476,7 +4476,7 @@
                     "endOffset": 17830
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 174,
                         "startColumn": 4,
@@ -4495,7 +4495,7 @@
                     "endOffset": 17878
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 120,
                         "startColumn": 4,
@@ -4514,7 +4514,7 @@
                     "endOffset": 17960
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 266,
                         "startColumn": 4,
@@ -4533,7 +4533,7 @@
                     "endOffset": 18010
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 72,
                         "startColumn": 4,
@@ -4552,7 +4552,7 @@
                     "endOffset": 18079
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 170,
                         "startColumn": 4,
@@ -4571,7 +4571,7 @@
                     "endOffset": 18150
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -4590,7 +4590,7 @@
                     "endOffset": 18212
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
@@ -4609,7 +4609,7 @@
                     "endOffset": 18288
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
@@ -4628,7 +4628,7 @@
                     "endOffset": 18350
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -4647,7 +4647,7 @@
                     "endOffset": 18435
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 189,
                         "startColumn": 4,
@@ -4666,7 +4666,7 @@
                     "endOffset": 18496
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 110,
                         "startColumn": 4,
@@ -4685,7 +4685,7 @@
                     "endOffset": 18587
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 66,
                         "startColumn": 4,
@@ -4704,7 +4704,7 @@
                     "endOffset": 18681
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -4723,7 +4723,7 @@
                     "endOffset": 18719
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -4742,7 +4742,7 @@
                     "endOffset": 18773
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -4761,7 +4761,7 @@
                     "endOffset": 18819
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 78,
                         "startColumn": 4,
@@ -4780,7 +4780,7 @@
                     "endOffset": 18861
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -4799,7 +4799,7 @@
                     "endOffset": 18929
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -4818,7 +4818,7 @@
                     "endOffset": 19019
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -4837,7 +4837,7 @@
                     "endOffset": 19077
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -4856,7 +4856,7 @@
                     "endOffset": 19131
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -4875,7 +4875,7 @@
                     "endOffset": 19185
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -4894,7 +4894,7 @@
                     "endOffset": 19233
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 161,
                         "startColumn": 4,
@@ -4913,7 +4913,7 @@
                     "endOffset": 19279
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 87,
                         "startColumn": 4,
@@ -4932,7 +4932,7 @@
                     "endOffset": 19337
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 143,
                         "startColumn": 4,
@@ -4951,7 +4951,7 @@
                     "endOffset": 19384
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 251,
                         "startColumn": 4,
@@ -4970,7 +4970,7 @@
                     "endOffset": 19440
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 261,
                         "startColumn": 4,
@@ -4989,7 +4989,7 @@
                     "endOffset": 19533
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 64,
                         "startColumn": 4,
@@ -5008,7 +5008,7 @@
                     "endOffset": 19618
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 111,
                         "startColumn": 4,
@@ -5027,7 +5027,7 @@
                     "endOffset": 19688
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 4,
@@ -5046,7 +5046,7 @@
                     "endOffset": 19790
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 274,
                         "startColumn": 4,
@@ -5065,7 +5065,7 @@
                     "endOffset": 19880
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 275,
                         "startColumn": 4,
@@ -5084,7 +5084,7 @@
                     "endOffset": 19924
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 65,
                         "startColumn": 4,
@@ -5103,7 +5103,7 @@
                     "endOffset": 20032
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -5122,7 +5122,7 @@
                     "endOffset": 20084
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 134,
                         "startColumn": 4,
@@ -5141,7 +5141,7 @@
                     "endOffset": 20193
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 277,
                         "startColumn": 4,
@@ -5160,7 +5160,7 @@
                     "endOffset": 20318
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 176,
                         "startColumn": 4,
@@ -5179,7 +5179,7 @@
                     "endOffset": 20358
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -5198,7 +5198,7 @@
                     "endOffset": 20402
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -5217,7 +5217,7 @@
                     "endOffset": 20518
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 166,
                         "startColumn": 4,
@@ -5236,7 +5236,7 @@
                     "endOffset": 20586
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 263,
                         "startColumn": 4,
@@ -5255,7 +5255,7 @@
                     "endOffset": 20636
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 83,
                         "startColumn": 4,
@@ -5274,7 +5274,7 @@
                     "endOffset": 20682
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 267,
                         "startColumn": 4,
@@ -5293,7 +5293,7 @@
                     "endOffset": 20748
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 182,
                         "startColumn": 4,
@@ -5312,7 +5312,7 @@
                     "endOffset": 20798
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 93,
                         "startColumn": 4,
@@ -5331,7 +5331,7 @@
                     "endOffset": 20869
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 271,
                         "startColumn": 4,
@@ -5350,7 +5350,7 @@
                     "endOffset": 20988
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
@@ -5369,7 +5369,7 @@
                     "endOffset": 21050
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 272,
                         "startColumn": 4,
@@ -5388,7 +5388,7 @@
                     "endOffset": 21094
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 114,
                         "startColumn": 4,
@@ -5407,7 +5407,7 @@
                     "endOffset": 21146
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 279,
                         "startColumn": 4,
@@ -5426,7 +5426,7 @@
                     "endOffset": 21251
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 234,
                         "startColumn": 4,
@@ -5445,7 +5445,7 @@
                     "endOffset": 21333
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 206,
                         "startColumn": 4,
@@ -5464,7 +5464,7 @@
                     "endOffset": 21403
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 283,
                         "startColumn": 4,
@@ -5483,7 +5483,7 @@
                     "endOffset": 21467
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 280,
                         "startColumn": 4,
@@ -5502,7 +5502,7 @@
                     "endOffset": 21532
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 269,
                         "startColumn": 4,
@@ -5521,7 +5521,7 @@
                     "endOffset": 21622
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 122,
                         "startColumn": 4,
@@ -5540,7 +5540,7 @@
                     "endOffset": 21702
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 172,
                         "startColumn": 4,
@@ -5559,7 +5559,7 @@
                     "endOffset": 21767
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,
@@ -5578,7 +5578,7 @@
                     "endOffset": 21831
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 265,
                         "startColumn": 4,
@@ -5597,7 +5597,7 @@
                     "endOffset": 21906
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
@@ -5616,7 +5616,7 @@
                     "endOffset": 21976
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -5635,7 +5635,7 @@
                     "endOffset": 22034
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -5654,7 +5654,7 @@
                     "endOffset": 22092
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -5673,7 +5673,7 @@
                     "endOffset": 22132
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 106,
                         "startColumn": 4,
@@ -5692,7 +5692,7 @@
                     "endOffset": 22234
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 203,
                         "startColumn": 4,
@@ -5711,7 +5711,7 @@
                     "endOffset": 22276
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
@@ -5730,7 +5730,7 @@
                     "endOffset": 22397
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -5749,7 +5749,7 @@
                     "endOffset": 22433
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 79,
                         "startColumn": 4,
@@ -5768,7 +5768,7 @@
                     "endOffset": 22501
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 268,
                         "startColumn": 4,
@@ -5787,7 +5787,7 @@
                     "endOffset": 22575
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -5806,7 +5806,7 @@
                     "endOffset": 22613
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 112,
                         "startColumn": 4,
@@ -5825,7 +5825,7 @@
                     "endOffset": 22711
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 223,
                         "startColumn": 4,
@@ -5844,7 +5844,7 @@
                     "endOffset": 22792
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 4,
@@ -5863,7 +5863,7 @@
                     "endOffset": 22906
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -5882,7 +5882,7 @@
                     "endOffset": 22959
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 117,
                         "startColumn": 4,
@@ -5901,7 +5901,7 @@
                     "endOffset": 23021
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 70,
                         "startColumn": 4,
@@ -5920,7 +5920,7 @@
                     "endOffset": 23213
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 273,
                         "startColumn": 4,
@@ -5939,7 +5939,7 @@
                     "endOffset": 23275
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 264,
                         "startColumn": 4,
@@ -5958,7 +5958,7 @@
                     "endOffset": 23337
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 126,
                         "startColumn": 4,
@@ -5977,7 +5977,7 @@
                     "endOffset": 23433
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 146,
                         "startColumn": 4,
@@ -5996,7 +5996,7 @@
                     "endOffset": 23500
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 187,
                         "startColumn": 4,
@@ -6015,7 +6015,7 @@
                     "endOffset": 23559
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 121,
                         "startColumn": 4,
@@ -6034,7 +6034,7 @@
                     "endOffset": 23619
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 69,
                         "startColumn": 4,
@@ -6053,7 +6053,7 @@
                     "endOffset": 23688
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 80,
                         "startColumn": 4,
@@ -6072,7 +6072,7 @@
                     "endOffset": 23722
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -6091,7 +6091,7 @@
                     "endOffset": 23768
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 108,
                         "startColumn": 4,
@@ -6110,7 +6110,7 @@
                     "endOffset": 23810
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 167,
                         "startColumn": 4,
@@ -6129,7 +6129,7 @@
                     "endOffset": 23856
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -6148,7 +6148,7 @@
                     "endOffset": 23971
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 133,
                         "startColumn": 4,
@@ -6167,7 +6167,7 @@
                     "endOffset": 24121
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
@@ -6186,7 +6186,7 @@
                     "endOffset": 24163
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -6205,7 +6205,7 @@
                     "endOffset": 24223
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 88,
                         "startColumn": 4,
@@ -6224,7 +6224,7 @@
                     "endOffset": 24305
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
@@ -6243,7 +6243,7 @@
                     "endOffset": 24388
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -6262,7 +6262,7 @@
                     "endOffset": 24445
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
@@ -6281,7 +6281,7 @@
                     "endOffset": 24517
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 276,
                         "startColumn": 4,
@@ -6300,7 +6300,7 @@
                     "endOffset": 24563
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 109,
                         "startColumn": 4,
@@ -6319,7 +6319,7 @@
                     "endOffset": 24671
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 225,
                         "startColumn": 4,
@@ -6338,7 +6338,7 @@
                     "endOffset": 24716
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 252,
                         "startColumn": 4,
@@ -6357,7 +6357,7 @@
                     "endOffset": 24795
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -6376,7 +6376,7 @@
                     "endOffset": 24918
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
@@ -6395,7 +6395,7 @@
                     "endOffset": 24960
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -6414,7 +6414,7 @@
                     "endOffset": 24998
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -6433,7 +6433,7 @@
                     "endOffset": 25062
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 82,
                         "startColumn": 4,
@@ -6452,7 +6452,7 @@
                     "endOffset": 25159
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 147,
                         "startColumn": 4,
@@ -6471,7 +6471,7 @@
                     "endOffset": 25201
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 85,
                         "startColumn": 4,
@@ -6490,7 +6490,7 @@
                     "endOffset": 25250
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -6509,7 +6509,7 @@
                     "endOffset": 25296
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 256,
                         "startColumn": 4,
@@ -6528,7 +6528,7 @@
                     "endOffset": 25363
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 270,
                         "startColumn": 4,
@@ -6547,7 +6547,7 @@
                     "endOffset": 25411
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 278,
                         "startColumn": 4,
@@ -6566,7 +6566,7 @@
                     "endOffset": 25474
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 4,
@@ -6585,7 +6585,7 @@
                     "endOffset": 25524
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -6604,7 +6604,7 @@
                     "endOffset": 25628
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 155,
                         "startColumn": 4,
@@ -6623,7 +6623,7 @@
                     "endOffset": 25721
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 129,
                         "startColumn": 4,
@@ -6642,7 +6642,7 @@
                     "endOffset": 25821
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 193,
                         "startColumn": 4,
@@ -6661,7 +6661,7 @@
                     "endOffset": 25870
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 75,
                         "startColumn": 4,
@@ -6680,7 +6680,7 @@
                     "endOffset": 25911
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 68,
                         "startColumn": 4,
@@ -6699,7 +6699,7 @@
                     "endOffset": 25956
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 77,
                         "startColumn": 4,
@@ -6718,7 +6718,7 @@
                     "endOffset": 25996
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 71,
                         "startColumn": 4,
@@ -6737,7 +6737,7 @@
                     "endOffset": 26063
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 184,
                         "startColumn": 4,
@@ -6756,7 +6756,7 @@
                     "endOffset": 26170
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -6775,7 +6775,7 @@
                     "endOffset": 26216
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -6794,7 +6794,7 @@
                     "endOffset": 26273
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -6813,7 +6813,7 @@
                     "endOffset": 26356
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 159,
                         "startColumn": 4,
@@ -6832,7 +6832,7 @@
                     "endOffset": 26476
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 208,
                         "startColumn": 4,
@@ -6851,7 +6851,7 @@
                     "endOffset": 26524
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
@@ -6870,7 +6870,7 @@
                     "endOffset": 26602
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 116,
                         "startColumn": 4,
@@ -6889,7 +6889,7 @@
                     "endOffset": 26697
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 145,
                         "startColumn": 4,
@@ -6908,7 +6908,7 @@
                     "endOffset": 26749
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -6927,7 +6927,7 @@
                     "endOffset": 26797
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 107,
                         "startColumn": 4,
@@ -6946,7 +6946,7 @@
                     "endOffset": 26839
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
@@ -6965,7 +6965,7 @@
                     "endOffset": 26879
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 4,
@@ -6984,7 +6984,7 @@
                     "endOffset": 26931
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
@@ -7003,7 +7003,7 @@
                     "endOffset": 26983
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 73,
                         "startColumn": 4,
@@ -7022,7 +7022,7 @@
                     "endOffset": 27065
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 158,
                         "startColumn": 4,
@@ -7042,7 +7042,7 @@
                     "endOffset": 27298
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 4,
@@ -7063,7 +7063,7 @@
                     "endOffset": 27610
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -7084,7 +7084,7 @@
                     "endOffset": 28047
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -7105,7 +7105,7 @@
                     "endOffset": 28264
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -7126,7 +7126,7 @@
                     "endOffset": 28488
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -7147,7 +7147,7 @@
                     "endOffset": 28715
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 4,
@@ -7168,7 +7168,7 @@
                     "endOffset": 28876
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 4,
@@ -7189,7 +7189,7 @@
                     "endOffset": 29027
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 71,
                         "startColumn": 4,
@@ -7209,7 +7209,7 @@
                     "endOffset": 29085
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -7229,7 +7229,7 @@
                     "endOffset": 29710
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 139,
                         "startColumn": 4,
@@ -7250,7 +7250,7 @@
                     "endOffset": 30045
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 100,
                         "startColumn": 4,
@@ -7271,7 +7271,7 @@
                     "endOffset": 30613
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 89,
                         "startColumn": 4,
@@ -7292,7 +7292,7 @@
                     "endOffset": 31277
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 107,
                         "startColumn": 4,
@@ -7313,7 +7313,7 @@
                     "endOffset": 31937
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 123,
                         "startColumn": 4,
@@ -7334,7 +7334,7 @@
                     "endOffset": 32450
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 162,
                         "startColumn": 1,
@@ -7355,7 +7355,7 @@
                     "endOffset": 32926
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -7376,7 +7376,7 @@
                     "endOffset": 33433
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -7397,7 +7397,7 @@
                     "endOffset": 33641
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -7418,7 +7418,7 @@
                     "endOffset": 33859
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 155,
                         "startColumn": 4,
@@ -7439,7 +7439,7 @@
                     "endOffset": 34016
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 75,
                         "startColumn": 4,
@@ -7459,7 +7459,7 @@
                     "endOffset": 34083
                 },
                 "from": {
-                    "file": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 79,
                         "startColumn": 4,

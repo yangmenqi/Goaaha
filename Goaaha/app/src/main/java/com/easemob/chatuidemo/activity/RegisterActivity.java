@@ -15,15 +15,21 @@ package com.easemob.chatuidemo.activity;
 
 import android.app.ProgressDialog;
 import android.os.Bundle;
+import android.os.Handler;
+import android.os.Message;
 import android.text.TextUtils;
 import android.view.View;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
 import android.widget.EditText;
+import android.widget.Spinner;
 import android.widget.Toast;
 
 import com.easemob.EMError;
 import com.easemob.chat.EMChatManager;
 import com.easemob.chatuidemo.DemoApplication;
 import com.easemob.chatuidemo.R;
+import com.easemob.chatuidemo.db.Add;
 import com.easemob.exceptions.EaseMobException;
 
 /**
@@ -34,7 +40,9 @@ public class RegisterActivity extends BaseActivity {
 	private EditText userNameEditText;
 	private EditText passwordEditText;
 	private EditText confirmPwdEditText;
-
+	private String F1;
+	private Spinner spinner_f;
+	private ArrayAdapter<String> spinner_adapter;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -42,6 +50,10 @@ public class RegisterActivity extends BaseActivity {
 		userNameEditText = (EditText) findViewById(R.id.username);
 		passwordEditText = (EditText) findViewById(R.id.password);
 		confirmPwdEditText = (EditText) findViewById(R.id.confirm_password);
+		spinner_f = (Spinner) findViewById(R.id.id_spinner_f);
+		spinner_adapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_dropdown_item, RegisterActivity.this.getResources().getStringArray(R.array.s_spinner));
+		spinner_f.setAdapter(spinner_adapter);
+		selectLanguage();
 	}
 
 	/**
@@ -86,7 +98,9 @@ public class RegisterActivity extends BaseActivity {
 									pd.dismiss();
 								// 保存用户名
 								DemoApplication.getInstance().setUserName(username);
-								Toast.makeText(getApplicationContext(), getResources().getString(R.string.Registered_successfully), 0).show();
+								//保存到APP服务器
+								new Thread(new Add(handler,username, F1)).start();
+								Toast.makeText(getApplicationContext(), getResources().getString(R.string.Registered_successfully), Toast.LENGTH_LONG).show();
 								finish();
 							}
 						});
@@ -96,7 +110,7 @@ public class RegisterActivity extends BaseActivity {
 								if (!RegisterActivity.this.isFinishing())
 									pd.dismiss();
 								int errorCode=e.getErrorCode();
-								if(errorCode==EMError.NONETWORK_ERROR){
+								if(errorCode== EMError.NONETWORK_ERROR){
 									Toast.makeText(getApplicationContext(), getResources().getString(R.string.network_anomalies), Toast.LENGTH_SHORT).show();
 								}else if(errorCode == EMError.USER_ALREADY_EXISTS){
 									Toast.makeText(getApplicationContext(), getResources().getString(R.string.User_already_exists), Toast.LENGTH_SHORT).show();
@@ -119,5 +133,88 @@ public class RegisterActivity extends BaseActivity {
 	public void back(View view) {
 		finish();
 	}
+	private Handler handler = new Handler() {
+		@Override
+		public void handleMessage(Message msg) {
+			super.handleMessage(msg);
+			switch (msg.what) {
+				case 0:
+					Toast.makeText(RegisterActivity.this, "APP注册成功", Toast.LENGTH_SHORT).show();
+					break;
+				case 1:
+					Toast.makeText(RegisterActivity.this, "APP用户名已存在", Toast.LENGTH_SHORT).show();
+					break;
+			}
+		}
+	};
+	private void selectLanguage() {
+		spinner_f.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+			@Override
+			public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+				String a = RegisterActivity.this.getResources().getStringArray(R.array.s_spinner)[position];
+				if (a.equals("中文")) {
+					F1 = "zh";
+				} else if (a.equals("英语")) {
+					F1 = "en";
+				} else if (a.equals("粤语")) {
+					F1 = "yue";
+				} else if (a.equals("文言文")) {
+					F1 = "wyw";
+				}else if (a.equals("日语")) {
+					F1 = "jp";
+				}else if (a.equals("韩语")) {
+					F1 = "kor";
+				}else if (a.equals("法语")) {
+					F1 = "fra";
+				}else if (a.equals("西班牙")) {
+					F1 = "spa";
+				}else if (a.equals("泰语")) {
+					F1 = "th";
+				}else if (a.equals("阿拉伯语")) {
+					F1 = "ara";
+				}else if (a.equals("俄语")) {
+					F1 = "ru";
+				}else if (a.equals("葡萄牙语")) {
+					F1 = "pt";
+				}else if (a.equals("德语")) {
+					F1 = "de";
+				}else if (a.equals("意大利语")) {
+					F1 = "it";
+				}else if (a.equals("希腊语")) {
+					F1 = "el";
+				}else if (a.equals("荷兰语")) {
+					F1 = "nl";
+				}else if (a.equals("波兰语")) {
+					F1 = "pl";
+				}else if (a.equals("保加利亚语")) {
+					F1 = "bul";
+				}else if (a.equals("爱沙尼亚语")) {
+					F1 = "est";
+				}else if (a.equals("丹麦语")) {
+					F1 = "dan";
+				}else if (a.equals("芬兰语")) {
+					F1 = "fin";
+				}else if (a.equals("捷克语")) {
+					F1 = "cs";
+				}else if (a.equals("罗马尼亚语")) {
+					F1 = "rom";
+				}else if (a.equals("斯洛文尼亚语")) {
+					F1 = "slo";
+				}else if (a.equals("瑞典语")) {
+					F1 = "swe";
+				}else if (a.equals("匈牙利语")) {
+					F1 = "hu";
+				}else if (a.equals("繁体中文")) {
+					F1 = "cht";
+				}else if (a.equals("越南语")) {
+					F1 = "vie";
+				}
+			}
 
+			@Override
+			public void onNothingSelected(AdapterView<?> parent) {
+
+			}
+		});
+	}
 }

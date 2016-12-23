@@ -13,19 +13,6 @@
  */
 package com.easemob.chatuidemo.activity;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.lang.reflect.Field;
-import java.net.URL;
-import java.net.URLConnection;
-import java.net.URLEncoder;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Random;
-
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.Intent;
@@ -64,7 +51,6 @@ import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
-import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.ListView;
@@ -118,6 +104,19 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.lang.reflect.Field;
+import java.net.URL;
+import java.net.URLConnection;
+import java.net.URLEncoder;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Random;
+
 /**
  * 聊天页面
  */
@@ -131,8 +130,9 @@ public class ChatActivity extends BaseActivity implements OnClickListener, EMEve
     private static final Random random = new Random();
     private String getmsgtext;
     private ArrayAdapter<String> spinner_adapter;
-    private Spinner spinner;
-    private String F;
+    private Spinner spinner_t;
+
+    private String T;
     private String finaltext;
     private String s;//输入的内容
 
@@ -220,7 +220,7 @@ public class ChatActivity extends BaseActivity implements OnClickListener, EMEve
 
     private Handler micImageHandler = new Handler() {
         @Override
-        public void handleMessage(android.os.Message msg) {
+        public void handleMessage(Message msg) {
             // 切换msg切换图片
             micImage.setImageDrawable(micImages[msg.what]);
         }
@@ -236,7 +236,7 @@ public class ChatActivity extends BaseActivity implements OnClickListener, EMEve
         initView();
         setUpView();
         spinner_adapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_dropdown_item, ChatActivity.this.getResources().getStringArray(R.array.s_spinner));
-        spinner.setAdapter(spinner_adapter);
+        spinner_t.setAdapter(spinner_adapter);
         selectLanguage();
     }
 
@@ -244,7 +244,7 @@ public class ChatActivity extends BaseActivity implements OnClickListener, EMEve
      * initView
      */
     protected void initView() {
-        spinner = (Spinner) findViewById(R.id.id_spinner);
+        spinner_t = (Spinner) findViewById(R.id.id_spinner_t);
 
         recordingContainer = findViewById(R.id.recording_container);
         micImage = (ImageView) findViewById(R.id.mic_image);
@@ -906,7 +906,7 @@ public class ChatActivity extends BaseActivity implements OnClickListener, EMEve
             intent.setType("image/*");
 
         } else {
-            intent = new Intent(Intent.ACTION_PICK, android.provider.MediaStore.Images.Media.EXTERNAL_CONTENT_URI);
+            intent = new Intent(Intent.ACTION_PICK, MediaStore.Images.Media.EXTERNAL_CONTENT_URI);
         }
         startActivityForResult(intent, REQUEST_CODE_LOCAL);
     }
@@ -1301,7 +1301,7 @@ public class ChatActivity extends BaseActivity implements OnClickListener, EMEve
     /**
      * 按住说话listener
      */
-    class PressToSpeakListen implements View.OnTouchListener {
+    class PressToSpeakListen implements OnTouchListener {
         @Override
         public boolean onTouch(View v, MotionEvent event) {
             switch (event.getAction()) {
@@ -1610,7 +1610,7 @@ public class ChatActivity extends BaseActivity implements OnClickListener, EMEve
                 /*if (view.getFirstVisiblePosition() == 0 && !isloading && haveMoreData && conversation.getAllMessages().size() != 0) {
                     isloading = true;
 					loadmorePB.setVisibility(View.VISIBLE);
-					// sdk初始化加载的聊天记录为20条，到顶时去db里获取更多					
+					// sdk初始化加载的聊天记录为20条，到顶时去db里获取更多
 					List<EMMessage> messages;
 					EMMessage firstMsg = conversation.getAllMessages().get(0);
 					try {
@@ -1633,7 +1633,7 @@ public class ChatActivity extends BaseActivity implements OnClickListener, EMEve
 						if (messages.size() > 0) {
 							adapter.refreshSeekTo(messages.size() - 1);
 						}
-						
+
 						if (messages.size() != pagesize)
 							haveMoreData = false;
 					} else {
@@ -1759,7 +1759,7 @@ public class ChatActivity extends BaseActivity implements OnClickListener, EMEve
                     if (s.length() > 0) {
                         String word = msg.getData().getString("word");
                         finaltext = word;
-                        ((TextView) findViewById(R.id.fanyi)).setText(word);
+
                         Toast.makeText(ChatActivity.this, "启动", Toast.LENGTH_LONG).show();
 
                         EMMessage message = EMMessage.createSendMessage(EMMessage.Type.TXT);
@@ -1803,7 +1803,7 @@ public class ChatActivity extends BaseActivity implements OnClickListener, EMEve
             String str1 = App_id + new String(s.getBytes(), "utf-8") + Salt + Client_id;
             final String sign = MD5Tool.encode(str1.toString());
             final URL url = new URL(BaiduTrans + "?q="
-                    + URLEncoder.encode(s, "utf-8") + "&from=" + "zh" + "&to=" + F + "&appid=" + App_id + "&salt=" + Salt + "&sign=" + sign);
+                    + URLEncoder.encode(s, "utf-8") + "&from=" + Information.F2 + "&to=" + T + "&appid=" + App_id + "&salt=" + Salt + "&sign=" + sign);
 
             URLConnection con = url.openConnection();
             con.connect();
@@ -1859,37 +1859,68 @@ public class ChatActivity extends BaseActivity implements OnClickListener, EMEve
     }
 
     private void selectLanguage() {
-        spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+        spinner_t.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
                 String a = ChatActivity.this.getResources().getStringArray(R.array.s_spinner)[position];
-                if (a.equals("英语")) {
-                    F = "en";
-                } else if (a.equals("韩语")) {
-                    F = "kor";
-                } else if (a.equals("日语")) {
-                    F = "jp";
-                } else if (a.equals("法语")) {
-                    F = "fra";
+                if (a.equals("中文")) {
+                    T = "zh";
+                } else if (a.equals("英语")) {
+                    T = "en";
+                } else if (a.equals("粤语")) {
+                    T = "yue";
+                } else if (a.equals("文言文")) {
+                    T = "wyw";
+                }else if (a.equals("日语")) {
+                    T = "jp";
+                }else if (a.equals("韩语")) {
+                    T = "kor";
+                }else if (a.equals("法语")) {
+                    T = "fra";
+                }else if (a.equals("西班牙")) {
+                    T = "spa";
+                }else if (a.equals("泰语")) {
+                    T = "th";
+                }else if (a.equals("阿拉伯语")) {
+                    T = "ara";
+                }else if (a.equals("俄语")) {
+                    T = "ru";
+                }else if (a.equals("葡萄牙语")) {
+                    T = "pt";
+                }else if (a.equals("德语")) {
+                    T = "de";
+                }else if (a.equals("意大利语")) {
+                    T = "it";
+                }else if (a.equals("希腊语")) {
+                    T = "el";
+                }else if (a.equals("荷兰语")) {
+                    T = "nl";
+                }else if (a.equals("波兰语")) {
+                    T = "pl";
+                }else if (a.equals("保加利亚语")) {
+                    T = "bul";
+                }else if (a.equals("爱沙尼亚语")) {
+                    T = "est";
+                }else if (a.equals("丹麦语")) {
+                    T = "dan";
+                }else if (a.equals("芬兰语")) {
+                    T = "fin";
+                }else if (a.equals("捷克语")) {
+                    T = "cs";
+                }else if (a.equals("罗马尼亚语")) {
+                    T = "rom";
+                }else if (a.equals("斯洛文尼亚语")) {
+                    T = "slo";
+                }else if (a.equals("瑞典语")) {
+                    T = "swe";
+                }else if (a.equals("匈牙利语")) {
+                    T = "hu";
+                }else if (a.equals("繁体中文")) {
+                    T = "cht";
+                }else if (a.equals("越南语")) {
+                    T = "vie";
                 }
 
-
-                /*switch (a) {
-                    case "英语":
-                        F = "en";
-                        break;
-                    case "韩语":
-                        F = "kor";
-                        break;
-                    case "日语":
-                        F = "jp";
-                        break;
-                    case "法语":
-                        F = "fra";
-                        break;
-                    default:
-                        break;
-                }*/
             }
 
             @Override

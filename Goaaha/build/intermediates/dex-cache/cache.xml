@@ -1,3 +1,117 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\libs\baidumapapi_radar_v4_1_1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ec3b3b79fdcc8fe059676554e31053027043edf8">
+        <dex dex="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\baidumapapi_radar_v4_1_1_6b69b50ed3fe2ec89ed4a67cebf9b84916c64aae.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="28b04125588590ad2fa1f349a17841572ac6b90a">
+        <dex dex="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\instant-run_1bd8c32e4d27e467ed116314140949b25e203447.jar" />
+    </item>
+    <item
+        jar="C:\Users\77532\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations-java5\15.0\7011b4551a8451906759b05814c58b9eb829ea9b\annotations-java5-15.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\annotations-java5-15.0_21ef0d4d2eba79f7e8b44ca2b9c4dcb6ab854313.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0fdc3e3b6498f2b9229ef4eeac1f0f4f2a33d554">
+        <dex dex="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_de14c4ac0a03a5ddd66cd397df33d046df01cf02.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\libs\baidumapapi_util_v4_1_1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d5630c44b212b90ad64c2bc2a994cbf28d1b08a7">
+        <dex dex="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\baidumapapi_util_v4_1_1_66a084818c918a872a5412da660841c98f1dd2c1.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\libs\baidumapapi_base_v4_1_1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="00cd7d6a741c6a922c9cf7b0db52a357ebf12cdb">
+        <dex dex="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\baidumapapi_base_v4_1_1_96695ecce4ee3b7f6ef666c483f4c22f9b90e722.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\libs\easemobchat_2.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ad3b812d16c44e789fc32d6dfc36c84b824390ab">
+        <dex dex="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\easemobchat_2.2.0_601e30e41661e3a930687a8f4c07ae0d33e7615e.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\libs\umeng-analytics-v5.2.4.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.2.4_8df28b076a1d744e28e485157d07110306c34cf6.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_da536ab097747fadb9caedc5686e628986c4d030.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\libs\picasso-2.4.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\picasso-2.4.0_dfb2ada70ea00c1d41dfc25125a21d6b4418fca0.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\libs\locSDK_6.13.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\locSDK_6.13_cdaf1b2000fb34cb0af7f598d97f05ff628db447.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\libs\baidumapapi_cloud_v4_1_1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="93ef91d018051b8b5e001eb5e106b983fee8a549">
+        <dex dex="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\baidumapapi_cloud_v4_1_1_04ad7fa90bf9434e09e3957fb484f2f04073f861.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\libs\baidumapapi_map_v4_1_1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="930064f0a91ff20ceb8dd4504b7dadec5aabea82">
+        <dex dex="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\baidumapapi_map_v4_1_1_81759b9ed4bae58f45ae7bd9d5172cfbe3d2ff5b.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\libs\android-async-http-1.4.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.8_fc57b444d0168ce6402be31905344ba6fb59e1a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\77532\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_57ac7eed463bd5b5a8f49f4521012c93a5d0d167.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\libs\baidumapapi_search_v4_1_1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b73dac26619f94061d28c54a7982ae8e0e783903">
+        <dex dex="G:\AndroidStudio\MyGithub\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\baidumapapi_search_v4_1_1_de58e0973843164ef3e8290d2cd01334bf896107.jar" />
+    </item>
+
+</items>

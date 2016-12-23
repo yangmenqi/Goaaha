@@ -151,16 +151,16 @@
             android:layout_marginLeft="50dp"
             android:textColor="@color/DarkGray"
             android:text="语言"/>
-        <TextView
+        <Spinner
+            android:id="@+id/id_spinner_f_2"
             android:layout_width="115dp"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
+            android:entries="@array/s_spinner"
             android:textSize="15sp"
-            android:layout_marginTop="15dp"
-            android:layout_marginBottom="15dp"
+
             android:layout_marginLeft="40dp"
-            android:gravity="right"
-            android:textColor="@color/DarkGray"
-            android:text="汉语"/>
+            android:gravity="right"/>
+
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -208,4 +208,9 @@
         android:layout_width="match_parent"
         android:layout_height="3dp"
         android:background="@color/LightGray2"/>
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="提交"/>
 </LinearLayout>

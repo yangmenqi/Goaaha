@@ -8,16 +8,16 @@
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\splash_logo.png"
     },
     {
-        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_video_mask_to.9.png",
-        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\chat_video_mask_to.9.png"
+        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_face_pressed.png",
+        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\chat_face_pressed.png"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_takepic_pressed.png",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\chat_takepic_pressed.png"
     },
     {
-        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_face_pressed.png",
-        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\chat_face_pressed.png"
+        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_video_mask_to.9.png",
+        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\chat_video_mask_to.9.png"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mm_title_remove.png",
@@ -60,12 +60,12 @@
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\poi.png"
     },
     {
-        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_image_pressed.png",
-        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\chat_image_pressed.png"
-    },
-    {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_image_normal.png",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\chat_image_normal.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_image_pressed.png",
+        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\chat_image_pressed.png"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_speaker_on.png",

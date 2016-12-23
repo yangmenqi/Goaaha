@@ -64,8 +64,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_centerVertical="true"
-                android:hint="password"
-                android:inputType="textPassword"
+                android:hint="username"
+                android:inputType="text"
                 android:paddingLeft="10dip"
                 android:singleLine="true"
                 android:textSize="16sp" />
@@ -126,18 +126,41 @@
                 android:singleLine="true"
                 android:textSize="16sp" />
         </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="34dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="2dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dip"
+                android:text="语言"
+                android:textSize="18dip"/>
+            <Spinner
+                android:layout_marginLeft="40dip"
+                android:id="@+id/id_spinner_f"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:paddingLeft="10dip"
+                android:layout_toRightOf="@+id/name"
+                android:entries="@array/s_spinner" />
+        </RelativeLayout>
         <TextView
-            android:clickable="true"
             android:layout_marginTop="40dp"
             android:layout_marginLeft="140dp"
             android:onClick="register"
+            android:clickable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/text_bg"
-            android:paddingBottom="2dip"
-            android:paddingLeft="15dip"
-            android:paddingRight="15dip"
-            android:paddingTop="2dip"
+            android:paddingBottom="1dip"
+            android:paddingLeft="10dip"
+            android:paddingRight="10dip"
+            android:paddingTop="1dip"
             android:text="register"
             android:textColor="#ffffff"
             android:textSize="20sp" />

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\color\\main_botton_text_color.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\color\\main_botton_text_color.xml"
+    },
+    {
         "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\color\\main_botton_text_color.xml",
         "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\color\\main_botton_text_color.xml"
     },

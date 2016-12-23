@@ -26,7 +26,7 @@
             android:layout_marginLeft="10dp"
             android:layout_width="30dp"
             android:layout_height="18dp"
-            android:src="@drawable/faqiqunliao"/>
+            android:src="@drawable/poi"/>
         <TextView
             android:layout_gravity="center"
             android:layout_marginLeft="5dp"
@@ -46,7 +46,7 @@
             android:layout_marginLeft="10dp"
             android:layout_width="30dp"
             android:layout_height="15dp"
-            android:src="@drawable/tianjiapengyou"/>
+            android:src="@drawable/bus"/>
         <TextView
             android:layout_gravity="center"
             android:layout_marginLeft="5dp"
@@ -67,7 +67,7 @@
             android:layout_marginLeft="10dp"
             android:layout_width="30dp"
             android:layout_height="15dp"
-            android:src="@drawable/saoyisao"/>
+            android:src="@drawable/route"/>
         <TextView
             android:layout_gravity="center"
             android:layout_marginLeft="5dp"

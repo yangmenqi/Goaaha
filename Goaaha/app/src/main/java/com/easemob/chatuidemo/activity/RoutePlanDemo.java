@@ -6,13 +6,15 @@ package com.easemob.chatuidemo.activity;
 import android.app.Activity;
 import android.app.Dialog;
 import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.view.Window;
 import android.widget.AdapterView;
+import android.widget.AutoCompleteTextView;
 import android.widget.Button;
-import android.widget.EditText;
+import android.widget.ImageButton;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -84,6 +86,20 @@ public class RoutePlanDemo extends Activity implements BaiduMap.OnMapClickListen
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_routeplan);
+
+        ImageButton turn = (ImageButton) findViewById(R.id.turn);
+
+
+        turn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Utils.flag=4;
+                Intent i=new Intent();
+                i.setClass(RoutePlanDemo.this,MainActivity.class);
+                i.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                startActivity(i);
+            }
+        });
         CharSequence titleLable = "路线规划功能";
         setTitle(titleLable);
         // 初始化地图
@@ -119,8 +135,8 @@ public class RoutePlanDemo extends Activity implements BaiduMap.OnMapClickListen
         // 实际使用中请对起点终点城市进行正确的设定
 
         if (v.getId() == R.id.mass) {
-            EditText s = (EditText)findViewById(R.id.edits);
-            EditText e = (EditText)findViewById(R.id.edite);
+            AutoCompleteTextView s = (AutoCompleteTextView)findViewById(R.id.edits);
+            AutoCompleteTextView e = (AutoCompleteTextView)findViewById(R.id.edite);
             String strS = s.getText().toString();
             String strE = e.getText().toString();
             PlanNode stNewNode = PlanNode.withCityNameAndPlaceName("北京", strS);

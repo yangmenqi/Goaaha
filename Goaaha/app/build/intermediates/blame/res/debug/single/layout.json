@@ -1,1034 +1,346 @@
 [
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_chat.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_video.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_currency.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\fragment_currency.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact_with_checkbox.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_contact_with_checkbox.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_location.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_location.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_file.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_file.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\grid.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_public_groups.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_menu.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\pop_menu.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_call.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_video_call.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_voice.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_voice.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_message.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_message.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_contact.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_message.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_message.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_voice.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_busline.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_busline.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_history.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\fragment_conversation_history.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_voice.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_voice.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_edit.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_voice.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_details.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_details.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_currency.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_currency.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups_search.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_public_groups_search.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_register.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice_call.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_received_voice_call.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\search_bar.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pick_contact_no_checkbox.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_pick_contact_no_checkbox.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_botton_tab.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\main_botton_tab.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transit_item.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_transit_item.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_location.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_location.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_botton_tab.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\main_botton_tab.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_poisearch.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_poisearch.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar_with_padding.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\search_bar_with_padding.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_file.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_file.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\search_bar.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_null.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_null.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_register.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_big_image.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_show_big_image.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_public_groups.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_group.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_group.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_message.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_received_message.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video_call.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_video_call.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baidumap.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_baidumap.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\grid.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_groups.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\fragment_groups.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choosevideoactivity.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_choosevideoactivity.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact_with_checkbox.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_contact_with_checkbox.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_message.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_message.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_groups.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_groups.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_image.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_image.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_image.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_image.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transit_item.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_transit_item.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chatroom.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_chatroom.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_file.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_file.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_text.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_text.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_chat_history.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_chat_history.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_picture.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_picture.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_grid_fragment.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\image_grid_fragment.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_group.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_new_group.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voice_call.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_voice_call.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_file.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_show_file.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_picture.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_received_picture.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_add_group.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_add_group.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video_call.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_received_video_call.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_location.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_location.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_layout.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\title_layout.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transit_dialog.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_transit_dialog.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_big_image.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_show_big_image.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_details.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_details.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choosevideoactivity.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_choosevideoactivity.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_neterror_item.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\chat_neterror_item.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_busline.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_busline.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice_call.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_voice_call.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_message.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_message.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_history.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_conversation_history.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_diagnose.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_diagnose.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_layout.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\title_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_group.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_new_group.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\currency_list.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\currency_list.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transit_item.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_transit_item.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_currency.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\item_currency.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video_call.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_video_call.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_contact.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_file.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_file.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_grid_fragment.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\image_grid_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\currency_list.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\currency_list.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voice_call.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_voice_call.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_currency.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\item_currency.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_video.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_video.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_location.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_received_location.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_diagnose.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_diagnose.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expression_gridview.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\expression_gridview.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer_view.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\listview_footer_view.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_picture.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_picture.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video_call.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_video_call.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_init_view.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\main_init_view.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_blacklist.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_blacklist.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_picture.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_picture.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_information.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_information.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_information.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_information.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_location.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_location.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\grid.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_invite_msg.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_invite_msg.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_video.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_video.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_contact.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_add_contact.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chatroom.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\fragment_chatroom.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact_list.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_contact_list.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_message.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_message.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commom_back_btn.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\commom_back_btn.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_griditem.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\choose_griditem.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice_call.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_voice_call.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\logout_actionsheet.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\logout_actionsheet.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\logout_actionsheet.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\logout_actionsheet.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video_call.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_received_video_call.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expression_gridview.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\expression_gridview.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_location.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_location.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_chat_history.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_chat_history.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar_with_padding.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\search_bar_with_padding.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baidumap.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_baidumap.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_file.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_show_file.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_details.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_details.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_chat.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pick_contact_no_checkbox.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_pick_contact_no_checkbox.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_edit.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recorder_activity.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\recorder_activity.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_expression.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_expression.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice_call.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_voice_call.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_video.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_video.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_video.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recorder_activity.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\recorder_activity.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\logout_actionsheet.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\logout_actionsheet.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_blacklist.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_blacklist.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_grid_fragment.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\image_grid_fragment.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_pick_contacts.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_pick_contacts.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_received_video.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_picture.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_picture.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_add_group.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_add_group.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_emojicon.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_emojicon.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_black_list.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_black_list.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_black_list.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_black_list.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_text.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_text.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups_search.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_public_groups_search.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_add_group.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_add_group.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_menu.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\pop_menu.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transit_dialog.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_transit_dialog.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_simle_details.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_simle_details.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\showvideo_activity.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\showvideo_activity.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_location.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_emojicon.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\fragment_emojicon.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\showvideo_activity.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\showvideo_activity.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_picture.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_picture.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transit_item.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_transit_item.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_blacklist.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_blacklist.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\alert_dialog.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_call.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_video_call.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_voice.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_image.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_image.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_griditem.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\choose_griditem.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_routeplan.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_routeplan.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_routeplan.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_routeplan.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video_call.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_video_call.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar_with_padding.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\search_bar_with_padding.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_voice.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_voice.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friends_msg.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_new_friends_msg.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact_list.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\fragment_contact_list.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pick_contact_no_checkbox.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_pick_contact_no_checkbox.xml"
     },
     {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\alert_dialog.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_pick_contacts.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_pick_contacts.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_splash.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_video.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_login.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_settings.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_conversation_settings.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_text.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_text.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice_call.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_received_voice_call.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_null.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_null.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_expression.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_expression.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_grid_fragment.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\image_grid_fragment.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_edit.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_location.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups_search.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_public_groups_search.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_location.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_currency.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\item_currency.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pick_contact_no_checkbox.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_pick_contact_no_checkbox.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choosevideoactivity.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_choosevideoactivity.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_griditem.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\choose_griditem.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_voice.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_diagnose.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_diagnose.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video_call.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_video_call.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_currency.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\item_currency.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_text.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_text.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_splash.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_null.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_null.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_group.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_group.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\currency_list.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\currency_list.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_call.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_video_call.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commom_back_btn.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\commom_back_btn.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_botton_tab.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\main_botton_tab.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recorder_activity.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\recorder_activity.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baidumap.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_baidumap.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_image.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_image.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_init_view.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\main_init_view.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_menu.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\pop_menu.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact_list.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\fragment_contact_list.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer_view.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\listview_footer_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choosevideoactivity.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_choosevideoactivity.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_picture.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_picture.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_group.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_new_group.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_expression.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_expression.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_video.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_chat.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_location.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_location.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_poisearch.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_poisearch.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_register.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer_view.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\listview_footer_view.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_neterror_item.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\chat_neterror_item.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_groups.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_groups.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_voice.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_voice.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_voice.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_message.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_received_message.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chatroom.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_chatroom.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\search_bar.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_pick_contacts.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_pick_contacts.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\alert_dialog.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar_with_padding.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\search_bar_with_padding.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expression_gridview.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\expression_gridview.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_simle_details.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_simle_details.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friends_msg.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_new_friends_msg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_location.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_location.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_poisearch.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_poisearch.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_file.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_show_file.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_received_voice.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_currency.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\fragment_currency.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transit_dialog.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_transit_dialog.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_public_groups.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer_view.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\listview_footer_view.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\showvideo_activity.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\showvideo_activity.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_routeplan.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_routeplan.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_settings.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\fragment_conversation_settings.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_invite_msg.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_invite_msg.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice_call.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_voice_call.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_add_group.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_add_group.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice_call.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_voice_call.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recorder_activity.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\recorder_activity.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_file.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_file.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_register.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voice_call.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_voice_call.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_botton_tab.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\main_botton_tab.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_griditem.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\choose_griditem.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_splash.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commom_back_btn.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\commom_back_btn.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\grid.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friends_msg.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_new_friends_msg.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact_with_checkbox.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_contact_with_checkbox.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\alert_dialog.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_invite_msg.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_invite_msg.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_received_voice.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_call.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_video_call.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_file.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_received_file.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact_with_checkbox.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_contact_with_checkbox.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_information.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_information.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_location.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_groups.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\fragment_groups.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_chat_history.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_chat_history.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_init_view.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\main_init_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_pick_contacts.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_pick_contacts.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_big_image.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_show_big_image.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact_list.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_contact_list.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_picture.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_received_picture.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_voice.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_contact.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_add_contact.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_layout.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\title_layout.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups_search.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_public_groups_search.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_currency.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_currency.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_group.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_new_group.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_black_list.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_black_list.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baidumap.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_baidumap.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_neterror_item.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\chat_neterror_item.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_expression.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_expression.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_video.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_emojicon.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\fragment_emojicon.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_details.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_details.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_emojicon.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_emojicon.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_group.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_group.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_video.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_video.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_history.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\fragment_conversation_history.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_login.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_big_image.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_show_big_image.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_information.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_information.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_video.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expression_gridview.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\expression_gridview.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_simle_details.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_simle_details.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_settings.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\fragment_conversation_settings.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_edit.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_init_view.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\main_init_view.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_null.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_null.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_location.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_location.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_message.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_message.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice_call.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_voice_call.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_location.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_location.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_public_groups.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_chat_history.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_chat_history.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_busline.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_busline.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_routeplan.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_routeplan.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commom_back_btn.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\commom_back_btn.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_contact.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_add_contact.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_menu.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\pop_menu.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\currency_list.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\currency_list.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_blacklist.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_blacklist.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_contact.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_diagnose.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_diagnose.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friends_msg.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_new_friends_msg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_contact.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_add_contact.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_file.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_show_file.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_simle_details.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_simle_details.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_poisearch.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\activity_poisearch.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_black_list.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_black_list.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_history.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_conversation_history.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_group.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_group.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_received_video.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\showvideo_activity.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\showvideo_activity.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_file.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_file.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_busline.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_busline.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video_call.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_video_call.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_chat.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\search_bar.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_location.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_location.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_neterror_item.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\chat_neterror_item.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\logout_actionsheet.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\logout_actionsheet.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_invite_msg.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_invite_msg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_layout.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\title_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voice_call.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_voice_call.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_location.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_received_location.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\row_contact.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_file.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\row_received_file.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chatroom.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\layout\\fragment_chatroom.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transit_dialog.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\layout\\activity_transit_dialog.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_settings.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_conversation_settings.xml"
     }
 ]

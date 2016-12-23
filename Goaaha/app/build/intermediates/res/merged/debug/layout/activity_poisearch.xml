@@ -2,7 +2,7 @@
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
-    android:background="#fffade"
+    android:background="#ababab"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
     <LinearLayout
@@ -12,27 +12,36 @@
         android:background="@color/Maincolor"
         android:layout_alignParentTop="true"
         android:id="@+id/relativeLayout">
-        <TextView
+        <ImageButton
             android:id="@+id/turn"
-            android:layout_width="wrap_content"
+            android:layout_width="50dp"
             android:layout_height="50dp"
+            android:src="@drawable/back"
+            android:background="@color/Maincolor"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginRight="50dp"
             android:gravity="center"
             android:layout_centerInParent="true"
             android:textColor="#FFFFFFFF"
             android:textSize="22sp"
             android:textStyle="bold"
             android:textAlignment="center"
-            android:text="Goaaha" />
+            android:text="地图" />
     </LinearLayout>
     <LinearLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="fill_parent"
         android:layout_height="50dip"
+        android:layout_marginTop="5dp"
         android:orientation="horizontal" >
 
         <TextView
+            android:layout_marginLeft="10dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:textColor="#000000"
             android:text="在" >
         </TextView>
 
@@ -48,6 +57,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:textColor="#000000"
             android:text="市内找" >
         </TextView>
 
@@ -55,6 +65,7 @@
             android:id="@+id/searchkey"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
             android:layout_weight="0.88"
             android:textColor="#000000"
             android:hint="请输入搜索内容"
@@ -65,7 +76,8 @@
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="fill_parent"
         android:layout_height="50dip"
-        android:orientation="horizontal" >
+        android:orientation="horizontal"
+        android:layout_marginBottom="5dp">
 
         <Button
             android:id="@+id/search"
@@ -73,6 +85,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="12"
             android:onClick="searchButtonProcess"
+            android:background="@drawable/putongb"
             android:padding="10dip"
             android:textColor="#ffffff"
             android:text="城市内搜索" />
@@ -82,6 +95,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="12"
             android:onClick="searchNearbyProcess"
+            android:background="@drawable/putongb"
             android:padding="10dip"
             android:textColor="#ffffff"
             android:text="周边搜索" />
@@ -92,6 +106,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="12"
             android:onClick="searchBoundProcess"
+            android:background="@drawable/putongb"
             android:padding="10dip"
             android:textColor="#ffffff"
             android:text="区域搜索" />

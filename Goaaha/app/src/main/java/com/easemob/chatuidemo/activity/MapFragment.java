@@ -117,7 +117,7 @@ public class MapFragment extends Fragment implements View.OnClickListener{
                 if (checkedId == R.id.customicon) {
                     // 修改为自定义marker
                     mCurrentMarker = BitmapDescriptorFactory
-                            .fromResource(R.drawable.icon_geo);
+                            .fromResource(R.drawable.feiji);
                     mBaiduMap
                             .setMyLocationConfigeration(new MyLocationConfiguration(
                                     mCurrentMode, true, mCurrentMarker,

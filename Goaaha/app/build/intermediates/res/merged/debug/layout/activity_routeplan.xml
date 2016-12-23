@@ -2,6 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
               android:layout_width="fill_parent"
               android:layout_height="fill_parent"
+              android:background="#ababab"
               android:orientation="vertical" >
 
     <LinearLayout
@@ -11,9 +12,15 @@
         android:background="@color/Maincolor"
         android:layout_alignParentTop="true"
         android:id="@+id/relativeLayout">
-        <TextView
+        <ImageButton
             android:id="@+id/turn"
-            android:layout_width="wrap_content"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@color/Maincolor"
+            android:src="@drawable/back"/>
+        <TextView
+            android:layout_marginRight="50dp"
+            android:layout_width="match_parent"
             android:layout_height="50dp"
             android:gravity="center"
             android:layout_centerInParent="true"
@@ -21,7 +28,7 @@
             android:textSize="22sp"
             android:textStyle="bold"
             android:textAlignment="center"
-            android:text="Goaaha" />
+            android:text="地图" />
     </LinearLayout>
     <LinearLayout
             xmlns:android="http://schemas.android.com/apk/res/android"
@@ -30,31 +37,42 @@
             android:layout_marginBottom="5dip"
             android:layout_marginTop="5dip"
             android:orientation="horizontal"
-        android:weightSum="1">
+            android:weightSum="1">
 
         <Button
                 android:id="@+id/mass"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="2dip"
+                android:background="@drawable/putongb"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="5dip"
                 android:layout_marginRight="2dip"
                 android:onClick="searchButtonProcess"
                 android:text="搜索"/>
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
-            <EditText
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp">
+            <AutoCompleteTextView
                 android:id="@+id/edits"
-                android:layout_width="0dp"
-                android:layout_weight="1"
+                android:gravity="center"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="请输入起点"/>
-            <EditText
+                android:layout_weight="0.88"
+                android:hint="输入起点"
+                android:textColor="#000000"
+                />
+
+
+            <AutoCompleteTextView
                 android:id="@+id/edite"
-                android:layout_width="0dp"
-                android:layout_weight="1"
+                android:gravity="center"
+                android:layout_marginRight="5dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="请输入终点"/>
+                android:layout_weight="0.88"
+                android:hint="请输入终点"
+                android:textColor="#000000"
+                />
         </LinearLayout>
 
         <!--<LinearLayout-->
@@ -122,9 +140,12 @@
 
             <Button
                 android:id="@+id/customicon"
+                android:padding="13dp"
                 android:layout_width="fill_parent"
                 android:layout_height="fill_parent"
                 android:layout_marginTop="10dip"
+                android:textColor="#000000"
+                android:background="@drawable/putongb"
                 android:layout_weight="1.0"
                 android:onClick="changeRouteIcon"
                 android:text="自定义起终点图标" />
@@ -142,8 +163,8 @@
 
             <Button
                 android:id="@+id/pre"
-                android:layout_width="fill_parent"
-                android:layout_height="fill_parent"
+                android:layout_width="65dp"
+                android:layout_height="50dp"
                 android:layout_marginLeft="2dip"
                 android:layout_marginRight="2dip"
                 android:layout_weight="1.0"
@@ -152,8 +173,8 @@
 
             <Button
                 android:id="@+id/next"
-                android:layout_width="fill_parent"
-                android:layout_height="fill_parent"
+                android:layout_width="65dp"
+                android:layout_height="50dp"
                 android:layout_marginLeft="2dip"
                 android:layout_marginRight="2dip"
                 android:layout_weight="1.0"

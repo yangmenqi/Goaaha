@@ -8,7 +8,7 @@ import android.text.TextWatcher;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
-import android.widget.TextView;
+import android.widget.ImageButton;
 import android.widget.Toast;
 
 import com.baidu.mapapi.SDKInitializer;
@@ -57,7 +57,7 @@ public class PoiSearchDemo extends FragmentActivity implements
     private SuggestionSearch mSuggestionSearch = null;
     private BaiduMap mBaiduMap = null;
     private List<String> suggest;
-    private TextView turn;
+    private ImageButton turn;
     /**
      * 搜索关键字输入窗口
      */
@@ -79,14 +79,15 @@ public class PoiSearchDemo extends FragmentActivity implements
         super.onCreate(savedInstanceState);
         SDKInitializer.initialize(getApplicationContext());
         setContentView(R.layout.activity_poisearch);
-        turn=(TextView)findViewById(R.id.turn);
+        turn=(ImageButton) findViewById(R.id.turn);
         turn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                Utils.flag=4;
                 Intent i=new Intent();
-                i.setClass(PoiSearchDemo.this,Pop_menu.class);
+                i.setClass(PoiSearchDemo.this,MainActivity.class);
+                i.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                 startActivity(i);
-                PoiSearchDemo.this.finish();
             }
         });
         // 初始化搜索模块，注册搜索事件监听

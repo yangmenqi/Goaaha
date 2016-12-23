@@ -162,6 +162,12 @@ public class MainActivity extends BaseActivity implements EMEventListener{
                 .add(R.id.fragment_container, contactListFragment).hide(contactListFragment).show(chatHistoryFragment)
                 .commit();
         init();
+        switch (Utils.flag){
+            case 4:
+                mapFragment=new MapFragment();
+                mapFragment.setContext(getApplicationContext());
+                break;
+        }
     }
 
     private void init() {

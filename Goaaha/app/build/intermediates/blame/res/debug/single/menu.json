@@ -1,62 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\menu\\context_tab_contact.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_message.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\delete_message.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_contact.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\delete_contact.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\remove_from_blacklist.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\remove_from_blacklist.xml"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_message.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\delete_message.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\context_contact_list.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_message.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\menu\\delete_message.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\context_tab_contact.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\remove_from_blacklist.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\menu\\remove_from_blacklist.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_contact.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\menu\\delete_contact.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
-        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\menu\\context_contact_list.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\menu\\context_tab_contact.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_contact.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\menu\\delete_contact.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\remove_from_blacklist.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\menu\\remove_from_blacklist.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\context_tab_contact.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_message.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\menu\\delete_message.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygithub\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
-        "source": "E:\\item\\Mygithub\\Goaaha\\app\\src\\main\\res\\menu\\context_contact_list.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\context_contact_list.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\remove_from_blacklist.xml",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\remove_from_blacklist.xml"
+        "merged": "F:\\new\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_contact.xml",
+        "source": "F:\\new\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\delete_contact.xml"
     }
 ]

@@ -11,7 +11,7 @@
         android:layout_height="match_parent"
         android:layout_alignParentLeft="true" >
 
-      <ImageView
+      <com.easemob.chatuidemo.activity.RoundImageView
             android:id="@+id/avatar"
             android:layout_width="45dp"
             android:layout_height="45dp"

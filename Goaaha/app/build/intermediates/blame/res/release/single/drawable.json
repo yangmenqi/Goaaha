@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\head_bg00.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\head_bg00.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_cancel_normal_shape.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_cancel_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\timestampe_bg.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\timestampe_bg.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chat_face_selector.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chat_face_selector.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_white_normal_shape.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_white_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\usa.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\usa.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_blue_normal_shape.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_blue_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\goaaha_logo1.jpg",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\goaaha_logo1.jpg"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_login_bg.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\button_login_bg.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\recording_text_hint_bg.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\recording_text_hint_bg.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\canada.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\canada.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chatto_bg.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chatto_bg.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\roominfo_add_btn.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\roominfo_add_btn.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_green_pressed_shape.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_green_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chat_send_btn_selector.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chat_send_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tab_setting_bg.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\tab_setting_bg.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_clear.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\search_clear.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_register_bg.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\button_register_bg.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_bottom_selector.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_bottom_selector.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_logout_pressed_shape.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_logout_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\goaaha_logo.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\goaaha_logo.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_bg.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_style_alert_dialog_special.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_style_alert_dialog_special.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\denmark.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\denmark.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_gray_normal_shape.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_gray_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sweden.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\sweden.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\malaysia.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\malaysia.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\call_answer_bg.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\call_answer_bg.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_cancel_bj.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_cancel_bj.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\main_bottom_item_bg.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\main_bottom_item_bg.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\camera_switch_selector.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\camera_switch_selector.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\msg_state_failed_resend.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\msg_state_failed_resend.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\input_bg.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\input_bg.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\south_korea.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\south_korea.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_tab_bg.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\common_tab_bg.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm_listitem_grey.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\mm_listitem_grey.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_myprofile_selector.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\button_myprofile_selector.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\splash_gradient.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\splash_gradient.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chat_voice_call_selector.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chat_voice_call_selector.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\australia.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\australia.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\inter.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\inter.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chat_edit.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chat_edit.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox_bg_selector.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\checkbox_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\new_zealand.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\new_zealand.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_cancel_pressed_shape.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_cancel_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\south_africa.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\south_africa.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\head.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\head.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\japan.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\japan.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chat_error_item_bg.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chat_error_item_bg.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\photogrid_list_selector.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\photogrid_list_selector.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tab_chat_bg.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\tab_chat_bg.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chat_video_selector.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chat_video_selector.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\switzerland.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\switzerland.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_white_selector.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_white_selector.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\inter1.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\inter1.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm_title_act_btn.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\mm_title_act_btn.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\singapore.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\singapore.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\context_menu_item_bg.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\context_menu_item_bg.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\appitem_del_btn.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\appitem_del_btn.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\edit_text_bg.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\edit_text_bg.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_logout_normal_shape.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_logout_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chat_file_selector.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chat_file_selector.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\b.jpg",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\b.jpg"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tab_contact_list_bg.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\tab_contact_list_bg.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_white_pressed_shape.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_white_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sidebar_background_pressed.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\sidebar_background_pressed.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_blue_pressed_shape.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_blue_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\recording_hint_bg.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\recording_hint_bg.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chat_video_call_selector.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chat_video_call_selector.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\italy.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\italy.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_normal_shape.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\button_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chat_takepic_selector.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chat_takepic_selector.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\smiley_add_btn.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\smiley_add_btn.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\thailand.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\thailand.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\head1.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\head1.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chat_location_selector.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chat_location_selector.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_selector_shape.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\button_selector_shape.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chatting_setmode_voice_btn.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chatting_setmode_voice_btn.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_green_selector.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_green_selector.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\red_circle.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\red_circle.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\the_netherlands.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\the_netherlands.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_blue_selector.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_blue_selector.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_gray_pressed_shape.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_gray_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\call_hangup_bg.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\call_hangup_bg.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chatfrom_bg.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chatfrom_bg.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\nickename_input_bg.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\nickename_input_bg.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\uk.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\uk.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm_listitem.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\mm_listitem.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chatting_setmode_keyboard_btn.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chatting_setmode_keyboard_btn.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\smiley_minus_btn.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\smiley_minus_btn.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_green_normal_shape.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_green_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\head_bg.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\head_bg.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_gray_selector.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_gray_selector.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\type_select_btn.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\type_select_btn.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox_bg_gray_selector.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\checkbox_bg_gray_selector.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chat_press_speak_btn.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chat_press_speak_btn.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\into.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\into.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chat_image_selector.xml",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chat_image_selector.xml"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable\\china.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\china.png"
+    }
+]

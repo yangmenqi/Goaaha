@@ -40,7 +40,7 @@
         android:layout_marginRight="8dp"
         android:gravity="center_vertical" >
 
-        <ImageView
+        <com.easemob.chatuidemo.activity.RoundImageView
             android:id="@+id/avatar"
             android:layout_width="55dp"
             android:layout_height="55dp"

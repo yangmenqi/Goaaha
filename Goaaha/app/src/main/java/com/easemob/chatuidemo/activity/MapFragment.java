@@ -9,6 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageButton;
+import android.widget.LinearLayout;
 import android.widget.RadioGroup;
 
 import com.baidu.location.BDLocation;
@@ -31,7 +32,7 @@ import com.easemob.chatuidemo.R;
  * Created by Lenovo on 2016/11/7.
  */
 public class MapFragment extends Fragment implements View.OnClickListener{
-    private ImageButton imbtn_add;
+    private LinearLayout imbtn_add;
     private Context context; //上下文环境
     private View view;
     public Context getContext() {
@@ -45,7 +46,7 @@ public class MapFragment extends Fragment implements View.OnClickListener{
         SDKInitializer.initialize(context.getApplicationContext());
         view = inflater.inflate(R.layout.activity_location, container, false);
 
-        imbtn_add = (ImageButton) view.findViewById(R.id.id_add2);
+        imbtn_add = (LinearLayout) view.findViewById(R.id.id_add2);
         imbtn_add.setOnClickListener(this);
         return view;
     }

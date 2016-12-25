@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.ListView;
 
 import com.easemob.chatuidemo.R;
@@ -15,7 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CurrencyList extends Activity {
-    private ImageView back;
+    private LinearLayout back;
     private List<Country> ls = new ArrayList<Country>();
     private CurrencyAdapter myadapter;
     private ListView lv;
@@ -52,7 +53,7 @@ public class CurrencyList extends Activity {
             }
         });
 
-        back = (ImageView)findViewById(R.id.back) ;
+        back = (LinearLayout) findViewById(R.id.back) ;
         back.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

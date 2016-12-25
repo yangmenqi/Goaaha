@@ -5,31 +5,31 @@
     android:background="#ababab"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-    <LinearLayout
-        xmlns:android="http://schemas.android.com/apk/res/android"
+    <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="50dp"
+        android:layout_height="@dimen/height_top_bar"
         android:background="@color/Maincolor"
-        android:layout_alignParentTop="true"
-        android:id="@+id/relativeLayout">
-        <ImageButton
+        android:gravity="center_vertical" >
+        <LinearLayout
             android:id="@+id/turn"
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            android:src="@drawable/back"
-            android:background="@color/Maincolor"/>
+            android:layout_width="40dp"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/b"
+                android:layout_gravity="center"
+                android:layout_marginLeft="5dp"/>
+        </LinearLayout>
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="50dp"
-            android:layout_marginRight="50dp"
-            android:gravity="center"
-            android:layout_centerInParent="true"
-            android:textColor="#FFFFFFFF"
-            android:textSize="22sp"
-            android:textStyle="bold"
-            android:textAlignment="center"
-            android:text="地图" />
-    </LinearLayout>
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="POI搜索"
+            android:textColor="@color/bottom_text_color_normal"
+            android:textSize="18sp" />
+    </RelativeLayout>
     <LinearLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="fill_parent"
@@ -45,22 +45,18 @@
             android:text="在" >
         </TextView>
 
-
         <AutoCompleteTextView
             android:id="@+id/city"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="0.88"
             android:hint="输入城市"
-            android:textColor="#000000"
-            />
+            android:textColor="#000000" />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="#000000"
-            android:text="市内找" >
-        </TextView>
-
+            android:text="市内找" />
         <AutoCompleteTextView
             android:id="@+id/searchkey"
             android:layout_width="wrap_content"
@@ -68,16 +64,14 @@
             android:layout_marginRight="10dp"
             android:layout_weight="0.88"
             android:textColor="#000000"
-            android:hint="请输入搜索内容"
-            />
+            android:hint="请输入搜索内容" />
     </LinearLayout>
 
     <LinearLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="fill_parent"
         android:layout_height="50dip"
-        android:orientation="horizontal"
-        android:layout_marginBottom="5dp">
+        android:orientation="horizontal">
 
         <Button
             android:id="@+id/search"

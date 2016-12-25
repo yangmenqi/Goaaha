@@ -40,28 +40,24 @@
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\poi.png"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_uidemo.png",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\logo_uidemo.png"
-    },
-    {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_list_togroup.png",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\contact_list_togroup.png"
-    },
-    {
-        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chatting_biaoqing_btn_normal.png",
-        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\chatting_biaoqing_btn_normal.png"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_voice_call_normal.png",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\chat_voice_call_normal.png"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_takepic_pressed.png",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\chat_takepic_pressed.png"
+        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chatting_biaoqing_btn_normal.png",
+        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\chatting_biaoqing_btn_normal.png"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_mute_normal.png",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\icon_mute_normal.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_takepic_pressed.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\chat_takepic_pressed.png"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_edit_normal.9.png",
@@ -72,12 +68,12 @@
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\icon_speaker_on.png"
     },
     {
-        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\new_friends_icon.png",
-        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\new_friends_icon.png"
-    },
-    {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_send_btn_pressed.9.png",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\chat_send_btn_pressed.9.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\new_friends_icon.png",
+        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\new_friends_icon.png"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_item_file.png",

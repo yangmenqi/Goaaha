@@ -9,6 +9,8 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 import android.widget.ImageButton;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.Toast;
 
 import com.baidu.mapapi.SDKInitializer;
@@ -57,7 +59,7 @@ public class PoiSearchDemo extends FragmentActivity implements
     private SuggestionSearch mSuggestionSearch = null;
     private BaiduMap mBaiduMap = null;
     private List<String> suggest;
-    private ImageButton turn;
+    private LinearLayout turn;
     /**
      * 搜索关键字输入窗口
      */
@@ -79,7 +81,7 @@ public class PoiSearchDemo extends FragmentActivity implements
         super.onCreate(savedInstanceState);
         SDKInitializer.initialize(getApplicationContext());
         setContentView(R.layout.activity_poisearch);
-        turn=(ImageButton) findViewById(R.id.turn);
+        turn=(LinearLayout) findViewById(R.id.turn);
         turn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

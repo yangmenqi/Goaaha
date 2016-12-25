@@ -7,6 +7,8 @@ import android.view.View;
 import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.ImageButton;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -53,13 +55,13 @@ public class BusLineSearchDemo extends FragmentActivity implements
     BusLineOverlay overlay; // 公交路线绘制对象
     private AutoCompleteTextView editCity;
     private AutoCompleteTextView editSearchKey;
-    private ImageButton turn;
+    private LinearLayout turn;
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         SDKInitializer.initialize(getApplicationContext());
         setContentView(R.layout.activity_busline);
-        turn=(ImageButton) findViewById(R.id.turn);
+        turn=(LinearLayout) findViewById(R.id.turn);
         turn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

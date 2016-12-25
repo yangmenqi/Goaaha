@@ -19,17 +19,18 @@
             android:text="@string/address_book"
             android:textColor="@color/bottom_text_color_normal"
             android:textSize="18sp" />
-
-
-        <ImageView
+        <LinearLayout
             android:id="@+id/iv_new_contact"
-            android:layout_width="48dp"
-            android:layout_height="match_parent"
+            android:layout_width="40dp"
             android:layout_alignParentRight="true"
-            android:background="@drawable/common_tab_bg"
-            android:clickable="true"
-            android:scaleType="centerInside"
-            android:src="@drawable/add" />
+            android:paddingLeft="10dp"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:src="@drawable/jiahao"
+                android:layout_gravity="center" />
+        </LinearLayout>
     </RelativeLayout>
 
     <FrameLayout

@@ -11,6 +11,7 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.Spinner;
 import android.widget.Toast;
 
@@ -28,7 +29,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class Information extends Activity {
-    private ImageView back;
+    private LinearLayout back;
     private ImageView headportrait;
     public static String F2;
     private Spinner spinner_f_2;
@@ -39,7 +40,7 @@ public class Information extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_information);
         btn = (Button) findViewById(R.id.btn);
-        back = (ImageView) findViewById(R.id.back);
+        back = (LinearLayout) findViewById(R.id.back);
         spinner_f_2 = (Spinner) findViewById(R.id.id_spinner_f_2);
         spinner_adapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_dropdown_item, Information.this.getResources().getStringArray(R.array.s_spinner));
         spinner_f_2.setAdapter(spinner_adapter);

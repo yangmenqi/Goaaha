@@ -46,6 +46,7 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.Toast;
 
@@ -215,7 +216,7 @@ public class ContactlistFragment extends Fragment {
 			}
 		});
 
-		ImageView addContactView = (ImageView) getView().findViewById(R.id.iv_new_contact);
+		LinearLayout addContactView = (LinearLayout) getView().findViewById(R.id.iv_new_contact);
 		// 进入添加好友页
 		addContactView.setOnClickListener(new OnClickListener() {
 

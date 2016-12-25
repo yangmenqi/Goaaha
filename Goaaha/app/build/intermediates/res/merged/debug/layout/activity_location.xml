@@ -4,14 +4,12 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-
     <com.baidu.mapapi.map.MapView
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="46dp"
         android:id="@+id/bmapView"
         android:layout_width="fill_parent"
         android:layout_height="match_parent"
         android:clickable="true" />
-
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -21,14 +19,11 @@
         android:minWidth="100dip"
         android:orientation="vertical"
         android:padding="7dp" >
-
         <RadioGroup
-
             android:id="@+id/radioGroup"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:contentDescription="定位icon" >
-
             <RadioButton
                 android:id="@+id/defaulticon"
                 android:layout_width="wrap_content"
@@ -37,7 +32,6 @@
                 android:textColor="#000000"
                 android:text="默认图标" >
             </RadioButton>
-
             <RadioButton
                 android:id="@+id/customicon"
                 android:layout_width="wrap_content"
@@ -48,36 +42,32 @@
             </RadioButton>
         </RadioGroup>
     </LinearLayout>
-    <LinearLayout
-        xmlns:android="http://schemas.android.com/apk/res/android"
+    <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:background="@color/Maincolor"
-        android:layout_alignParentTop="true"
-        >
-
+        android:layout_height="@dimen/height_top_bar"
+        android:background="@color/top_bar_normal_bg"
+        android:gravity="center_vertical" >
         <TextView
-            android:layout_marginLeft="50dp"
-            android:layout_gravity="center"
-            android:layout_width="0dp"
-            android:layout_weight="1"
-            android:layout_height="50dp"
-            android:gravity="center"
+            android:id="@+id/message_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_centerInParent="true"
-            android:textColor="#FFFFFFFF"
-            android:textSize="22sp"
-            android:textStyle="bold"
-            android:textAlignment="center"
-            android:text="地图" />
-        <ImageButton
+            android:text="@string/map"
+            android:textColor="@color/bottom_text_color_normal"
+            android:textSize="18sp" />
+        <LinearLayout
             android:id="@+id/id_add2"
-            android:layout_marginTop="13dp"
+            android:layout_width="40dp"
             android:layout_alignParentRight="true"
-            android:layout_marginRight="10dp"
-            android:layout_width="23dp"
-            android:layout_height="23dp"
-            android:background="@drawable/jiahao"/>
-    </LinearLayout>
+            android:paddingLeft="12dp"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:src="@drawable/jiahao"
+                android:layout_gravity="center" />
+        </LinearLayout>
+    </RelativeLayout>
     <Button
         android:background="@drawable/putongb"
         android:id="@+id/button1"

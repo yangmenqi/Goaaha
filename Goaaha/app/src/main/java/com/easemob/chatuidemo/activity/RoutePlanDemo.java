@@ -15,6 +15,8 @@ import android.widget.AdapterView;
 import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.ImageButton;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -87,7 +89,7 @@ public class RoutePlanDemo extends Activity implements BaiduMap.OnMapClickListen
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_routeplan);
 
-        ImageButton turn = (ImageButton) findViewById(R.id.turn);
+        LinearLayout turn = (LinearLayout) findViewById(R.id.turn);
 
 
         turn.setOnClickListener(new View.OnClickListener() {

@@ -8,19 +8,23 @@
         android:layout_height="@dimen/height_top_bar"
         android:background="@color/Maincolor"
         android:gravity="center_vertical" >
-        <ImageView
+        <LinearLayout
             android:id="@+id/back"
-            android:layout_width="30dp"
-            android:layout_height="30dp"
-            android:src="@drawable/b"
-            android:layout_gravity="center"
-            android:layout_marginLeft="5dp"/>
+            android:layout_width="40dp"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/b"
+                android:layout_gravity="center"
+                android:layout_marginLeft="5dp"/>
+        </LinearLayout>
         <TextView
             android:id="@+id/message_title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
-            android:layout_marginTop="3dp"
+            android:layout_centerVertical="true"
             android:text="货币类型选择"
             android:textColor="@color/bottom_text_color_normal"
             android:textSize="18sp" />

@@ -4,20 +4,40 @@
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\head_out.xml"
     },
     {
-        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
-        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
+        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\slide_in_from_left.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\hold.xml"
     },
     {
+        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out.xml",
+        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\push_top_out.xml"
+    },
+    {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out2.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\push_top_out2.xml"
     },
     {
+        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\head_in.xml",
+        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\head_in.xml"
+    },
+    {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
+        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in.xml",
+        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\push_top_in.xml"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\head_in.xml",
@@ -44,8 +64,16 @@
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\push_top_in.xml"
     },
     {
+        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\slide_in_from_left.xml"
+    },
+    {
+        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in2.xml",
+        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\push_top_in2.xml"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
@@ -58,6 +86,10 @@
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\hold.xml"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out.xml",
@@ -80,12 +112,24 @@
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\fade_in.xml"
     },
     {
+        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\slide_out_to_right.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out2.xml",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\push_top_out2.xml"
+    },
+    {
+        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out2.xml",
+        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\push_top_out2.xml"
+    },
+    {
+        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\fade_in.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\head_in.xml",
@@ -96,8 +140,20 @@
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\fade_out.xml"
     },
     {
+        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
+        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\slide_out_to_left.xml"
+    },
+    {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
+        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\head_out.xml",
+        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\head_out.xml"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\head_out.xml",
@@ -118,5 +174,9 @@
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\slide_in_from_left.xml"
+    },
+    {
+        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
     }
 ]

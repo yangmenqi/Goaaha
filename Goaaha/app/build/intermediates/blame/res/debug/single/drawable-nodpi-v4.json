@@ -24,16 +24,24 @@
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\empty_photo.png"
     },
     {
-        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\logo.png",
-        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\logo.png"
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\empty_photo.png",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\empty_photo.png"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\voice_from_icon.xml",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\voice_from_icon.xml"
     },
     {
+        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\logo.png",
+        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\logo.png"
+    },
+    {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\radius_drawable_bg.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\radius_drawable_bg.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\user.png",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\user.png"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\tab_map_bg.xml",
@@ -56,6 +64,10 @@
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\pswd.png"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\voice_to_icon.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\voice_to_icon.xml"
+    },
+    {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\currency.png",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\currency.png"
     },
@@ -72,8 +84,24 @@
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\voice_to_icon.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\pswd.png",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\pswd.png"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\text_bg.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\text_bg.xml"
+    },
+    {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\user.png",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\user.png"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\voice_from_icon.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\voice_from_icon.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\tab_currency_bg.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\tab_currency_bg.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\user.png",
@@ -88,6 +116,10 @@
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\empty_photo.png"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\logo.png",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\logo.png"
+    },
+    {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\chat.png",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\chat.png"
     },
@@ -98,6 +130,10 @@
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\radius_drawable_bg.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\radius_drawable_bg.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\radius_drawable_bg.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\radius_drawable_bg.xml"
     },
     {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\logo.png",
@@ -118,6 +154,10 @@
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\empty_photo.png",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\empty_photo.png"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\tab_map_bg.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\tab_map_bg.xml"
     },
     {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\pswd.png",

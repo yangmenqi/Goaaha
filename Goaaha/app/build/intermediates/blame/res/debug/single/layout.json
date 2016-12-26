@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video_call.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_video_call.xml"
+    },
+    {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_location.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_location.xml"
     },
@@ -12,20 +16,28 @@
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\grid.xml"
     },
     {
-        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_neterror_item.xml",
-        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\chat_neterror_item.xml"
-    },
-    {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commom_back_btn.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\commom_back_btn.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_neterror_item.xml",
+        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\chat_neterror_item.xml"
     },
     {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_black_list.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_black_list.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_diagnose.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_diagnose.xml"
+    },
+    {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_contact.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_null.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_null.xml"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice.xml",
@@ -42,6 +54,14 @@
     {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_groups.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_groups.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choosevideoactivity.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_choosevideoactivity.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_location.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_location.xml"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pick_contact_no_checkbox.xml",
@@ -64,12 +84,28 @@
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_public_groups_search.xml"
     },
     {
-        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_big_image.xml",
-        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_show_big_image.xml"
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_image.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_image.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\logout_actionsheet.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\logout_actionsheet.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_location.xml"
     },
     {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_griditem.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\choose_griditem.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_big_image.xml",
+        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_show_big_image.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transit_dialog.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_transit_dialog.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_information.xml",
@@ -88,36 +124,48 @@
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\search_bar.xml"
     },
     {
-        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups_search.xml",
-        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_public_groups_search.xml"
-    },
-    {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chatroom.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_chatroom.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups_search.xml",
+        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_public_groups_search.xml"
     },
     {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_history.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_conversation_history.xml"
     },
     {
-        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_poisearch.xml",
-        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_poisearch.xml"
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_group.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_group.xml"
     },
     {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_null.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_null.xml"
     },
     {
+        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_poisearch.xml",
+        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_poisearch.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_call.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_video_call.xml"
+    },
+    {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transit_item.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_transit_item.xml"
     },
     {
-        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\showvideo_activity.xml",
-        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\showvideo_activity.xml"
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_information.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_information.xml"
     },
     {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\showvideo_activity.xml",
+        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\showvideo_activity.xml"
     },
     {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recorder_activity.xml",
@@ -132,6 +180,10 @@
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_file.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friends_msg.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_new_friends_msg.xml"
+    },
+    {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baidumap.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_baidumap.xml"
     },
@@ -140,20 +192,24 @@
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_contact_with_checkbox.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_message.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_message.xml"
     },
     {
-        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_expression.xml",
+        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_expression.xml"
     },
     {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_file.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_file.xml"
     },
     {
-        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_expression.xml",
-        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_expression.xml"
+        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_file.xml",
@@ -166,6 +222,10 @@
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voice_call.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_voice_call.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_picture.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_picture.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_video.xml",
@@ -184,16 +244,24 @@
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_show_big_image.xml"
     },
     {
-        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_busline.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_busline.xml"
     },
     {
+        "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_poisearch.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_poisearch.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_invite_msg.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_invite_msg.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baidumap.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_baidumap.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choosevideoactivity.xml",
@@ -216,8 +284,16 @@
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_details.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_poisearch.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_poisearch.xml"
+    },
+    {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_busline.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_busline.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_text.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_text.xml"
     },
     {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_blacklist.xml",
@@ -228,8 +304,24 @@
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\alert_dialog.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_neterror_item.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\chat_neterror_item.xml"
+    },
+    {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_currency.xml",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\item_currency.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_message.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_message.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\showvideo_activity.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\showvideo_activity.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video_call.xml",
@@ -256,12 +348,20 @@
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\listview_footer_view.xml"
     },
     {
+        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_neterror_item.xml",
+        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\chat_neterror_item.xml"
+    },
+    {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_message.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_message.xml"
     },
     {
-        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_neterror_item.xml",
-        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\chat_neterror_item.xml"
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_currency.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\item_currency.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\grid.xml"
     },
     {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_location.xml",
@@ -296,6 +396,10 @@
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\image_grid_fragment.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_file.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_file.xml"
+    },
+    {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_picture.xml",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_picture.xml"
     },
@@ -306,6 +410,10 @@
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_simle_details.xml",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_simle_details.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_register.xml"
     },
     {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_invite_msg.xml",
@@ -352,6 +460,10 @@
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_location.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_busline.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_busline.xml"
+    },
+    {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_edit.xml"
     },
@@ -376,6 +488,14 @@
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_conversation_settings.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_group.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_new_group.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voice_call.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_voice_call.xml"
+    },
+    {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_grid_fragment.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\image_grid_fragment.xml"
     },
@@ -388,8 +508,20 @@
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\commom_back_btn.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_griditem.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\choose_griditem.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice_call.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_voice_call.xml"
+    },
+    {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_public_groups.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_contact.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_location.xml",
@@ -424,12 +556,20 @@
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\recorder_activity.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_simle_details.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_simle_details.xml"
+    },
+    {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_voice.xml"
     },
     {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact_list.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_contact_list.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_botton_tab.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\main_botton_tab.xml"
     },
     {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice.xml",
@@ -468,12 +608,20 @@
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_file.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_init_view.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\main_init_view.xml"
+    },
+    {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\logout_actionsheet.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\logout_actionsheet.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_history.xml",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_conversation_history.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_file.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_file.xml"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_botton_tab.xml",
@@ -500,12 +648,20 @@
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\pop_menu.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_groups.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_groups.xml"
+    },
+    {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_blacklist.xml",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_blacklist.xml"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_picture.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_picture.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_message.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_message.xml"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_group.xml",
@@ -572,6 +728,10 @@
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_register.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_contact.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_add_contact.xml"
+    },
+    {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expression_gridview.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\expression_gridview.xml"
     },
@@ -612,12 +772,20 @@
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_add_contact.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expression_gridview.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\expression_gridview.xml"
+    },
+    {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer_view.xml",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\listview_footer_view.xml"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer_view.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\listview_footer_view.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_grid_fragment.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\image_grid_fragment.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice.xml",
@@ -636,8 +804,20 @@
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_location.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_file.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_show_file.xml"
+    },
+    {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_routeplan.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_routeplan.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_big_image.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_show_big_image.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer_view.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\listview_footer_view.xml"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_add_group.xml",
@@ -650,6 +830,10 @@
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recorder_activity.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\recorder_activity.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transit_item.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_transit_item.xml"
     },
     {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friends_msg.xml",
@@ -676,6 +860,14 @@
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\search_bar_with_padding.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact_with_checkbox.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_contact_with_checkbox.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_pick_contacts.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_pick_contacts.xml"
+    },
+    {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_griditem.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\choose_griditem.xml"
     },
@@ -688,8 +880,20 @@
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_show_file.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_public_groups.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recorder_activity.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\recorder_activity.xml"
+    },
+    {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar_with_padding.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\search_bar_with_padding.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups_search.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_public_groups_search.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
@@ -704,16 +908,40 @@
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_voice_call.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_history.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_conversation_history.xml"
+    },
+    {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_video.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_edit.xml"
     },
     {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_image.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_image.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video_call.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_video_call.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_blacklist.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_blacklist.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chatroom.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_chatroom.xml"
+    },
+    {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_layout.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\title_layout.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_voice.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_voice.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_diagnose.xml",
@@ -740,8 +968,24 @@
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_contact_with_checkbox.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_currency.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_currency.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_expression.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_expression.xml"
+    },
+    {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_contact.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_add_contact.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_black_list.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_black_list.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_init_view.xml",
@@ -772,6 +1016,14 @@
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_new_friends_msg.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_video.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_location.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_location.xml"
+    },
+    {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_currency.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_currency.xml"
     },
@@ -784,12 +1036,20 @@
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_text.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_chat_history.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_chat_history.xml"
+    },
+    {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit.xml",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_edit.xml"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_black_list.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_black_list.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_location.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_location.xml"
     },
     {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
@@ -802,6 +1062,10 @@
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pick_contact_no_checkbox.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_pick_contact_no_checkbox.xml"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video.xml",
@@ -832,12 +1096,28 @@
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\pop_menu.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact_list.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_contact_list.xml"
+    },
+    {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_voice.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_location.xml",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_location.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_settings.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_conversation_settings.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\search_bar.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_picture.xml",
@@ -848,8 +1128,16 @@
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_simle_details.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_menu.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\pop_menu.xml"
+    },
+    {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_emojicon.xml",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_emojicon.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commom_back_btn.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\commom_back_btn.xml"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_init_view.xml",
@@ -872,8 +1160,20 @@
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_voice_call.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_picture.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_picture.xml"
+    },
+    {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_public_groups.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_voice.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_layout.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\title_layout.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voice_call.xml",
@@ -928,12 +1228,24 @@
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_add_group.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\currency_list.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\currency_list.xml"
+    },
+    {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_layout.xml",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\title_layout.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_video.xml"
+    },
+    {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_voice.xml",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_voice.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_video.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_video.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid.xml",
@@ -942,6 +1254,10 @@
     {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_picture.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_picture.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_details.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_group_details.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact_with_checkbox.xml",
@@ -954,6 +1270,14 @@
     {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video_call.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_video_call.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar_with_padding.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\search_bar_with_padding.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_emojicon.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\fragment_emojicon.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chatroom.xml",
@@ -1000,6 +1324,14 @@
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_voice_call.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_routeplan.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_routeplan.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\alert_dialog.xml"
+    },
+    {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_botton_tab.xml",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\main_botton_tab.xml"
     },
@@ -1012,12 +1344,24 @@
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_sent_location.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_voice.xml"
+    },
+    {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_image.xml",
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\context_menu_for_image.xml"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice_call.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_received_voice_call.xml"
+    },
+    {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_add_group.xml",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\layout\\row_add_group.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transit_item.xml",

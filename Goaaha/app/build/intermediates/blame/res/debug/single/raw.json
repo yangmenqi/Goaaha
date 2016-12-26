@@ -4,6 +4,10 @@
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\raw\\outgoing.ogg"
     },
     {
+        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\raw\\outgoing.ogg",
+        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\raw\\outgoing.ogg"
+    },
+    {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\raw\\outgoing.ogg",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\raw\\outgoing.ogg"
     },

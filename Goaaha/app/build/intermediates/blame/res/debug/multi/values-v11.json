@@ -198,7 +198,11 @@
         ]
     },
     {
+<<<<<<< HEAD
         "outputFile": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+=======
+        "outputFile": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+>>>>>>> b4e7c1927c59b414898abc580679931727a109c6
         "map": [
             {
                 "to": {
@@ -210,7 +214,11 @@
                     "endOffset": 219
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-v11\\styles.xml",
+=======
+                    "file": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-v11\\styles.xml",
+>>>>>>> b4e7c1927c59b414898abc580679931727a109c6
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -231,7 +239,11 @@
                     "endOffset": 394
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-v11\\styles.xml",
+=======
+                    "file": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-v11\\styles.xml",
+>>>>>>> b4e7c1927c59b414898abc580679931727a109c6
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -251,7 +263,11 @@
                     "endOffset": 479
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-v11\\styles.xml",
+=======
+                    "file": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-v11\\styles.xml",
+>>>>>>> b4e7c1927c59b414898abc580679931727a109c6
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,

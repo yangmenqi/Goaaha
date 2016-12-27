@@ -8,6 +8,14 @@
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-mdpi\\unread_count_bg.9.png"
     },
     {
+        "merged": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\unread_count_bg.9.png",
+        "source": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-mdpi\\unread_count_bg.9.png"
+    },
+    {
         "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
         "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     },

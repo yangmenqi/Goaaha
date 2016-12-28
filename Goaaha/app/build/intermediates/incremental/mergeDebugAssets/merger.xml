@@ -1,6 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<<<<<<< HEAD
-<merger version="3"><dataSet config="main"><source path="E:\item\Mygit1\Goaaha\Goaaha\app\src\main\assets"/></dataSet><dataSet config="debug"><source path="E:\item\Mygit1\Goaaha\Goaaha\app\src\debug\assets"/></dataSet></merger>
-=======
-<merger version="3"><dataSet config="main"><source path="E:\study\java\android-program\MyGithub\Goaaha\Goaaha\app\src\main\assets"/></dataSet><dataSet config="debug"><source path="E:\study\java\android-program\MyGithub\Goaaha\Goaaha\app\src\debug\assets"/></dataSet></merger>
->>>>>>> b4e7c1927c59b414898abc580679931727a109c6
+<merger version="3"><dataSet config="main"><source path="C:\Users\Lenovo\Desktop\Goaaha\app\src\main\assets"/></dataSet><dataSet config="debug"><source path="C:\Users\Lenovo\Desktop\Goaaha\app\src\debug\assets"/></dataSet></merger>

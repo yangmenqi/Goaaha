@@ -226,11 +226,13 @@
     <string name="hanging_up">正在挂断..</string>
     <string name="have_connected_with">已经和对方建立连接，等待对方接受...</string>
     <string name="have_you_removed">已把你从他好友列表里移除</string>
+    <string name="hello_blank_fragment">空白页</string>
     <string name="illegal_user_name">用户名不合法</string>
     <string name="input_new_nick_hint">输入新昵称</string>
     <string name="is_down_please_wait">正在下载视频请稍候</string>
     <string name="is_modify_the_group_name">正在修改群名称...</string>
     <string name="is_quit_the_group_chat">正在退出群聊...</string>
+    <string name="join_public_group">加入公开群</string>
     <string name="list_is_for">将在后台获取好友和群聊列表...</string>
     <string name="location_message">位置信息</string>
     <string name="location_prefix">[我的位置]</string>

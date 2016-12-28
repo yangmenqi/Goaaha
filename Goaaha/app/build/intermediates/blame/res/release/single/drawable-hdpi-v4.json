@@ -24,12 +24,12 @@
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\record_animate_14.png"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\chatto_voice_playing_f1.png",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f1.png"
-    },
-    {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_st.png",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\icon_st.png"
+    },
+    {
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\chatto_voice_playing_f1.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f1.png"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\contact_list_normal.png",
@@ -52,16 +52,16 @@
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\type_select_btn_pressed.png"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ee_28.png",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_28.png"
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\mm_title_act_btn_pressed.9.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\mm_title_act_btn_pressed.9.png"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ee_1.png",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_1.png"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\mm_title_act_btn_pressed.9.png",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\mm_title_act_btn_pressed.9.png"
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ee_28.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_28.png"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\chatting_setmode_keyboard_btn_normal.png",
@@ -398,10 +398,6 @@
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ee_12.png",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_12.png"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\logo_uidemo.png",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\logo_uidemo.png"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\saoyisao.png",

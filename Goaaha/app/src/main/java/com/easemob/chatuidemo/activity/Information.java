@@ -1,11 +1,15 @@
 package com.easemob.chatuidemo.activity;
 
-import android.app.Activity;
+import android.app.*;
+import android.content.DialogInterface;
 import android.content.Intent;
+import android.graphics.Bitmap;
 import android.net.Uri;
 import android.os.Bundle;
+import android.os.Environment;
 import android.os.Handler;
 import android.os.Message;
+import android.provider.MediaStore;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -25,12 +29,22 @@ import org.apache.http.client.methods.HttpPost;
 import org.apache.http.impl.client.DefaultHttpClient;
 
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class Information extends Activity {
+    private static final int PHOTO_REQUEST_CAMERA = 1;
+    private static final int PHOTO_REQUEST_GALLERY = 2;
+    private static final int PHOTO_REQUEST_CUT = 3;
+
+    private ImageView mFace;
+    private Bitmap bitmap;
+
+    private static final String PHOTO_FILE_NAME = "temp_photo.jpg";
+    private File tempFile;
+
     private LinearLayout back;
-    private ImageView headportrait;
     public static String F2;
     private Spinner spinner_f_2;
     private ArrayAdapter<String> spinner_adapter;
@@ -44,9 +58,15 @@ public class Information extends Activity {
         spinner_f_2 = (Spinner) findViewById(R.id.id_spinner_f_2);
         spinner_adapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_dropdown_item, Information.this.getResources().getStringArray(R.array.s_spinner));
         spinner_f_2.setAdapter(spinner_adapter);
-        headportrait = (ImageView) findViewById(R.id.headportrait);
 
+        this.mFace = (ImageView) this.findViewById(R.id.iv_image);
+        mFace.setOnClickListener(new View.OnClickListener() {
 
+            @Override
+            public void onClick(View v) {
+                showChoosePicDialog();
+            }
+        });
 
         Thread thread = new Thread(new GetdefaultLanguage(handler));
         thread.start();
@@ -85,53 +105,104 @@ public class Information extends Activity {
                 finish();
             }
         });
-        headportrait.setOnClickListener(new View.OnClickListener() {
+    }
+
+    protected void showChoosePicDialog() {
+        View view;
+        android.app.AlertDialog.Builder builder = new android.app.AlertDialog.Builder(this);
+        builder.setTitle("上传头像");
+        String[] items = { "从相册中选择图片", "拍照" };
+        builder.setItems(items, new DialogInterface.OnClickListener() {
             @Override
-            public void onClick(View v) {
-                ImageUtils.showImagePickDialog(Information.this);
+            public void onClick(DialogInterface dialog, int which) {
+                switch (which) {
+                    case 0:// CHOOSE_PICTURE
+                        gallery();
+                        break;
+                    case 1:// TAKE_PICTURE
+                        camera();
+                        break;
+                }
             }
         });
+        builder.create().show();
+    }
+
+    public void gallery() {
+        Intent intent = new Intent(Intent.ACTION_PICK);
+        intent.setType("image/*");
+        startActivityForResult(intent, PHOTO_REQUEST_GALLERY);
+    }
+
+    public void camera() {
+        Intent intent = new Intent("android.media.action.IMAGE_CAPTURE");
+
+        if (hasSdcard()) {
+            intent.putExtra(MediaStore.EXTRA_OUTPUT,
+                    Uri.fromFile(new File(Environment
+                            .getExternalStorageDirectory(), PHOTO_FILE_NAME)));
+        }
+        startActivityForResult(intent, PHOTO_REQUEST_CAMERA);
     }
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        if (requestCode == PHOTO_REQUEST_GALLERY) {
+            if (data != null) {
+                Uri uri = data.getData();
+                crop(uri);
+            }
+
+        } else if (requestCode == PHOTO_REQUEST_CAMERA) {
+            if (hasSdcard()) {
+                tempFile = new File(Environment.getExternalStorageDirectory(),
+                        PHOTO_FILE_NAME);
+                crop(Uri.fromFile(tempFile));
+            } else {
+                Toast.makeText(Information.this, "δ�ҵ��洢�����޷��洢��Ƭ��", 0).show();
+            }
+
+        } else if (requestCode == PHOTO_REQUEST_CUT) {
+            try {
+                bitmap = data.getParcelableExtra("data");
+                this.mFace.setImageBitmap(bitmap);
+                boolean delete = tempFile.delete();
+                System.out.println("delete = " + delete);
+
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+
+        }
+
         super.onActivityResult(requestCode, resultCode, data);
+    }
 
-        switch (requestCode) {
-            case ImageUtils.REQUEST_CODE_FROM_ALBUM: {
 
-                if (resultCode == RESULT_CANCELED) {   //取消操作
-                    return;
-                }
+    private void crop(Uri uri) {
 
-                Uri imageUri = data.getData();
-                ImageUtils.copyImageUri(this, imageUri);
-                ImageUtils.cropImageUri(this, ImageUtils.getCurrentUri(), 200, 200);
-                break;
-            }
-            case ImageUtils.REQUEST_CODE_FROM_CAMERA: {
+        Intent intent = new Intent("com.android.camera.action.CROP");
+        intent.setDataAndType(uri, "image/*");
+        intent.putExtra("crop", "true");
 
-                if (resultCode == RESULT_CANCELED) {     //取消操作
-                    ImageUtils.deleteImageUri(this, ImageUtils.getCurrentUri());   //删除Uri
-                }
+        intent.putExtra("aspectX", 1);
+        intent.putExtra("aspectY", 1);
 
-                ImageUtils.cropImageUri(this, ImageUtils.getCurrentUri(), 200, 200);
-                break;
-            }
-            case ImageUtils.REQUEST_CODE_CROP: {
+        intent.putExtra("outputX", 315);
+        intent.putExtra("outputY", 315);
 
-                if (resultCode == RESULT_CANCELED) {     //取消操作
-                    return;
-                }
+        intent.putExtra("outputFormat", "JPEG");
+        intent.putExtra("noFaceDetection", true);
+        intent.putExtra("return-data", true);
+        startActivityForResult(intent, PHOTO_REQUEST_CUT);
+    }
 
-                Uri imageUri = ImageUtils.getCurrentUri();
-                if (imageUri != null) {
-                    headportrait.setImageURI(imageUri);
-                }
-                break;
-            }
-            default:
-                break;
+    private boolean hasSdcard() {
+        if (Environment.getExternalStorageState().equals(
+                Environment.MEDIA_MOUNTED)) {
+            return true;
+        } else {
+            return false;
         }
     }
 
@@ -236,9 +307,6 @@ public class Information extends Activity {
             }
         });
     }
-
-
-
     private Handler handler = new Handler() {
         @Override
         public void handleMessage(Message msg) {

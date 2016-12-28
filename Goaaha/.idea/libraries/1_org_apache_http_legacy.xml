@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="1_org.apache.http.legacy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/123/org.apache.http.legacy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

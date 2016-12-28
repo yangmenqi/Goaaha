@@ -1,37 +1,164 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="s_spinner">
+        <item>中文</item>
+        <item>英语</item>
+        <item>粤语</item>
+        <item>文言文</item>
+        <item>日语</item>
+        <item>韩语</item>
+        <item>法语</item>
+        <item>西班牙语</item>
+        <item>泰语</item>
+        <item>阿拉伯语</item>
+        <item>俄语</item>
+        <item>葡萄牙语</item>
+        <item>德语</item>
+        <item>意大利语</item>
+        <item>希腊语</item>
+        <item>荷兰语</item>
+        <item>波兰语</item>
+        <item>保加利亚语</item>
+        <item>爱沙尼亚语</item>
+        <item>丹麦语</item>
+        <item>芬兰语</item>
+        <item>捷克语</item>
+        <item>罗马尼亚语</item>
+        <item>斯洛文尼亚语</item>
+        <item>瑞典语</item>
+        <item>匈牙利语</item>
+        <item>繁体中文</item>
+        <item>越南语</item>
+    </string-array>
+    <string name="Add_a_button_was_clicked">Add a button was clicked</string>
+    <string name="Add_a_friend">Let me to be your friend!</string>
+    <string name="Add_group_members_fail">Add group members fail:</string>
+    <string name="Agree_with_failure">Failed to accept</string>
+    <string name="Agreed_to_your_group_chat_application">Accepted your group application</string>
     <string name="Application_and_notify">Заявки и уведомления</string>
+    <string name="Apply_to_the_group_of">Apply to join the group</string>
+    <string name="Are_agree_with">Accepting</string>
+    <string name="Are_connected_to_each_other">Connecting to peer..</string>
+    <string name="Are_logged_out">Logging out</string>
+    <string name="Are_moving_to_blacklist">Moving to blacklist</string>
+    <string name="Are_removed">Removing</string>
+    <string name="Cant_chat_with_yourself">cannot chat with yourself</string>
+    <string name="Change_the_group_name">Change group name</string>
+    <string name="Confirm_password_cannot_be_empty">Confirm password cannot be empty!</string>
+    <string name="Connection_failure">Connection failed!</string>
     <string name="Current_version">Предыдущая версия</string>
+    <string name="Delete_failed">Failed to delete</string>
+    <string name="Delete_the_contact">Delete the contact</string>
+    <string name="Did_not_download">Not yet downloaded</string>
+    <string name="Dissolve_group_chat_tofail">Failed to dismiss the group:</string>
+    <string name="Download_the_pictures">Download the pictures: 0%</string>
+    <string name="Download_the_pictures_new">Download the pictures:</string>
     <string name="Empty_the_chat_record">Очистить историю чата</string>
     <string name="Exit_the_group_chat">Выйти из чата</string>
+    <string name="Exit_the_group_chat_failure">Failed to exit the group:</string>
+    <string name="Failed_to_create_groups">Failed to create groups</string>
+    <string name="Failed_to_download_file">Failed to download file:</string>
+    <string name="Failed_to_get_group_chat_information">Failed to get group information:</string>
+    <string name="Failed_to_join_the_group_chat">Failed to join the group</string>
+    <string name="File_does_not_exist">File does not exist</string>
     <string name="Group_chat">Чат:</string>
     <string name="Group_chat_information">Информация о чате</string>
     <string name="Group_chat_profile">Описание чата</string>
+    <string name="Group_name_cannot_be_empty">Group name cannot be empty</string>
     <string name="Group_of_Lord">Администратор</string>
     <string name="Hands_free">Бесконтактное управление</string>
+    <string name="Has_agreed_to">Accepted</string>
+    <string name="Has_agreed_to_your_friend_request">Accepted your request</string>
+    <string name="Has_been_cancelled">Cancelled</string>
+    <string name="Has_refused_to">Refused</string>
+    <string name="Have_downloaded">Already downloaded</string>
+    <string name="In_the_call">In the call..</string>
+    <string name="Into_the_blacklist">Move to the blacklist?</string>
     <string name="Introduction">Описание</string>
+    <string name="Invite_you_to_join_a_group_chat"> Invite you to join this group</string>
+    <string name="Is_download_voice_click_later">Downloading the voice message, click later</string>
+    <string name="Is_landing">logining..</string>
+    <string name="Is_moved_into_blacklist">Moving to blacklist..</string>
+    <string name="Is_not_yet_connected_to_the_server">Not connect to server</string>
+    <string name="Is_sending_a_request">Sending the request..</string>
+    <string name="Is_the_registered">Registering..</string>
+    <string name="Is_to_create_a_group_chat">Creating the group</string>
+    <string name="Is_unblock">Unblocking group</string>
+    <string name="Join_the_group_chat">Join the group</string>
+    <string name="Log_Upload_failed">Failed to upload the log</string>
+    <string name="Log_uploaded_successfully">Log was uploaded successfully</string>
+    <string name="Login_failed">Login failed:</string>
+    <string name="Logoff_notification">Logoff notification</string>
+    <string name="Making_sure_your_location">Making sure your location..</string>
+    <string name="Modify_the_group_name_successful">Modify the group name successful</string>
+    <string name="Move_into_blacklist_failure">Move into blacklist failure</string>
+    <string name="Move_into_blacklist_success">Move into blacklist success</string>
+    <string name="Move_into_the_blacklist_new">Move into the blacklist</string>
+    <string name="Network_error">Network error</string>
     <string name="Not_Set">Настройки не указаны</string>
     <string name="Open_group_chat">Публичный чат</string>
     <string name="Open_group_members_invited">Сделать приглашение в чат свободным</string>
+    <string name="Open_the_equipment_failure">Open the equipment failure!</string>
+    <string name="Password_cannot_be_empty">Password cannot be empty!</string>
     <string name="Please_enter_a_username">Пожалуйста, введите имя пользователя</string>
+    <string name="Recording_without_permission">Recording without permission</string>
+    <string name="Refused">Refused</string>
+    <string name="Registered_successfully">Registered successfully</string>
+    <string name="Registration_failed">Registration failed:</string>
+    <string name="Remove_the_notification">Remove the notification</string>
+    <string name="Removed_from_the_failure">Removed fail</string>
+    <string name="Request_add_buddy_failure">Request add buddy failure:</string>
+    <string name="Request_to_add_you_as_a_friend">You got a friend request</string>
+    <string name="Request_to_join">Apply to join</string>
     <string name="Select_the_contact">Выбрать контактное лицо</string>
+    <string name="Send_the_following_pictures">Send the following pictures?</string>
+    <string name="Send_voice_need_sdcard_support">Send voice need sdcard support</string>
     <string name="Shielding_of_the_message">Блокировать сообщения чата</string>
+    <string name="Sync_Groups_From_Server">从服务器下载群聊信息</string>
+    <string name="The_delete_button_is_clicked">The delete button is clicked</string>
+    <string name="The_file_is_not_greater_than_10_m">The file is not greater than 10 m</string>
     <string name="The_new_group_chat">Создать чат</string>
+    <string name="The_other_is_hang_up">The peer has ended the call</string>
+    <string name="The_other_is_not_online">The peer is not online</string>
+    <string name="The_other_is_on_the_phone">The peer is on the phone</string>
+    <string name="The_other_is_on_the_phone_please">The peer is busy now, please try later</string>
+    <string name="The_other_party_did_not_answer">The peer did not answer</string>
+    <string name="The_other_party_did_not_answer_new">The peer did not answer</string>
+    <string name="The_other_party_has_refused_to">Call was refused</string>
+    <string name="The_other_party_is_not_online">The peer is not online now, please try later</string>
+    <string name="The_other_party_refused_to_accept">The call was refused</string>
+    <string name="The_recording_time_is_too_short">The recording time is too short</string>
+    <string name="The_video_to_start">The video to start</string>
+    <string name="This_user_is_already_your_friend">This user is already your friend</string>
     <string name="To_join_the_chat">Присоединиться к обсуждению</string>
+    <string name="Two_input_password">Inconsistent password, please enter again!</string>
     <string name="Upload_the_log">Идет загрузка</string>
+    <string name="User_already_exists">User already existed!</string>
+    <string name="User_name_cannot_be_empty">User name cannot be empty!</string>
+    <string name="Version_number_is_wrong">Version number is wrong</string>
+    <string name="Video_footage">Video record</string>
     <string name="Whether_the_public">Сделать его публичным?</string>
+    <string name="Whether_to_empty_all_chats">Clear all messages?</string>
+    <string name="Whether_to_send">Are you sure to send?</string>
     <string name="add_friend">Добавить контакты</string>
+    <string name="add_public_chat_room">添加聊天室</string>
+    <string name="add_public_group_chat">Add public group</string>
     <string name="address_book">Контакты</string>
     <string name="agree">Согласен</string>
     <string name="answer">Ответить</string>
     <string name="app_name">Демонстрация интерфейса</string>
+    <string name="are_empty_group_of_news">Clearing messages</string>
     <string name="attach_file">Документ</string>
     <string name="attach_location">Местоположение</string>
     <string name="attach_picture">Изображение</string>
     <string name="attach_smile">Смайлы</string>
     <string name="attach_take_pic">Сделать фото</string>
+    <string name="attach_video">Video</string>
+    <string name="attach_video_call">Video call</string>
     <string name="attach_voice_call">Голосовой вызов</string>
     <string name="back">Назад</string>
+    <string name="be_removing">Be removing</string>
+    <string name="being_added">added</string>
     <string name="black_item">Черный список</string>
     <string name="blacklist">Черный список</string>
     <string name="book_black">Черный список</string>
@@ -43,73 +170,149 @@
     <string name="button_search">Найти</string>
     <string name="button_send">Послать</string>
     <string name="button_uploadlog">Загрузить эксплуатационный журнал</string>
+    <string name="call_duration">call duration</string>
+    <string name="can_not_connect_chat_server_connection">Cannot connect to server</string>
     <string name="cancel">Отмена</string>
+    <string name="cant_find_pictures">"Can't find pictures"</string>
+    <string name="change_the_group_name_failed_please">Failed to change the group name, please check the network or try again later</string>
+    <string name="chat_room">Chat room</string>
+    <string name="chatroom_allow_owner_leave">Allow chatroom owner leave</string>
     <string name="chatset">Настройки диалога</string>
+    <string name="chatting_is_dissolution">Dismissing group</string>
     <string name="clear_all_records">Вы уверены, что хотите очистить все записи?</string>
     <string name="clear_records">Очистить записи</string>
     <string name="confirm_forward_to">Вы уверены, что Вы хотите переслать：%1$s ?</string>
     <string name="confirm_resend">Вы уверены, что хотите отправить сообщение еще раз?</string>
+    <string name="confirm_the_members">Move this member to group blacklist?</string>
     <string name="confirmpassword">Подтвердить пароль</string>
     <string name="connect_conflict">В данный момент эта уч.запись используется другим устройством</string>
     <string name="connect_failuer_toast">Пожалуйста, проверьте соединение с интернетом либо попробуйте еще раз позже</string>
     <string name="copy">Копировать</string>
     <string name="copy_message">Копировать сообщение</string>
+    <string name="currency">Currency</string>
     <string name="delete">Удалить</string>
+    <string name="delete_conversation">Delete conversation</string>
+    <string name="delete_conversation_messages">Delete conversation and messages</string>
     <string name="delete_message">Удалить сообщение</string>
     <string name="delete_video">Удалить видео</string>
     <string name="delete_voice">Удалить голосовое сообщение</string>
+    <string name="deleting">Deleting..</string>
     <string name="diagnose">Диагностирование</string>
+    <string name="did_not_answer">did not answer</string>
+    <string name="direct_call">Direct</string>
     <string name="dismiss_group">Распустить чат</string>
     <string name="dissolution_group_hint">Распускать чат при выходе из приложения</string>
     <string name="downwaiting">Документ загружается, пожалуйста подождите...</string>
     <string name="em_user_remove">Данный пользователь был удален</string>
+    <string name="error_send_invalid_content">The message content is not allowed to be sent!</string>
+    <string name="error_send_not_in_the_group">You already were not in the group</string>
     <string name="exit_group">Выйти</string>
     <string name="exit_group_hint">Не получать сообщения при выходе из приложения</string>
+    <string name="expression">[expression]</string>
+    <string name="failed_to_load_data">Failed to load data, please check network or try again later</string>
+    <string name="failed_to_move_into">Failed to move to the blacklist, please check the network or try again later</string>
     <string name="file">[Документ]</string>
     <string name="forward">Переслать</string>
+    <string name="get_failed_please_check">Failed to retrieve, please check the network or try again later</string>
+    <string name="gorup_not_found">Can not find this group</string>
     <string name="group_chat">Чат</string>
+    <string name="group_id">Group ID</string>
+    <string name="group_is_blocked">Blocking the group..</string>
     <string name="group_name">Имя чата</string>
+    <string name="group_not_existed">The group does not exist</string>
+    <string name="group_of_shielding">Group of shielding failure, please check the network or try again later</string>
+    <string name="group_search_failed">Search failed</string>
     <string name="hang_up">Завершить</string>
+    <string name="hanging_up">Hanging up..</string>
+    <string name="have_connected_with">Connected to the peer and waiting for the peer to accept</string>
+    <string name="have_you_removed">Have you removed from his buddy list</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="illegal_user_name">Illegal user name</string>
+    <string name="input_new_nick_hint">Input a new nick</string>
     <string name="is_down_please_wait">Пожалуйста подождите, видео загружается...</string>
+    <string name="is_modify_the_group_name">Modifying the group name..</string>
+    <string name="is_quit_the_group_chat">Exiting group</string>
+    <string name="join_public_group">Join public group</string>
+    <string name="list_is_for">Retrieving the groups and contacts</string>
     <string name="location_message">Информация о местоположении</string>
     <string name="location_prefix">[Мое местоположение]</string>
     <string name="location_recv">[Местоположение%1$]</string>
     <string name="login">Войти</string>
+    <string name="login_failure_failed">Logon failure: failed to retrieve contacts or groups</string>
     <string name="logout">Выйти</string>
     <string name="logout_hint">Сохранять записи при выходе из приложения, для возвращения использовать ту же уч.запись</string>
+    <string name="map">map</string>
+    <string name="move_out_backlist">Remove from blacklist</string>
     <string name="move_up_to_cancel">Провести вверх для отмены отправки</string>
     <string name="mute">Без звука</string>
+    <string name="network_anomalies">Network is not available, please check the network!</string>
     <string name="network_isnot_available">Сеть недоступна</string>
     <string name="network_unavailable">Ошибка соединения, пожалуйста, проверьте Ваше соединение с интернетом.</string>
     <string name="newchat">Создать чат</string>
     <string name="newnotify">Посылать уведомление при получении сообщения</string>
+    <string name="nickname_description">Once this nick is set, this nick will be used in push notification (by default this is HuanXin ID ) when the receiver is using the IOS device.</string>
+    <string name="no_more_messages">no more messages</string>
+    <string name="not_add_myself">"Can't add myself"</string>
+    <string name="not_connect_to_server">Not connect to server, please try again later</string>
+    <string name="not_delete_myself">Cannot delete myself</string>
     <string name="not_download">Не скачано:</string>
     <string name="notify">Уведомление о новом сообщении</string>
     <string name="now_refresh_list">Идет обновление контактов</string>
+    <string name="ok">OK</string>
     <string name="password">Пароль</string>
+    <string name="people">people</string>
     <string name="picture">[Изображение]</string>
+    <string name="please_check">key validation error!Please on AndroidManifest.xml file check the key set</string>
+    <string name="please_set_the_current">"Please set the current user's nickname \ n to ios offline push not userid but Nick, see comments"</string>
     <string name="prompt">Оповещения</string>
+    <string name="push_nick">IOS offline push nick</string>
+    <string name="receive_the_passthrough">Receive cmd message : action：</string>
     <string name="recoding_fail">Сделать запись не удалось, пожалуйста, попробуйте еще раз!</string>
     <string name="recording_video">Сделать видео</string>
+    <string name="refreshing_group_list">Refreshing group list</string>
     <string name="register">Регистрация</string>
+    <string name="registration_failed_without_permission">Registration failed, without permission!</string>
+    <string name="relay_call">Relay</string>
     <string name="release_to_cancel">Отпустить палец для отмены отправки</string>
+    <string name="remove_group_of">Remove group of shielding failure, please check the network or try again later</string>
     <string name="resend">Отправить повторно</string>
     <string name="save">Сохранить</string>
+    <string name="save_new_nickname">Save new nickname</string>
+    <string name="sd_card_does_not_exist">"SD card does not exist, can't take pictures"</string>
     <string name="search">Поиск</string>
     <string name="search_header">Поиск</string>
+    <string name="search_new">Search</string>
+    <string name="search_pubic_group">Search public group</string>
+    <string name="searching">searching</string>
     <string name="select_contacts">Выбрать контактное лицо</string>
     <string name="send_fail">Ошибка при передаче сообщения,</string>
+    <string name="send_failure_please">Send failure, please test whether the server connection</string>
+    <string name="send_successful">Request was sent, waiting for the peer to accept</string>
+    <string name="send_the_request_is">The request was sent and waiting for owner approval</string>
     <string name="session">Диалог</string>
     <string name="set">Настройки</string>
     <string name="setting">Настройки</string>
     <string name="shake">Вибрация</string>
+    <string name="sure_to_empty_this">Clear all messages?</string>
+    <string name="temporary_does_not">Currently the video size greater than 10M is not supported!</string>
     <string name="text_ack_msg">Прочитанные</string>
     <string name="text_delivered_msg">Переданные</string>
+    <string name="the_current_group">The current group has been dismissed</string>
+    <string name="the_current_network">The current network is not available, please check the network Settings</string>
+    <string name="translate">Translate</string>
     <string name="unable_to_connect">Ошибка соединения с сервером</string>
+    <string name="unable_to_get_loaction">Unable to get to your location information!</string>
+    <string name="update_black_list">更新黑名单</string>
+    <string name="update_black_list_failed">更新黑名单失败</string>
+    <string name="update_contact_list">更新联系人列表</string>
+    <string name="update_contact_list_failed">更新联系人列表失败</string>
+    <string name="update_groups">更新群聊</string>
+    <string name="update_groups_failed">更新群聊失败</string>
     <string name="user_card">Визитная карточка</string>
     <string name="user_name">Имя пользователя</string>
     <string name="video">[Видео]</string>
     <string name="voice">Громкость</string>
     <string name="voice_call">[Голосовой вызов]</string>
     <string name="yangshengqi">Использовать динамик при воспроизведении сообщения</string>
+    <string name="you_are_group">You have been kicked off from the group</string>
 </resources>

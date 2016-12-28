@@ -274,6 +274,7 @@
     <string name="update_groups_failed">更新群聊失败</string>
     
     <string name= "no_more_messages">没有更多的消息了</string>
+    <string name="join_public_group">加入公开群</string>
     <string name="gorup_not_found">找不到这个群组</string>
     <string name= "chatroom_allow_owner_leave"> 允许聊天室群主离开</string>
     <string name="group_id">群ID</string>
@@ -290,6 +291,7 @@
     <string name="hanging_up">正在挂断..</string>
     <string name="illegal_user_name">用户名不合法</string>
 
+    <string name="hello_blank_fragment">空白页</string>
     <string-array name="s_spinner">
         <item>中文</item>
         <item>英语</item>

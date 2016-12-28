@@ -214,6 +214,7 @@
     <string name="Send_the_following_pictures">Send the following pictures?</string>
     <string name="Send_voice_need_sdcard_support">Send voice need sdcard support</string>
     <string name="Shielding_of_the_message">Block message</string>
+    <string name="Sync_Groups_From_Server">从服务器下载群聊信息</string>
     <string name="The_delete_button_is_clicked">The delete button is clicked</string>
     <string name="The_file_is_not_greater_than_10_m">The file is not greater than 10 m</string>
     <string name="The_new_group_chat">Create new group</string>
@@ -240,6 +241,7 @@
     <string name="Whether_to_empty_all_chats">Clear all messages?</string>
     <string name="Whether_to_send">Are you sure to send?</string>
     <string name="add_friend">Add friends</string>
+    <string name="add_public_chat_room">添加聊天室</string>
     <string name="add_public_group_chat">Add public group</string>
     <string name="address_book">Address book</string>
     <string name="agree">Agree</string>
@@ -400,6 +402,12 @@
     <string name="translate">Translate</string>
     <string name="unable_to_connect">Unable to connect to the server</string>
     <string name="unable_to_get_loaction">Unable to get to your location information!</string>
+    <string name="update_black_list">更新黑名单</string>
+    <string name="update_black_list_failed">更新黑名单失败</string>
+    <string name="update_contact_list">更新联系人列表</string>
+    <string name="update_contact_list_failed">更新联系人列表失败</string>
+    <string name="update_groups">更新群聊</string>
+    <string name="update_groups_failed">更新群聊失败</string>
     <string name="user_card">Business card</string>
     <string name="user_name">User name</string>
     <string name="video">[Video]</string>

@@ -1,19 +1,11 @@
 <component name="libraryTable">
   <library name="support-v4-19.1.0">
     <CLASSES>
-<<<<<<< HEAD
-      <root url="jar://D:/Third/software/android-sdk_r24.3.2-windows/android-sdk-windows/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar!/" />
+      <root url="jar://E:/Android/android-sdk-windows/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://D:/Third/software/android-sdk_r24.3.2-windows/android-sdk-windows/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0-sources.jar!/" />
-=======
-      <root url="jar://$PROJECT_DIR$/../../../../Android-studio/android-sdk-windows/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../../Android-studio/android-sdk-windows/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0-sources.jar!/" />
->>>>>>> b4e7c1927c59b414898abc580679931727a109c6
+      <root url="jar://E:/Android/android-sdk-windows/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

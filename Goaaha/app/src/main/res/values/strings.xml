@@ -91,6 +91,8 @@
     <string name="Not_Set">Not set</string>
     <string name="Upload_the_log">Uploading the log</string>
     <string name="The_new_group_chat">Create new group</string>
+    <string name="add_public_group_chat">Add public group</string>
+    <string name="add_public_chat_room">添加聊天室</string>
     <string name="group_name">Group name</string>
     <string name="Group_chat_profile">Group profile</string>
     <string name="Whether_the_public">Is public</string>
@@ -259,8 +261,17 @@
     <string name="Delete_the_contact">Delete the contact</string>
     <string name="Move_into_the_blacklist_new">Move into the blacklist</string>
     <string name="Change_the_group_name">Change group name</string>
+    <string name="Sync_Groups_From_Server">从服务器下载群聊信息</string>
+
+    <string name="update_contact_list">更新联系人列表</string>
+    <string name="update_black_list">更新黑名单</string>
+    <string name="update_groups">更新群聊</string>
+
+    <string name="update_contact_list_failed">更新联系人列表失败</string>
+    <string name="update_black_list_failed">更新黑名单失败</string>
+    <string name="update_groups_failed">更新群聊失败</string>
+
     <string name="dismiss_group">Dismiss group</string>
-    <string name="add_public_group_chat">Add public group</string>
     <string name="gorup_not_found">Can not find this group</string>
     <string name="no_more_messages">no more messages</string>
     <string name="join_public_group">Join public group</string>

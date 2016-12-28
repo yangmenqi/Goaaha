@@ -2,102 +2,102 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Lie-xy\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations-java5\15.0\7011b4551a8451906759b05814c58b9eb829ea9b\annotations-java5-15.0.jar"
-        jumboMode="false"
-        revision="24.0.2"
-        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
-        <dex dex="D:\Github\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\annotations-java5-15.0_9fa5575b0770c65c07eac34cfd4dcbbb6d91e0d9.jar" />
-    </item>
-    <item
-        jar="D:\Github\Goaaha\Goaaha\app\libs\baidumapapi_search_v4_1_1.jar"
-        jumboMode="false"
-        revision="24.0.2"
-        sha1="b73dac26619f94061d28c54a7982ae8e0e783903">
-        <dex dex="D:\Github\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\baidumapapi_search_v4_1_1_c9ff920f219feaed0948d66ca0fa372c5d9b1b63.jar" />
-    </item>
-    <item
-        jar="D:\Github\Goaaha\Goaaha\app\libs\umeng-analytics-v5.2.4.jar"
+        jar="C:\Users\Lenovo\Desktop\Goaaha\app\libs\umeng-analytics-v5.2.4.jar"
         jumboMode="false"
         revision="24.0.2"
         sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
-        <dex dex="D:\Github\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.2.4_3e802e0fe925314f93363cc4f855706f10d55801.jar" />
+        <dex dex="C:\Users\Lenovo\Desktop\Goaaha\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.2.4_18b8bbad5506007c618e36215b9b7f0c1538ae61.jar" />
     </item>
     <item
-        jar="D:\Github\Goaaha\Goaaha\app\libs\baidumapapi_util_v4_1_1.jar"
-        jumboMode="false"
-        revision="24.0.2"
-        sha1="d5630c44b212b90ad64c2bc2a994cbf28d1b08a7">
-        <dex dex="D:\Github\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\baidumapapi_util_v4_1_1_2ac3e26a08031290bb5adc41a7a3e5da067c36d1.jar" />
-    </item>
-    <item
-        jar="D:\Github\Goaaha\Goaaha\app\libs\picasso-2.4.0.jar"
-        jumboMode="false"
-        revision="24.0.2"
-        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
-        <dex dex="D:\Github\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\picasso-2.4.0_674057d555c02e8046765535e03e91a93c6ec5be.jar" />
-    </item>
-    <item
-        jar="D:\Github\Goaaha\Goaaha\app\libs\org.apache.http.legacy.jar"
-        jumboMode="false"
-        revision="24.0.2"
-        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
-        <dex dex="D:\Github\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_6f2774e16307ae8dfe120cbe7dfde225139bdcfa.jar" />
-    </item>
-    <item
-        jar="D:\Github\Goaaha\Goaaha\app\libs\locSDK_6.13.jar"
-        jumboMode="false"
-        revision="24.0.2"
-        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
-        <dex dex="D:\Github\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\locSDK_6.13_f8c538c787dd46b3069e244dec3ee145025c6d77.jar" />
-    </item>
-    <item
-        jar="D:\Github\Goaaha\Goaaha\app\libs\baidumapapi_base_v4_1_1.jar"
-        jumboMode="false"
-        revision="24.0.2"
-        sha1="00cd7d6a741c6a922c9cf7b0db52a357ebf12cdb">
-        <dex dex="D:\Github\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\baidumapapi_base_v4_1_1_f5c46a2c8d8ff3c6df97edf92a12efa3b9124554.jar" />
-    </item>
-    <item
-        jar="D:\Github\Goaaha\Goaaha\app\libs\android-async-http-1.4.8.jar"
-        jumboMode="false"
-        revision="24.0.2"
-        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
-        <dex dex="D:\Github\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.8_b6e2ffaf39c04b976b70948a24099d35507c2691.jar" />
-    </item>
-    <item
-        jar="D:\Android\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
-        jumboMode="false"
-        revision="24.0.2"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="D:\Github\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_1bc213fadddb3549cfd5db94bf08f4c8b1a98000.jar" />
-    </item>
-    <item
-        jar="D:\Github\Goaaha\Goaaha\app\libs\baidumapapi_map_v4_1_1.jar"
-        jumboMode="false"
-        revision="24.0.2"
-        sha1="930064f0a91ff20ceb8dd4504b7dadec5aabea82">
-        <dex dex="D:\Github\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\baidumapapi_map_v4_1_1_75203fde591dd5b46df597361dc41a43287a0f13.jar" />
-    </item>
-    <item
-        jar="D:\Github\Goaaha\Goaaha\app\libs\baidumapapi_cloud_v4_1_1.jar"
-        jumboMode="false"
-        revision="24.0.2"
-        sha1="93ef91d018051b8b5e001eb5e106b983fee8a549">
-        <dex dex="D:\Github\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\baidumapapi_cloud_v4_1_1_c1ea1162946f8e57e04a41ea4afd5436648e9c68.jar" />
-    </item>
-    <item
-        jar="D:\Github\Goaaha\Goaaha\app\libs\easemobchat_2.2.0.jar"
-        jumboMode="false"
-        revision="24.0.2"
-        sha1="ad3b812d16c44e789fc32d6dfc36c84b824390ab">
-        <dex dex="D:\Github\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\easemobchat_2.2.0_e4eaa46c7c15a5e60f9328dd16601f206f012dc9.jar" />
-    </item>
-    <item
-        jar="D:\Github\Goaaha\Goaaha\app\libs\baidumapapi_radar_v4_1_1.jar"
+        jar="C:\Users\Lenovo\Desktop\Goaaha\app\libs\baidumapapi_radar_v4_1_1.jar"
         jumboMode="false"
         revision="24.0.2"
         sha1="ec3b3b79fdcc8fe059676554e31053027043edf8">
-        <dex dex="D:\Github\Goaaha\Goaaha\app\build\intermediates\pre-dexed\debug\baidumapapi_radar_v4_1_1_e9bcffc11106b1e011fd1d4e10a7bb179f6621e1.jar" />
+        <dex dex="C:\Users\Lenovo\Desktop\Goaaha\app\build\intermediates\pre-dexed\debug\baidumapapi_radar_v4_1_1_d157c3e388c3a40e01845647d91f838eaef40338.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Desktop\Goaaha\app\libs\baidumapapi_map_v4_1_1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="930064f0a91ff20ceb8dd4504b7dadec5aabea82">
+        <dex dex="C:\Users\Lenovo\Desktop\Goaaha\app\build\intermediates\pre-dexed\debug\baidumapapi_map_v4_1_1_e8fb91d4f228e2d5e80ae79032e2f601502e763a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Desktop\Goaaha\app\libs\locSDK_6.13.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="C:\Users\Lenovo\Desktop\Goaaha\app\build\intermediates\pre-dexed\debug\locSDK_6.13_9f94b4f7954d952d20a7f1cf9f57d1c0331900da.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Desktop\Goaaha\app\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="C:\Users\Lenovo\Desktop\Goaaha\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_df116df7edbe367c2c1983e2d41b177d3efddbb1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Desktop\Goaaha\app\libs\baidumapapi_cloud_v4_1_1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="93ef91d018051b8b5e001eb5e106b983fee8a549">
+        <dex dex="C:\Users\Lenovo\Desktop\Goaaha\app\build\intermediates\pre-dexed\debug\baidumapapi_cloud_v4_1_1_38beff6277229a671cbb78122aaad5655b8abfa4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations-java5\15.0\7011b4551a8451906759b05814c58b9eb829ea9b\annotations-java5-15.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="C:\Users\Lenovo\Desktop\Goaaha\app\build\intermediates\pre-dexed\debug\annotations-java5-15.0_1b1ae3e68cc96d9e8d42613b6316f71ed169fd36.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Desktop\Goaaha\app\libs\baidumapapi_search_v4_1_1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b73dac26619f94061d28c54a7982ae8e0e783903">
+        <dex dex="C:\Users\Lenovo\Desktop\Goaaha\app\build\intermediates\pre-dexed\debug\baidumapapi_search_v4_1_1_a3d07c8acf5f49c576e963e4cd2f2826f87b8833.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Desktop\Goaaha\app\libs\easemobchat_2.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="ad3b812d16c44e789fc32d6dfc36c84b824390ab">
+        <dex dex="C:\Users\Lenovo\Desktop\Goaaha\app\build\intermediates\pre-dexed\debug\easemobchat_2.2.0_34dbbc18c19bde7c62d8283e113c4211ea773b5b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Desktop\Goaaha\app\libs\baidumapapi_base_v4_1_1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="00cd7d6a741c6a922c9cf7b0db52a357ebf12cdb">
+        <dex dex="C:\Users\Lenovo\Desktop\Goaaha\app\build\intermediates\pre-dexed\debug\baidumapapi_base_v4_1_1_9be3e28f9de40dc35406a2694baf685ea99c2f7c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Desktop\Goaaha\app\libs\android-async-http-1.4.8.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="C:\Users\Lenovo\Desktop\Goaaha\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.8_07d84ecea6b6916bb392d437308fb8afd9a26e22.jar" />
+    </item>
+    <item
+        jar="E:\Android\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Lenovo\Desktop\Goaaha\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_4e15ee0d3c840f37e5eadc0d2f2a50b43015193e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Desktop\Goaaha\app\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\Lenovo\Desktop\Goaaha\app\build\intermediates\pre-dexed\debug\picasso-2.4.0_019709490159a655dd9b9f7957166a7b680e1825.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Desktop\Goaaha\app\libs\baidumapapi_util_v4_1_1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d5630c44b212b90ad64c2bc2a994cbf28d1b08a7">
+        <dex dex="C:\Users\Lenovo\Desktop\Goaaha\app\build\intermediates\pre-dexed\debug\baidumapapi_util_v4_1_1_640c70c82b4d00c736177a1f418d3b0bfd548dc9.jar" />
     </item>
 
 </items>

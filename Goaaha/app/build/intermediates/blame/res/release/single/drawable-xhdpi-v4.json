@@ -24,16 +24,16 @@
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\chat_video_call_pressed.png"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\new_friends_icon.png",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\new_friends_icon.png"
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\chat_image_normal.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\chat_image_normal.png"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\chat_video_mask_to.9.png",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\chat_video_mask_to.9.png"
     },
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\chat_image_normal.png",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\chat_image_normal.png"
+        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\new_friends_icon.png",
+        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\new_friends_icon.png"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\chat_takepic_normal.png",
@@ -166,10 +166,6 @@
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\icon_mute_normal.png",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\icon_mute_normal.png"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_uidemo.png",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\logo_uidemo.png"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\chat_video_pressed.png",

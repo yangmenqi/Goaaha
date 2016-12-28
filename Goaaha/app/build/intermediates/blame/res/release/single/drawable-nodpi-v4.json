@@ -1,19 +1,11 @@
 [
     {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\currency.png",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\currency.png"
-    },
-    {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\text_bg.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\text_bg.xml"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\pswd.png",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\pswd.png"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\map.png",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\map.png"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\empty_photo.png",
@@ -46,9 +38,5 @@
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\voice_from_icon.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\voice_from_icon.xml"
-    },
-    {
-        "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\chat.png",
-        "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-nodpi\\chat.png"
     }
 ]

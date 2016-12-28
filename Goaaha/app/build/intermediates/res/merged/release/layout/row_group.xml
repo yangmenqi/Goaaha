@@ -2,16 +2,17 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="60dp"
-    android:background="@drawable/mm_listitem"
-    android:gravity="center_vertical" >
+    android:paddingTop="7dp"
+    android:paddingBottom="7dp"
+    android:background="@drawable/mm_listitem">
 
-    <ImageView
+    <com.easemob.chatuidemo.activity.RoundImageView
         android:id="@+id/avatar"
-        android:layout_width="55dp"
-        android:layout_height="55dp"
-        android:layout_alignParentLeft="true"
-        android:layout_marginLeft="4dp"
-        android:padding="5dp"
+        android:layout_width="43dp"
+        android:layout_height="43dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="11dp"
+        android:scaleType="fitXY"
         android:src="@drawable/group_icon" />
 
     <TextView
@@ -19,7 +20,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
-        android:layout_marginLeft="7dp"
+        android:layout_marginLeft="11dp"
         android:layout_toRightOf="@id/avatar"
         android:textColor="#8C8C8C"
         android:textSize="16sp" />

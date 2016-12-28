@@ -8,33 +8,12 @@
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\remove_from_blacklist.xml"
     },
     {
-        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
-        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\context_contact_list.xml"
-    },
-    {
-        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_message.xml",
-        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\delete_message.xml"
-    },
-    {
-<<<<<<< HEAD
-        "merged": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_contact.xml",
-        "source": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\delete_contact.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
-        "source": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\context_contact_list.xml"
-=======
-        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_contact.xml",
-        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\delete_contact.xml"
->>>>>>> b4e7c1927c59b414898abc580679931727a109c6
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\menu\\context_tab_contact.xml"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_contact.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\delete_contact.xml"
-    },
-    {
-        "merged": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_message.xml",
-        "source": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\delete_message.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
@@ -45,25 +24,20 @@
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\delete_message.xml"
     },
     {
-        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
-        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\context_contact_list.xml"
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_message.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\menu\\delete_message.xml"
     },
     {
-<<<<<<< HEAD
-        "merged": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
-        "source": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\context_tab_contact.xml"
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\remove_from_blacklist.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\menu\\remove_from_blacklist.xml"
     },
     {
-        "merged": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\remove_from_blacklist.xml",
-        "source": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\remove_from_blacklist.xml"
-=======
-        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
-        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\context_tab_contact.xml"
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_contact.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\menu\\delete_contact.xml"
     },
     {
-        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\remove_from_blacklist.xml",
-        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\remove_from_blacklist.xml"
->>>>>>> b4e7c1927c59b414898abc580679931727a109c6
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\menu\\context_contact_list.xml"
     },
     {
         "merged": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
@@ -74,24 +48,8 @@
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\delete_contact.xml"
     },
     {
-        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\remove_from_blacklist.xml",
-        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\remove_from_blacklist.xml"
-    },
-    {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
         "source": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\context_tab_contact.xml"
-    },
-    {
-        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
-        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\context_tab_contact.xml"
-    },
-    {
-        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_contact.xml",
-        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\delete_contact.xml"
-    },
-    {
-        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_message.xml",
-        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\delete_message.xml"
     },
     {
         "merged": "E:\\Mygithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",

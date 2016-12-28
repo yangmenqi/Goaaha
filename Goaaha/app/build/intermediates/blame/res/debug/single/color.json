@@ -8,16 +8,7 @@
         "source": "G:\\AndroidStudio\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\color\\main_botton_text_color.xml"
     },
     {
-        "merged": "D:\\Github\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\color\\main_botton_text_color.xml",
-        "source": "D:\\Github\\Goaaha\\Goaaha\\app\\src\\main\\res\\color\\main_botton_text_color.xml"
-    },
-    {
-<<<<<<< HEAD
-        "merged": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\color\\main_botton_text_color.xml",
-        "source": "E:\\item\\Mygit1\\Goaaha\\Goaaha\\app\\src\\main\\res\\color\\main_botton_text_color.xml"
-=======
-        "merged": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\color\\main_botton_text_color.xml",
-        "source": "E:\\study\\java\\android-program\\MyGithub\\Goaaha\\Goaaha\\app\\src\\main\\res\\color\\main_botton_text_color.xml"
->>>>>>> b4e7c1927c59b414898abc580679931727a109c6
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\color\\main_botton_text_color.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Goaaha\\app\\src\\main\\res\\color\\main_botton_text_color.xml"
     }
 ]
